@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kanji Flashcards</title>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+
+  <!-- wana-kana : romaji → hiragana conversion (local, no external dependency) -->
+  <script src="libs/wanakana.min.js"></script>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+
+  <!-- ======================================================
+       VIEW : HOME
+       ====================================================== -->
+  <div id="view-home" class="view">
+    <div class="app-header">
+      <h1>漢字 Flashcards</h1>
+    </div>
+    <div class="home-body">
+      <div id="collections-grid" class="collections-grid"></div>
+    </div>
+    <div class="home-bar">
+      <button class="btn btn-ghost btn-sm" id="btn-import">⬆ Importer JSON</button>
+      <button class="btn btn-ghost btn-sm" id="btn-export-all">⬇ Exporter tout</button>
+      <input type="file" id="file-import" accept=".json">
+    </div>
+  </div>
+
+  <!-- ======================================================
+       VIEW : COLLECTION DETAIL
+       ====================================================== -->
+  <div id="view-collection" class="view">
+    <div class="app-header">
+      <button class="back-btn" id="coll-back-btn">← Retour</button>
+      <h1 id="coll-name"></h1>
+    </div>
+    <div class="coll-body">
+      <div class="coll-info-card">
+        <div id="srs-status" class="srs-status"></div>
+        <div class="mode-btns">
+          <button class="btn btn-primary" id="btn-drill">▶ Drill</button>
+          <button class="btn btn-srs"     id="btn-srs">⏰ SRS</button>
+        </div>
+        <button class="btn btn-ghost btn-sm" id="btn-export-coll">⬇ Exporter cette collection</button>
+      </div>
+      <div id="coll-preview"></div>
+    </div>
+  </div>
+
+  <!-- ======================================================
+       VIEW : SESSION (quiz)
+       ====================================================== -->
+  <div id="view-session" class="view">
+    <div class="session-header">
+      <div class="session-top">
+        <button class="back-btn" id="session-back-btn">✕</button>
+        <div id="phase-label" class="phase-label"></div>
+        <div id="phase-dots" class="phase-dots"></div>
+      </div>
+      <div class="progress-bar">
+        <div id="progress-fill" class="progress-fill" style="width:0%"></div>
+      </div>
+      <div id="progress-text" class="progress-text"></div>
+    </div>
+
+    <div class="card-area">
+      <div id="card-type-badge" class="card-type-badge"></div>
+      <div id="card-display"    class="card-display size-xl"></div>
+      <div id="card-context"    class="card-context"></div>
+      <div id="card-translation" class="card-translation"></div>
+    </div>
+
+    <div class="input-area">
+      <input
+        type="text" id="answer-input"
+        autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"
+        placeholder="Hiragana ou romaji…"
+      >
+      <button class="btn btn-primary" id="submit-btn">Valider</button>
+    </div>
+
+    <div id="answer-feedback" class="answer-feedback hidden"></div>
+
+    <div id="srs-quality-bar" class="srs-quality-bar">
+      <span class="label">Difficulté :</span>
+      <!-- buttons injected by JS -->
+    </div>
+  </div>
+
+  <!-- ======================================================
+       VIEW : RESULTS
+       ====================================================== -->
+  <div id="view-results" class="view">
+    <div class="app-header">
+      <h1>Résultats</h1>
+    </div>
+    <div class="results-body">
+      <div id="results-title"    class="results-title"></div>
+      <div id="results-subtitle" class="results-subtitle"></div>
+      <div id="results-breakdown"></div>
+    </div>
+    <div class="results-actions">
+      <button class="btn btn-primary"  id="btn-restart">Rejouer</button>
+      <button class="btn btn-ghost"    id="btn-results-home">Accueil</button>
+    </div>
+  </div>
+
+</div><!-- #app -->
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
