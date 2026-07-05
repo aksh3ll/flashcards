@@ -76,9 +76,12 @@ function getDueItems(coll) {
 /* ============================================================
    ANSWER CHECKING
    ============================================================ */
+const PUNCT_RE = /[\s\u3000\u3001\u3002\uff01\uff0c\uff0e\uff1f\u30fb！？、。・…,.!?]+/g;
+
 function normalize(str) {
-  const s = str.trim().toLowerCase();
-  return (typeof wanakana !== 'undefined') ? wanakana.toHiragana(s) : s;
+  const s = str.trim().toLowerCase().replace(PUNCT_RE, '');
+  const h = (typeof wanakana !== 'undefined') ? wanakana.toHiragana(s) : s;
+  return h.replace(PUNCT_RE, '');
 }
 
 function checkAnswer(input, card) {
