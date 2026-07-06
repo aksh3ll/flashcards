@@ -461,3 +461,137 @@ body {
   .collections-grid { grid-template-columns: 1fr; }
   .mode-btns .btn { font-size: .85rem; }
 }
+
+/* ============================================================
+   GLOBAL CONTROLS (language + auth)
+   ============================================================ */
+#global-controls {
+  position: fixed;
+  top: 8px;
+  right: 10px;
+  z-index: 150;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.ctrl-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(255,255,255,.22);
+  cursor: pointer;
+  font-size: 1.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background .15s;
+  overflow: hidden;
+  padding: 0;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+.ctrl-btn:hover { background: rgba(255,255,255,.38); }
+.ctrl-btn.signed-in { background: rgba(255,255,255,.92); color: var(--red); }
+
+.auth-btn-avatar {
+  width: 100%; height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+}
+.auth-btn-initial { font-size: .95rem; font-weight: 700; }
+
+/* ============================================================
+   AUTH MODAL
+   ============================================================ */
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.45);
+  z-index: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.modal-backdrop.hidden { display: none; }
+
+.modal-box {
+  background: var(--surface);
+  border-radius: var(--radius);
+  padding: 1.6rem 1.5rem 1.5rem;
+  width: min(320px, 90vw);
+  box-shadow: var(--shadow-md);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: .75rem;
+}
+
+.modal-close {
+  position: absolute;
+  top: .6rem; right: .7rem;
+  background: none;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+  color: var(--muted);
+  padding: .2rem .4rem;
+  border-radius: 4px;
+  line-height: 1;
+}
+.modal-close:hover { background: var(--bg); }
+
+.auth-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: .25rem;
+}
+
+.btn-auth-provider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .6rem;
+  width: 100%;
+  padding: .65rem 1rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: .9rem;
+  font-weight: 500;
+  font-family: inherit;
+  transition: opacity .15s;
+}
+.btn-auth-provider:hover { opacity: .85; }
+.btn-google { background: #fff; color: #3c4043; border: 1.5px solid #dadce0; }
+.btn-github { background: #24292f; color: #fff; }
+
+.auth-user {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: .5rem;
+  padding: .5rem 0 .25rem;
+}
+.auth-avatar {
+  width: 56px; height: 56px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.auth-avatar-initial {
+  width: 56px; height: 56px;
+  border-radius: 50%;
+  background: var(--red);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+.auth-name {
+  font-weight: 600;
+  font-size: .95rem;
+}

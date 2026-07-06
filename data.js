@@ -1343,5 +1343,180 @@ const DEFAULT_COLLECTIONS = [
       { id: "k15", wordIds: ["w16"],                 kanji: "目", readings: ["もく", "め"],                   en: "eye, goal",        fr: "œil, objectif" },
       { id: "k16", wordIds: ["w13", "w17"],          kanji: "先", readings: ["せん", "さき"],                 en: "ahead, previous",  fr: "devant, précédent" }
     ]
+  },
+  {
+    id: "2nensei-yomitori-5",
+    name: "２年生 よみとり 5",
+    sentences: [
+      {
+        id: "s1",
+        display: "二年二組の教室。",
+        hiragana: "にねんにくみのきょうしつ。",
+        en: "The classroom of year 2, class 2.",
+        fr: "La salle de classe de 2e année, 2e groupe."
+      },
+      {
+        id: "s2",
+        display: "後ろをむく。",
+        hiragana: "うしろをむく。",
+        en: "To turn around.",
+        fr: "Se retourner."
+      },
+      {
+        id: "s3",
+        display: "だんごを丸める。",
+        hiragana: "だんごをまるめる。",
+        en: "To roll into a ball.",
+        fr: "Former en boule."
+      },
+      {
+        id: "s4",
+        display: "点数をつける。",
+        hiragana: "てんすうをつける。",
+        en: "To assign points.",
+        fr: "Attribuer des points."
+      },
+      {
+        id: "s5",
+        display: "店でふくを買う。",
+        hiragana: "みせでふくをかう。",
+        en: "To buy clothes at a store.",
+        fr: "Acheter des vêtements dans un magasin."
+      },
+      {
+        id: "s6",
+        display: "友だちとあそぶ。",
+        hiragana: "ともだちとあそぶ。",
+        en: "To play with friends.",
+        fr: "Jouer avec des amis."
+      },
+      {
+        id: "s7",
+        display: "鳥の羽をひろう。",
+        hiragana: "とりのはをひろう。",
+        en: "To pick up a bird's feather.",
+        fr: "Ramasser la plume d'un oiseau."
+      },
+      {
+        id: "s8",
+        display: "白い雲がうかぶ。",
+        hiragana: "しろいくもがうかぶ。",
+        en: "White clouds float.",
+        fr: "Des nuages blancs flottent."
+      },
+      {
+        id: "s9",
+        display: "楽しい夏まつり。",
+        hiragana: "たのしいなつまつり。",
+        en: "A fun summer festival.",
+        fr: "Un joyeux festival d'été."
+      },
+      {
+        id: "s10",
+        display: "公園であそぶ。",
+        hiragana: "こうえんであそぶ。",
+        en: "To play in the park.",
+        fr: "Jouer au parc."
+      },
+      {
+        id: "s11",
+        display: "せまい道を通る。",
+        hiragana: "せまいみちをとおる。",
+        en: "To pass through a narrow path.",
+        fr: "Passer par un chemin étroit."
+      },
+      {
+        id: "s12",
+        display: "一万円。",
+        hiragana: "いちまんえん。",
+        en: "Ten thousand yen.",
+        fr: "Dix mille yens."
+      },
+      {
+        id: "s13",
+        display: "頭をぶつける。",
+        hiragana: "あたまをぶつける。",
+        en: "To bump one's head.",
+        fr: "Se cogner la tête."
+      },
+      {
+        id: "s14",
+        display: "朝ごはんを食べる。",
+        hiragana: "あさごはんをたべる。",
+        en: "To eat breakfast.",
+        fr: "Prendre le petit-déjeuner."
+      },
+      {
+        id: "s15",
+        display: "白鳥のみずうみ。",
+        hiragana: "はくちょうのみずうみ。",
+        en: "Swan lake.",
+        fr: "Le lac des cygnes."
+      },
+      {
+        id: "s16",
+        display: "通行止めになる。",
+        hiragana: "つうこうどめになる。",
+        en: "To become a road closure.",
+        fr: "Être fermé à la circulation."
+      }
+    ],
+    words: [
+      { id: "w1",  sentenceIds: ["s1"],        display: "二年二組", hiragana: "にねんにくみ",   en: "year 2 class 2",    fr: "2e année, 2e groupe" },
+      { id: "w2",  sentenceIds: ["s1"],        display: "教室",     hiragana: "きょうしつ",   en: "classroom",         fr: "salle de classe" },
+      { id: "w3",  sentenceIds: ["s2"],        display: "後ろ",     hiragana: "うしろ",       en: "behind, back",      fr: "derrière, dos" },
+      { id: "w4",  sentenceIds: ["s3"],        display: "丸める",   hiragana: "まるめる",     en: "to roll into a ball", fr: "former en boule" },
+      { id: "w5",  sentenceIds: ["s4"],        display: "点数",     hiragana: "てんすう",     en: "points, score",     fr: "points, score" },
+      { id: "w6",  sentenceIds: ["s5"],        display: "店",       hiragana: "みせ",         en: "store, shop",       fr: "magasin, boutique" },
+      { id: "w7",  sentenceIds: ["s5"],        display: "買う",     hiragana: "かう",         en: "to buy",            fr: "acheter" },
+      { id: "w8",  sentenceIds: ["s6"],        display: "友だち",   hiragana: "ともだち",     en: "friend",            fr: "ami" },
+      { id: "w9",  sentenceIds: ["s7"],        display: "鳥",       hiragana: "とり",         en: "bird",              fr: "oiseau" },
+      { id: "w10", sentenceIds: ["s7"],        display: "羽",       hiragana: "は",           en: "feather, wing",     fr: "plume, aile" },
+      { id: "w11", sentenceIds: ["s8"],        display: "白い",     hiragana: "しろい",       en: "white",             fr: "blanc" },
+      { id: "w12", sentenceIds: ["s8"],        display: "雲",       hiragana: "くも",         en: "cloud",             fr: "nuage" },
+      { id: "w13", sentenceIds: ["s9"],        display: "楽しい",   hiragana: "たのしい",     en: "fun, enjoyable",    fr: "amusant, agréable" },
+      { id: "w14", sentenceIds: ["s9"],        display: "夏",       hiragana: "なつ",         en: "summer",            fr: "été" },
+      { id: "w15", sentenceIds: ["s10"],       display: "公園",     hiragana: "こうえん",     en: "park",              fr: "parc" },
+      { id: "w16", sentenceIds: ["s11"],       display: "道",       hiragana: "みち",         en: "road, path",        fr: "chemin, route" },
+      { id: "w17", sentenceIds: ["s11"],       display: "通る",     hiragana: "とおる",       en: "to pass through",   fr: "passer par" },
+      { id: "w18", sentenceIds: ["s12"],       display: "一万円",   hiragana: "いちまんえん", en: "ten thousand yen",  fr: "dix mille yens" },
+      { id: "w19", sentenceIds: ["s13"],       display: "頭",       hiragana: "あたま",       en: "head",              fr: "tête" },
+      { id: "w20", sentenceIds: ["s14"],       display: "朝",       hiragana: "あさ",         en: "morning",           fr: "matin" },
+      { id: "w21", sentenceIds: ["s14"],       display: "食べる",   hiragana: "たべる",       en: "to eat",            fr: "manger" },
+      { id: "w22", sentenceIds: ["s15"],       display: "白鳥",     hiragana: "はくちょう",   en: "swan",              fr: "cygne" },
+      { id: "w23", sentenceIds: ["s16"],       display: "通行止め", hiragana: "つうこうどめ", en: "road closure",      fr: "fermeture de route" }
+    ],
+    kanjis: [
+      { id: "k1",  wordIds: ["w1"],             kanji: "二", readings: ["に"],                               en: "two",              fr: "deux" },
+      { id: "k2",  wordIds: ["w1"],             kanji: "年", readings: ["ねん", "とし"],                     en: "year",             fr: "année" },
+      { id: "k3",  wordIds: ["w1"],             kanji: "組", readings: ["そ", "くみ"],                       en: "class, group",     fr: "groupe, classe" },
+      { id: "k4",  wordIds: ["w2"],             kanji: "教", readings: ["きょう", "おし"],                   en: "teach, education", fr: "enseigner, éducation" },
+      { id: "k5",  wordIds: ["w2"],             kanji: "室", readings: ["しつ"],                             en: "room",             fr: "salle, pièce" },
+      { id: "k6",  wordIds: ["w3"],             kanji: "後", readings: ["ご", "こう", "あと"],               en: "after, behind",    fr: "après, derrière" },
+      { id: "k7",  wordIds: ["w4"],             kanji: "丸", readings: ["がん", "まる"],                     en: "round, circle",    fr: "rond, cercle" },
+      { id: "k8",  wordIds: ["w5"],             kanji: "点", readings: ["てん"],                             en: "point, dot",       fr: "point" },
+      { id: "k9",  wordIds: ["w5"],             kanji: "数", readings: ["すう", "かず"],                     en: "number, count",    fr: "nombre, compter" },
+      { id: "k10", wordIds: ["w6"],             kanji: "店", readings: ["てん", "みせ"],                     en: "store, shop",      fr: "magasin, boutique" },
+      { id: "k11", wordIds: ["w7"],             kanji: "買", readings: ["ばい", "か"],                       en: "buy",              fr: "acheter" },
+      { id: "k12", wordIds: ["w8"],             kanji: "友", readings: ["ゆう", "とも"],                     en: "friend",           fr: "ami" },
+      { id: "k13", wordIds: ["w9", "w22"],      kanji: "鳥", readings: ["ちょう", "とり"],                   en: "bird",             fr: "oiseau" },
+      { id: "k14", wordIds: ["w10"],            kanji: "羽", readings: ["う", "は", "はね"],                 en: "feather, wing",    fr: "plume, aile" },
+      { id: "k15", wordIds: ["w11", "w22"],     kanji: "白", readings: ["はく", "しろ"],                     en: "white",            fr: "blanc" },
+      { id: "k16", wordIds: ["w12"],            kanji: "雲", readings: ["うん", "くも"],                     en: "cloud",            fr: "nuage" },
+      { id: "k17", wordIds: ["w13"],            kanji: "楽", readings: ["がく", "らく", "たの"],             en: "music, comfort",   fr: "musique, plaisir" },
+      { id: "k18", wordIds: ["w14"],            kanji: "夏", readings: ["か", "なつ"],                       en: "summer",           fr: "été" },
+      { id: "k19", wordIds: ["w15"],            kanji: "公", readings: ["こう"],                             en: "public",           fr: "public" },
+      { id: "k20", wordIds: ["w15"],            kanji: "園", readings: ["えん"],                             en: "garden, park",     fr: "jardin, parc" },
+      { id: "k21", wordIds: ["w16"],            kanji: "道", readings: ["どう", "みち"],                     en: "road, way",        fr: "route, chemin" },
+      { id: "k22", wordIds: ["w17", "w23"],     kanji: "通", readings: ["つう", "とお"],                     en: "pass, commute",    fr: "passer, trajet" },
+      { id: "k23", wordIds: ["w18"],            kanji: "一", readings: ["いち", "いつ", "ひと"],             en: "one",              fr: "un" },
+      { id: "k24", wordIds: ["w18"],            kanji: "万", readings: ["まん", "ばん"],                     en: "ten thousand",     fr: "dix mille" },
+      { id: "k25", wordIds: ["w18"],            kanji: "円", readings: ["えん"],                             en: "yen, circle",      fr: "yen, cercle" },
+      { id: "k26", wordIds: ["w19"],            kanji: "頭", readings: ["とう", "ず", "あたま"],             en: "head",             fr: "tête" },
+      { id: "k27", wordIds: ["w20"],            kanji: "朝", readings: ["ちょう", "あさ"],                   en: "morning",          fr: "matin" },
+      { id: "k28", wordIds: ["w21"],            kanji: "食", readings: ["しょく", "じき", "た"],             en: "eat, food",        fr: "manger, nourriture" },
+      { id: "k29", wordIds: ["w23"],            kanji: "行", readings: ["こう", "ぎょう", "い", "おこな"],   en: "go, conduct",      fr: "aller, conduire" },
+      { id: "k30", wordIds: ["w23"],            kanji: "止", readings: ["し", "と"],                         en: "stop",             fr: "arrêter, stopper" }
+    ]
   }
 ];

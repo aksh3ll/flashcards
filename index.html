@@ -101,7 +101,7 @@
        ====================================================== -->
   <div id="view-results" class="view">
     <div class="app-header">
-      <h1>Résultats</h1>
+      <h1 id="results-h1">Résultats</h1>
     </div>
     <div class="results-body">
       <div id="results-title"    class="results-title"></div>
@@ -115,6 +115,20 @@
   </div>
 
 </div><!-- #app -->
+
+<!-- Global controls: language + auth (always on top) -->
+<div id="global-controls">
+  <button id="btn-lang"  class="ctrl-btn" title="Language">🇫🇷</button>
+  <button id="btn-auth"  class="ctrl-btn" title="Sign in">👤</button>
+</div>
+
+<!-- Auth modal -->
+<div id="auth-modal" class="modal-backdrop hidden">
+  <div class="modal-box">
+    <button id="auth-modal-close" class="modal-close">✕</button>
+    <div id="auth-modal-inner"></div>
+  </div>
+</div>
 
 <script src="data.js"></script>
 <script src="app.js"></script>

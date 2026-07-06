@@ -1,19 +1,176 @@
 /* ============================================================
+   API BASE URL
+   ============================================================ */
+const API_BASE = 'http://flashcards.akshell.eu/api/v1';
+
+/* ============================================================
+   INTERNATIONALISATION
+   ============================================================ */
+const I18N = {
+  fr: {
+    back:          '← Retour',
+    drill:         '▶ Drill',
+    srs:           '⏰ SRS',
+    exportColl:    '⬇ Exporter cette collection',
+    results:       'Résultats',
+    restart:       'Rejouer',
+    homeBtn:       'Accueil',
+    importJson:    '⬆ Importer JSON',
+    exportAll:     '⬇ Exporter tout',
+    placeholder:   'Hiragana ou romaji…',
+    submit:        'Valider',
+    difficulty:    'Difficulté :',
+    srsMode:       'Révision SRS',
+    phases:        ['Phrases', 'Mots', 'Kanjis'],
+    correct:       'Correct !',
+    continueBtn:   'Continuer →',
+    correctAnswer: 'Bonne réponse :',
+    youWrote:      'Tu as écrit :',
+    accepted:      'Lecture(s) acceptée(s) :',
+    noDueToast:    "Aucune carte à réviser aujourd'hui !",
+    dueCount:      n  => `${n} carte${n > 1 ? 's' : ''} à réviser aujourd'hui`,
+    noDue:         "Aucune carte à réviser pour aujourd'hui",
+    quitConfirm:   'Quitter la session en cours ?',
+    perfect:       '🎉 Parfait !',
+    sessionDone:   '✅ Session terminée',
+    score:         (ok, n) => `${ok} / ${n} ${n === 1 ? 'carte' : 'cartes'} correcte${n > 1 ? 's' : ''}`,
+    phaseToast:    (n, name) => `Phase ${n} : ${name}`,
+    srcWord:       w  => `Dans le mot : ${w.display} (${w.hiragana})`,
+    emptyState:    'Aucune collection.<br>Importez un fichier JSON pour commencer.',
+    importInvalid: 'Format invalide. Utilisez un fichier exporté par cette application.',
+    alreadyLoaded: 'Ces collections sont déjà chargées.',
+    imported:      n  => `${n} collection(s) importée(s) ✓`,
+    readError:     'Erreur lors de la lecture du fichier JSON.',
+    qualityLabels: ['À revoir', 'Difficile', 'Bien', 'Facile'],
+    phrases: 'Phrases', words: 'Mots', kanjis: 'Kanjis',
+    signIn:        'Se connecter',
+    signOut:       'Se déconnecter',
+    syncOk:        n => `${n} collection(s) synchronisée(s) ✓`,
+    syncError:     'Erreur de synchronisation',
+    syncing:       'Synchronisation…',
+    withGoogle:    'Continuer avec Google',
+    withGitHub:    'Continuer avec GitHub',
+    signedInAs:    name => `Connecté : ${name}`,
+  },
+  en: {
+    back:          '← Back',
+    drill:         '▶ Drill',
+    srs:           '⏰ SRS',
+    exportColl:    '⬇ Export this collection',
+    results:       'Results',
+    restart:       'Play again',
+    homeBtn:       'Home',
+    importJson:    '⬆ Import JSON',
+    exportAll:     '⬇ Export all',
+    placeholder:   'Hiragana or romaji…',
+    submit:        'Submit',
+    difficulty:    'Difficulty:',
+    srsMode:       'SRS Review',
+    phases:        ['Sentences', 'Words', 'Kanjis'],
+    correct:       'Correct!',
+    continueBtn:   'Continue →',
+    correctAnswer: 'Correct answer:',
+    youWrote:      'You wrote:',
+    accepted:      'Accepted reading(s):',
+    noDueToast:    'No cards due today!',
+    dueCount:      n  => `${n} card${n !== 1 ? 's' : ''} due today`,
+    noDue:         'No cards due today',
+    quitConfirm:   'Quit the current session?',
+    perfect:       '🎉 Perfect!',
+    sessionDone:   '✅ Session complete',
+    score:         (ok, n) => `${ok} / ${n} ${n === 1 ? 'card' : 'cards'} correct`,
+    phaseToast:    (n, name) => `Phase ${n}: ${name}`,
+    srcWord:       w  => `In word: ${w.display} (${w.hiragana})`,
+    emptyState:    'No collections.<br>Import a JSON file to get started.',
+    importInvalid: 'Invalid format. Use a file exported by this app.',
+    alreadyLoaded: 'These collections are already loaded.',
+    imported:      n  => `${n} collection(s) imported ✓`,
+    readError:     'Error reading the JSON file.',
+    qualityLabels: ['Again', 'Hard', 'Good', 'Easy'],
+    phrases: 'Sentences', words: 'Words', kanjis: 'Kanjis',
+    signIn:        'Sign in',
+    signOut:       'Sign out',
+    syncOk:        n => `${n} collection(s) synced ✓`,
+    syncError:     'Sync error',
+    syncing:       'Syncing…',
+    withGoogle:    'Continue with Google',
+    withGitHub:    'Continue with GitHub',
+    signedInAs:    name => `Signed in: ${name}`,
+  }
+};
+
+function i18n(key, ...args) {
+  const dict = I18N[state.lang] || I18N.fr;
+  const val = dict[key];
+  if (typeof val === 'function') return val(...args);
+  return val != null ? val : key;
+}
+
+/* ============================================================
    STATE
    ============================================================ */
 const state = {
-  collections: [],    // merged DEFAULT_COLLECTIONS + imported
-  currentCollId: null,
+  collections:    [],
+  currentCollId:  null,
   currentSession: null,
-  lang: 'fr'         // 'fr' | 'en'
+  currentView:    'home',
+  lang:           'fr',
+  auth:           null,
 };
+
+/* ============================================================
+   COOKIES
+   ============================================================ */
+function getCookie(name) {
+  const entry = document.cookie.split(';')
+    .map(c => c.trim())
+    .find(c => c.startsWith(name + '='));
+  return entry ? decodeURIComponent(entry.slice(name.length + 1)) : null;
+}
+function setCookie(name, value, days = 365) {
+  const exp = new Date(Date.now() + days * 864e5).toUTCString();
+  document.cookie = `${name}=${encodeURIComponent(value)};expires=${exp};path=/;SameSite=Lax`;
+}
+function deleteCookie(name) {
+  document.cookie = `${name}=;expires=Thu, 01 Jan 1970 00:00:00 UTC;path=/`;
+}
+
+/* ============================================================
+   LANGUAGE
+   ============================================================ */
+function detectLang() {
+  const saved = getCookie('fc_lang');
+  if (saved === 'fr' || saved === 'en') return saved;
+  for (const l of (navigator.languages || [navigator.language || 'fr'])) {
+    if (l.startsWith('fr')) return 'fr';
+    if (l.startsWith('en')) return 'en';
+  }
+  return 'fr';
+}
+
+function setLang(lang, saveCookie = false) {
+  state.lang = lang;
+  document.documentElement.lang = lang;
+  document.getElementById('btn-lang').textContent = lang === 'fr' ? '🇫🇷' : '🇬🇧';
+  if (saveCookie) setCookie('fc_lang', lang);
+  translateUI();
+  switch (state.currentView) {
+    case 'home':       renderHome(); break;
+    case 'collection': renderCollection(state.currentCollId); break;
+    case 'results':    renderResults(); break;
+    case 'session':    renderCard(); break;
+  }
+}
 
 /* ============================================================
    STORAGE
    ============================================================ */
 const KEYS = {
-  IMPORTED: 'fc_imported',
-  SRS:      'fc_srs'
+  IMPORTED:     'fc_imported',
+  SRS:          'fc_srs',
+  SRS_REMOTE:   'fc_srs_remote',
+  AUTH:         'fc_auth',
+  REMOTE_COLLS: 'fc_remote_colls',
 };
 
 function loadImported() {
@@ -24,11 +181,90 @@ function saveImported(arr) {
   localStorage.setItem(KEYS.IMPORTED, JSON.stringify(arr));
 }
 function loadSRS() {
-  try { return JSON.parse(localStorage.getItem(KEYS.SRS) || '{}'); }
+  const key = state.auth ? KEYS.SRS_REMOTE : KEYS.SRS;
+  try { return JSON.parse(localStorage.getItem(key) || '{}'); }
   catch { return {}; }
 }
 function saveSRS(data) {
-  localStorage.setItem(KEYS.SRS, JSON.stringify(data));
+  const key = state.auth ? KEYS.SRS_REMOTE : KEYS.SRS;
+  localStorage.setItem(key, JSON.stringify(data));
+  if (state.auth) pushSRS(data);
+}
+function loadRemoteColls() {
+  try { return JSON.parse(localStorage.getItem(KEYS.REMOTE_COLLS) || '[]'); }
+  catch { return []; }
+}
+
+/* ============================================================
+   AUTH
+   ============================================================ */
+function loadAuth() {
+  try { return JSON.parse(localStorage.getItem(KEYS.AUTH) || 'null'); }
+  catch { return null; }
+}
+function saveAuth(data) { localStorage.setItem(KEYS.AUTH, JSON.stringify(data)); }
+function clearAuth() {
+  localStorage.removeItem(KEYS.AUTH);
+  localStorage.removeItem(KEYS.SRS_REMOTE);
+  localStorage.removeItem(KEYS.REMOTE_COLLS);
+}
+
+async function apiFetch(path, opts = {}) {
+  const headers = { 'Content-Type': 'application/json', ...(opts.headers || {}) };
+  if (state.auth?.token) headers['Authorization'] = `Bearer ${state.auth.token}`;
+  const res = await fetch(`${API_BASE}${path}`, { ...opts, headers });
+  if (!res.ok) throw new Error(res.status);
+  return res.json();
+}
+
+async function fetchAndCacheRemote() {
+  if (!state.auth) return;
+  try {
+    toast(i18n('syncing'));
+    const [colls, srsData] = await Promise.all([
+      apiFetch('/collections'),
+      apiFetch('/srs'),
+    ]);
+    if (Array.isArray(colls))
+      localStorage.setItem(KEYS.REMOTE_COLLS, JSON.stringify(colls));
+    if (srsData && typeof srsData === 'object')
+      localStorage.setItem(KEYS.SRS_REMOTE, JSON.stringify(srsData));
+    state.collections = mergeCollections();
+    renderHome();
+    toast(i18n('syncOk', Array.isArray(colls) ? colls.length : 0));
+  } catch {
+    toast(i18n('syncError'));
+  }
+}
+
+async function pushSRS(data) {
+  if (!state.auth) return;
+  try { await apiFetch('/srs', { method: 'PUT', body: JSON.stringify(data) }); }
+  catch { /* silent — local copy already saved */ }
+}
+
+function mergeCollections() {
+  const remote   = loadRemoteColls();
+  const imported = loadImported();
+  const remoteIds  = new Set(remote.map(c => c.id));
+  const impFiltered = imported.filter(c => !remoteIds.has(c.id));
+  const allIds   = new Set([...remote, ...impFiltered].map(c => c.id));
+  const defFiltered = DEFAULT_COLLECTIONS.filter(c => !allIds.has(c.id));
+  return [...defFiltered, ...impFiltered, ...remote];
+}
+
+function handleOAuthCallback() {
+  const params = new URLSearchParams(window.location.search);
+  const token  = params.get('token');
+  if (!token) return;
+  const auth = {
+    token,
+    name:   params.get('user_name')   || params.get('name')   || 'User',
+    avatar: params.get('user_avatar') || params.get('avatar') || null,
+  };
+  saveAuth(auth);
+  state.auth = auth;
+  window.history.replaceState({}, '', window.location.pathname);
 }
 
 /* ============================================================
@@ -188,11 +424,11 @@ class Session {
   resultsSummary() {
     if (this.mode === 'srs') {
       const s = this.stats[0];
-      return s.total > 0 ? [{ label: 'Session SRS', total: s.total, correct: s.correct }] : [];
+      return s.total > 0 ? [{ label: i18n('srsMode'), total: s.total, correct: s.correct }] : [];
     }
-    const labels = ['Phrases', 'Mots', 'Kanjis'];
+    const phases = i18n('phases');
     return this.stats
-      .map((s, i) => ({ label: labels[i], total: s.total, correct: s.correct }))
+      .map((s, idx) => ({ label: phases[idx], total: s.total, correct: s.correct }))
       .filter(r => r.total > 0);
   }
 }
@@ -248,11 +484,91 @@ function cardSizeClass(text) {
 }
 
 /* ============================================================
+   UI TRANSLATION — static labels
+   ============================================================ */
+function translateUI() {
+  const $ = id => document.getElementById(id);
+  $('btn-import').textContent       = i18n('importJson');
+  $('btn-export-all').textContent   = i18n('exportAll');
+  $('coll-back-btn').textContent    = i18n('back');
+  $('btn-drill').textContent        = i18n('drill');
+  $('btn-srs').textContent          = i18n('srs');
+  $('btn-export-coll').textContent  = i18n('exportColl');
+  $('answer-input').placeholder     = i18n('placeholder');
+  $('submit-btn').textContent       = i18n('submit');
+  $('results-h1').textContent       = i18n('results');
+  $('btn-restart').textContent      = i18n('restart');
+  $('btn-results-home').textContent = i18n('homeBtn');
+  updateAuthButton();
+}
+
+/* ============================================================
+   AUTH UI
+   ============================================================ */
+function updateAuthButton() {
+  const btn = document.getElementById('btn-auth');
+  if (state.auth) {
+    btn.innerHTML = state.auth.avatar
+      ? `<img src="${esc(state.auth.avatar)}" class="auth-btn-avatar" alt="">`
+      : `<span class="auth-btn-initial">${esc((state.auth.name || 'U')[0].toUpperCase())}</span>`;
+    btn.title = i18n('signedInAs', state.auth.name || 'User');
+    btn.classList.add('signed-in');
+  } else {
+    btn.innerHTML = '👤';
+    btn.title = i18n('signIn');
+    btn.classList.remove('signed-in');
+  }
+}
+
+function renderAuthModal() {
+  const modal = document.getElementById('auth-modal');
+  const inner = document.getElementById('auth-modal-inner');
+  const redirect = encodeURIComponent(window.location.href.split('?')[0]);
+
+  if (state.auth) {
+    inner.innerHTML = `
+      <div class="auth-user">
+        ${state.auth.avatar
+          ? `<img class="auth-avatar" src="${esc(state.auth.avatar)}" alt="">`
+          : `<div class="auth-avatar-initial">${esc((state.auth.name || 'U')[0].toUpperCase())}</div>`
+        }
+        <div class="auth-name">${esc(state.auth.name || 'User')}</div>
+      </div>
+      <button class="btn btn-ghost" id="btn-signout-inner">${i18n('signOut')}</button>
+    `;
+    inner.querySelector('#btn-signout-inner').addEventListener('click', () => {
+      clearAuth();
+      state.auth = null;
+      state.collections = mergeCollections();
+      modal.classList.add('hidden');
+      updateAuthButton();
+      renderHome();
+    });
+  } else {
+    inner.innerHTML = `
+      <h2 class="auth-title">${i18n('signIn')}</h2>
+      <a class="btn btn-auth-provider btn-google"
+         href="${API_BASE}/auth/google?redirect_uri=${redirect}">
+        <svg viewBox="0 0 18 18" width="18" height="18"><path fill="#4285F4" d="M17.64 9.2c0-.637-.057-1.251-.164-1.84H9v3.481h4.844c-.209 1.125-.843 2.078-1.796 2.717v2.258h2.908c1.702-1.567 2.684-3.875 2.684-6.615z"/><path fill="#34A853" d="M9 18c2.43 0 4.467-.806 5.956-2.18l-2.908-2.259c-.806.54-1.837.86-3.048.86-2.344 0-4.328-1.584-5.036-3.711H.957v2.332A8.997 8.997 0 0 0 9 18z"/><path fill="#FBBC05" d="M3.964 10.71A5.41 5.41 0 0 1 3.682 9c0-.593.102-1.17.282-1.71V4.958H.957A8.996 8.996 0 0 0 0 9c0 1.452.348 2.827.957 4.042l3.007-2.332z"/><path fill="#EA4335" d="M9 3.58c1.321 0 2.508.454 3.44 1.345l2.582-2.58C13.463.891 11.426 0 9 0A8.997 8.997 0 0 0 .957 4.958L3.964 6.29C4.672 4.163 6.656 3.58 9 3.58z"/></svg>
+        ${i18n('withGoogle')}
+      </a>
+      <a class="btn btn-auth-provider btn-github"
+         href="${API_BASE}/auth/github?redirect_uri=${redirect}">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg>
+        ${i18n('withGitHub')}
+      </a>
+    `;
+  }
+  modal.classList.remove('hidden');
+}
+
+/* ============================================================
    NAVIGATION
    ============================================================ */
 function navigate(viewId) {
   document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
   document.getElementById(`view-${viewId}`).classList.add('active');
+  state.currentView = viewId;
 }
 
 /* ============================================================
@@ -266,7 +582,7 @@ function renderHome() {
     grid.innerHTML = `
       <div class="empty-state">
         <div class="icon">📚</div>
-        <p>Aucune collection.<br>Importez un fichier JSON pour commencer.</p>
+        <p>${i18n('emptyState')}</p>
       </div>`;
     return;
   }
@@ -278,10 +594,10 @@ function renderHome() {
     card.innerHTML = `
       <h2>${esc(coll.name)}</h2>
       <div class="coll-badges">
-        <span class="badge">📝 ${coll.sentences.length} phrases</span>
-        <span class="badge">📖 ${coll.words.length} mots</span>
-        <span class="badge">漢 ${coll.kanjis.length} kanjis</span>
-        ${due > 0 ? `<span class="badge badge-due">⏰ ${due} à réviser</span>` : ''}
+        <span class="badge">📝 ${coll.sentences.length} ${i18n('phrases').toLowerCase()}</span>
+        <span class="badge">📖 ${coll.words.length} ${i18n('words').toLowerCase()}</span>
+        <span class="badge">漢 ${coll.kanjis.length} ${i18n('kanjis').toLowerCase()}</span>
+        ${due > 0 ? `<span class="badge badge-due">⏰ ${i18n('dueCount', due)}</span>` : ''}
       </div>`;
     card.addEventListener('click', () => {
       state.currentCollId = coll.id;
@@ -303,18 +619,18 @@ function renderCollection(collId) {
 
   const due = getDueItems(coll).length;
   document.getElementById('srs-status').innerHTML = due > 0
-    ? `<span class="due-count">${due} cartes à réviser aujourd'hui</span>`
-    : `<span>Aucune carte à réviser pour aujourd'hui</span>`;
+    ? `<span class="due-count">${i18n('dueCount', due)}</span>`
+    : `<span>${i18n('noDue')}</span>`;
 
   const preview = document.getElementById('coll-preview');
   preview.innerHTML = `
-    ${previewSection('Phrases',  coll.sentences.map(s => ({
+    ${previewSection(i18n('phrases'), coll.sentences.map(s => ({
       jp: s.display, reading: s.hiragana, trans: t(s)
     })), 'normal')}
-    ${previewSection('Mots', coll.words.map(w => ({
+    ${previewSection(i18n('words'), coll.words.map(w => ({
       jp: w.display, reading: w.hiragana, trans: t(w)
     })), 'normal')}
-    ${previewSection('Kanjis', coll.kanjis.map(k => ({
+    ${previewSection(i18n('kanjis'), coll.kanjis.map(k => ({
       jp: k.kanji, reading: k.readings.join('、'), trans: t(k)
     })), 'kanji')}
   `;
@@ -363,9 +679,8 @@ function renderCard() {
   }
 
   /* phase label */
-  const phaseNames = ['Phrases', 'Mots', 'Kanjis'];
   document.getElementById('phase-label').textContent =
-    session.mode === 'srs' ? 'Révision SRS' : phaseNames[session.phase];
+    session.mode === 'srs' ? i18n('srsMode') : i18n('phases')[session.phase];
 
   /* card type badge */
   const badgeEl = document.getElementById('card-type-badge');
@@ -388,7 +703,7 @@ function renderCard() {
   const contextEl = document.getElementById('card-context');
   if (card.type === 'kanji') {
     const srcWord = session.coll.words.find(w => card.data.wordIds.includes(w.id));
-    contextEl.textContent = srcWord ? `Dans le mot : ${srcWord.display} (${srcWord.hiragana})` : '';
+    contextEl.textContent = srcWord ? i18n('srcWord', srcWord) : '';
   } else {
     contextEl.textContent = '';
   }
@@ -408,7 +723,7 @@ function renderCard() {
 
   const qbar = document.getElementById('srs-quality-bar');
   qbar.classList.remove('visible');
-  qbar.innerHTML = '<span class="label">Difficulté :</span>';
+  qbar.innerHTML = `<span class="label">${i18n('difficulty')}</span>`;
 
   input.focus();
 }
@@ -452,24 +767,24 @@ function submitAnswer() {
     bodyHtml = `
       <span class="feedback-icon">✅</span>
       <div class="feedback-body">
-        <div class="feedback-value ok">Correct !</div>
+        <div class="feedback-value ok">${i18n('correct')}</div>
       </div>
-      ${session.mode !== 'srs' ? `<button class="btn btn-primary btn-sm" id="continue-btn">Continuer →</button>` : ''}
+      ${session.mode !== 'srs' ? `<button class="btn btn-primary btn-sm" id="continue-btn">${i18n('continueBtn')}</button>` : ''}
     `;
   } else {
     const typed    = esc(normalize(raw));
     const answerHtml = card.type === 'kanji'
-      ? `<div class="feedback-label">Lecture(s) acceptée(s) :</div>
+      ? `<div class="feedback-label">${i18n('accepted')}</div>
          <div class="feedback-value fail">${esc(card.data.readings.join('、'))}</div>
-         <div class="feedback-typed">Tu as écrit : ${typed}</div>`
-      : `<div class="feedback-label">Bonne réponse :</div>
+         <div class="feedback-typed">${i18n('youWrote')} ${typed}</div>`
+      : `<div class="feedback-label">${i18n('correctAnswer')}</div>
          <div class="feedback-value fail">${esc(card.data.hiragana)}</div>
-         <div class="feedback-typed">Tu as écrit : ${typed}</div>`;
+         <div class="feedback-typed">${i18n('youWrote')} ${typed}</div>`;
 
     bodyHtml = `
       <span class="feedback-icon">❌</span>
       <div class="feedback-body">${answerHtml}</div>
-      <button class="btn btn-primary btn-sm" id="continue-btn">Continuer →</button>
+      <button class="btn btn-primary btn-sm" id="continue-btn">${i18n('continueBtn')}</button>
     `;
   }
 
@@ -486,22 +801,16 @@ function showSRSQualityBar(key) {
   const bar = document.getElementById('srs-quality-bar');
   bar.classList.add('visible');
 
-  const qualities = [
-    { label: 'À revoir', q: 0, color: '#dc2626' },
-    { label: 'Difficile', q: 1, color: '#d97706' },
-    { label: 'Bien',      q: 2, color: '#16a34a' },
-    { label: 'Facile',    q: 3, color: '#2563eb' }
-  ];
-
-  qualities.forEach(({ label, q, color }) => {
+  const colors = ['#dc2626', '#d97706', '#16a34a', '#2563eb'];
+  i18n('qualityLabels').forEach((label, q) => {
     const btn = document.createElement('button');
     btn.className = 'btn btn-sm';
-    btn.style.cssText = `background:${color};color:#fff`;
+    btn.style.cssText = `background:${colors[q]};color:#fff`;
     btn.textContent = label;
     btn.addEventListener('click', () => {
       scheduleSRS(key, q);
       bar.classList.remove('visible');
-      bar.innerHTML = '<span class="label">Difficulté :</span>';
+      bar.innerHTML = `<span class="label">${i18n('difficulty')}</span>`;
       continueSession();
     });
     bar.appendChild(btn);
@@ -524,8 +833,7 @@ function continueSession() {
   }
 
   if (result === 'phase') {
-    const names = ['Phrases', 'Mots', 'Kanjis'];
-    toast(`Phase ${session.phase + 1} : ${names[session.phase]}`);
+    toast(i18n('phaseToast', session.phase + 1, i18n('phases')[session.phase]));
   }
 
   renderCard();
@@ -541,9 +849,8 @@ function renderResults() {
   const totalAll = summary.reduce((s, p) => s + p.total, 0);
 
   document.getElementById('results-title').textContent =
-    (totalOk === totalAll && totalAll > 0) ? '🎉 Parfait !' : '✅ Session terminée';
-  document.getElementById('results-subtitle').textContent =
-    `${totalOk} / ${totalAll} ${totalAll === 1 ? 'carte' : 'cartes'} correcte${totalAll === 1 ? '' : 's'}`;
+    (totalOk === totalAll && totalAll > 0) ? i18n('perfect') : i18n('sessionDone');
+  document.getElementById('results-subtitle').textContent = i18n('score', totalOk, totalAll);
 
   document.getElementById('results-breakdown').innerHTML = summary.map(p => {
     const pct = p.total > 0 ? Math.round((p.correct / p.total) * 100) : 0;
@@ -585,22 +892,22 @@ function importFile(file) {
         Array.isArray(c.sentences) && Array.isArray(c.words) && Array.isArray(c.kanjis)
       );
       if (valid.length === 0) {
-        alert('Format invalide. Utilisez un fichier exporté par cette application.');
+        alert(i18n('importInvalid'));
         return;
       }
       const existingIds = new Set(state.collections.map(c => c.id));
       const fresh = valid.filter(c => !existingIds.has(c.id));
       if (fresh.length === 0) {
-        alert('Ces collections sont déjà chargées.');
+        alert(i18n('alreadyLoaded'));
         return;
       }
       const saved = loadImported();
       saveImported([...saved, ...fresh]);
-      state.collections = [...DEFAULT_COLLECTIONS, ...loadImported()];
+      state.collections = mergeCollections();
       renderHome();
-      toast(`${fresh.length} collection(s) importée(s) ✓`);
+      toast(i18n('imported', fresh.length));
     } catch {
-      alert('Erreur lors de la lecture du fichier JSON.');
+      alert(i18n('readError'));
     }
   };
   reader.readAsText(file);
@@ -610,6 +917,20 @@ function importFile(file) {
    EVENTS
    ============================================================ */
 function attachEvents() {
+  /* Language toggle */
+  document.getElementById('btn-lang').addEventListener('click', () => {
+    setLang(state.lang === 'fr' ? 'en' : 'fr', true);
+  });
+
+  /* Auth */
+  document.getElementById('btn-auth').addEventListener('click', renderAuthModal);
+  document.getElementById('auth-modal').addEventListener('click', e => {
+    if (e.target === e.currentTarget) e.currentTarget.classList.add('hidden');
+  });
+  document.getElementById('auth-modal-close').addEventListener('click', () => {
+    document.getElementById('auth-modal').classList.add('hidden');
+  });
+
   /* Home */
   document.getElementById('btn-import').addEventListener('click', () =>
     document.getElementById('file-import').click()
@@ -642,7 +963,7 @@ function attachEvents() {
     const coll = getCollection(state.currentCollId);
     if (!coll) return;
     if (getDueItems(coll).length === 0) {
-      toast('Aucune carte à réviser aujourd\'hui !');
+      toast(i18n('noDueToast'));
       return;
     }
     state.currentSession = new Session(coll, 'srs');
@@ -652,7 +973,7 @@ function attachEvents() {
 
   /* Session */
   document.getElementById('session-back-btn').addEventListener('click', () => {
-    if (confirm('Quitter la session en cours ?')) {
+    if (confirm(i18n('quitConfirm'))) {
       navigate('collection');
     }
   });
@@ -691,17 +1012,21 @@ function attachEvents() {
    INIT
    ============================================================ */
 function init() {
-  state.collections = [...DEFAULT_COLLECTIONS, ...loadImported()];
+  handleOAuthCallback();
+  state.auth = loadAuth();
+  state.lang = detectLang();
+  document.documentElement.lang = state.lang;
+  state.collections = mergeCollections();
 
-  /* bind wana-kana to the answer input */
   const input = document.getElementById('answer-input');
-  if (typeof wanakana !== 'undefined') {
-    wanakana.bind(input);
-  }
+  if (typeof wanakana !== 'undefined') wanakana.bind(input);
 
   attachEvents();
+  translateUI();
   renderHome();
   navigate('home');
+
+  if (state.auth) fetchAndCacheRemote();
 }
 
 document.addEventListener('DOMContentLoaded', init);
