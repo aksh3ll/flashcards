@@ -33,7 +33,10 @@ Les réponses peuvent être saisies en **hiragana** ou en **rōmaji** (converti 
 ```js
 {
   id: "coll-id",
-  name: "Nom de la collection",
+  name: {
+    fr: "Nom de la collection",
+    en: "Name of the collection",
+  },
   sentences: [
     { id, display, hiragana, en, fr }
   ],

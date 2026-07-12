@@ -10,7 +10,8 @@
 const DEFAULT_COLLECTIONS = [
   {
     id: "coll-1",
-    name: "Étudier le japonais",
+    name: {"fr": "Étudier le japonais", "en": "Studying Japanese"},
+    order: 1,
     sentences: [
       {
         id: "s1",
@@ -58,7 +59,8 @@ const DEFAULT_COLLECTIONS = [
   },
   {
     id: "coll-2",
-    name: "Se présenter",
+    name: {"fr": "Se présenter", "en": "Introducing Yourself"},
+    order: 2,
     sentences: [
       {
         id: "s1",
@@ -113,7 +115,7 @@ const DEFAULT_COLLECTIONS = [
   },
   {
     id: "2nensei-yomitori-11",
-    name: "2年生 よみとり 11",
+    name: {"fr": "2年生 よみとり 11", "en": "2nd Year Reading 11"},
     sentences: [
       {
         id: "s1",
@@ -301,7 +303,7 @@ const DEFAULT_COLLECTIONS = [
   },
   {
     id: "2nensei-yomitori-10",
-    name: "2年生 よみとり 10",
+    name: {"fr": "2年生 よみとり 10", "en": "2nd Year Reading 10"},
     sentences: [
       {
         id: "s1",
@@ -474,7 +476,7 @@ const DEFAULT_COLLECTIONS = [
   },
   {
     id: "2nensei-yomitori-9",
-    name: "２年生 よみとり 9",
+    name: {"fr": "2年生 よみとり 9", "en": "2nd Year Reading 9"},
     sentences: [
       {
         id: "s1",
@@ -655,7 +657,7 @@ const DEFAULT_COLLECTIONS = [
   },
   {
     id: "2nensei-yomitori-8",
-    name: "２年生よみとり 8",
+    name: {"fr": "2年生 よみとり 8", "en": "2nd Year Reading 8"},
     sentences: [
       {
         id: "s1",
@@ -840,7 +842,7 @@ const DEFAULT_COLLECTIONS = [
   },
   {
     id: "2nensei-yomitori-7",
-    name: "２年生 よみとり 7",
+    name: {"fr": "2年生 よみとり 7", "en": "2nd Year Reading 7"},
     sentences: [
       {
         id: "s1",
@@ -1015,7 +1017,7 @@ const DEFAULT_COLLECTIONS = [
   },
   {
     id: "2nensei-yomitori-6",
-    name: "２年生 よみとり 6",
+    name: {"fr": "2年生 よみとり 6", "en": "2nd Year Reading 6"},
     sentences: [
       {
         id: "s1",
@@ -1190,7 +1192,7 @@ const DEFAULT_COLLECTIONS = [
   },
   {
     id: "1nensei-yomitori-6",
-    name: "１年生 よみとり 6",
+    name: {"fr": "1年生 よみとり 6", "en": "1st Year Reading 6"},
     sentences: [
       {
         id: "s1",
@@ -1346,7 +1348,7 @@ const DEFAULT_COLLECTIONS = [
   },
   {
     id: "2nensei-yomitori-5",
-    name: "２年生 よみとり 5",
+    name: {"fr": "2年生 よみとり 5", "en": "2nd Year Reading 5"},
     sentences: [
       {
         id: "s1",
