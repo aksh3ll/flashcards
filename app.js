@@ -250,7 +250,7 @@ function mergeCollections() {
   const impFiltered = imported.filter(c => !remoteIds.has(c.id));
   const allIds   = new Set([...remote, ...impFiltered].map(c => c.id));
   const defFiltered = DEFAULT_COLLECTIONS.filter(c => !allIds.has(c.id));
-  return [...defFiltered, ...impFiltered, ...remote];
+  return [...defFiltered, ...impFiltered, ...remote].sort((a, b) => (a.order ?? 999) - (b.order ?? 999));
 }
 
 function handleOAuthCallback() {
@@ -592,7 +592,7 @@ function renderHome() {
     const card = document.createElement('div');
     card.className = 'coll-card';
     card.innerHTML = `
-      <h2>${esc(coll.name)}</h2>
+      <h2>${esc(t(coll.name))}</h2>
       <div class="coll-badges">
         <span class="badge">📝 ${coll.sentences.length} ${i18n('phrases').toLowerCase()}</span>
         <span class="badge">📖 ${coll.words.length} ${i18n('words').toLowerCase()}</span>
@@ -615,7 +615,7 @@ function renderCollection(collId) {
   const coll = getCollection(collId);
   if (!coll) return;
 
-  document.getElementById('coll-name').textContent = coll.name;
+  document.getElementById('coll-name').textContent = esc(t(coll.name));
 
   const due = getDueItems(coll).length;
   document.getElementById('srs-status').innerHTML = due > 0
@@ -875,7 +875,7 @@ function exportCollections(collections) {
   const url  = URL.createObjectURL(new Blob([json], { type: 'application/json' }));
   const a    = document.createElement('a');
   a.href     = url;
-  a.download = collections.length === 1 ? `${collections[0].name}.json` : 'flashcards.json';
+  a.download = collections.length === 1 ? `${t(collections[0].name)}.json` : 'flashcards.json';
   a.click();
   URL.revokeObjectURL(url);
 }
@@ -888,7 +888,7 @@ function importFile(file) {
       const raw  = JSON.parse(e.target.result);
       const arr  = Array.isArray(raw) ? raw : [raw];
       const valid = arr.filter(c =>
-        c && typeof c.id === 'string' && typeof c.name === 'string' &&
+        c && typeof c.id === 'string' && c.name != null &&
         Array.isArray(c.sentences) && Array.isArray(c.words) && Array.isArray(c.kanjis)
       );
       if (valid.length === 0) {
