@@ -1,0 +1,56 @@
+{
+  "id": "example-2",
+  "name": {"fr": "Se présenter", "en": "Introducing Yourself", "ja": "自己紹介"},
+  "order": 2,
+  "sentences": [
+    {
+      "id": "s1",
+      "display": "私の名前は山田太郎です",
+      "hiragana": "わたしのなまえはやまだたろうです",
+      "en": "My name is Yamada Taro",
+      "fr": "Mon nom est Yamada Taro"
+    },
+    {
+      "id": "s2",
+      "display": "私は大学生です",
+      "hiragana": "わたしはだいがくせいです",
+      "en": "I am a university student",
+      "fr": "Je suis étudiant(e) à l'université"
+    },
+    {
+      "id": "s3",
+      "display": "毎日日本語を練習しています",
+      "hiragana": "まいにちにほんごをれんしゅうしています",
+      "en": "I practice Japanese every day",
+      "fr": "Je pratique le japonais tous les jours"
+    }
+  ],
+  "words": [
+    { "id": "w1", "sentenceIds": ["s1", "s2"], "display": "私",     "hiragana": "わたし",   "en": "I, me",                    "fr": "moi, je" },
+    { "id": "w2", "sentenceIds": ["s1"],        "display": "名前",   "hiragana": "なまえ",   "en": "name",                     "fr": "prénom, nom" },
+    { "id": "w3", "sentenceIds": ["s1"],        "display": "山田",   "hiragana": "やまだ",   "en": "Yamada (surname)",          "fr": "Yamada (nom de famille)" },
+    { "id": "w4", "sentenceIds": ["s1"],        "display": "太郎",   "hiragana": "たろう",   "en": "Taro (given name)",         "fr": "Taro (prénom masculin)" },
+    { "id": "w5", "sentenceIds": ["s2"],        "display": "大学生", "hiragana": "だいがくせい", "en": "university student",    "fr": "étudiant(e) à l'université" },
+    { "id": "w6", "sentenceIds": ["s3"],        "display": "毎日",   "hiragana": "まいにち", "en": "every day",                "fr": "tous les jours" },
+    { "id": "w7", "sentenceIds": ["s3"],        "display": "日本語", "hiragana": "にほんご", "en": "Japanese language",        "fr": "la langue japonaise" },
+    { "id": "w8", "sentenceIds": ["s3"],        "display": "練習",   "hiragana": "れんしゅう", "en": "practice",              "fr": "pratique, entraînement" }
+  ],
+  "kanjis": [
+    { "id": "k1",  "wordIds": ["w1"],        "kanji": "私", "readings": ["わたし", "わたくし", "し"], "en": "I, private, personal", "fr": "moi, privé, personnel" },
+    { "id": "k2",  "wordIds": ["w2"],        "kanji": "名", "readings": ["めい", "みょう", "な"],     "en": "name, famous",          "fr": "nom, célèbre" },
+    { "id": "k3",  "wordIds": ["w2"],        "kanji": "前", "readings": ["ぜん", "まえ"],             "en": "before, front",         "fr": "avant, devant" },
+    { "id": "k4",  "wordIds": ["w3"],        "kanji": "山", "readings": ["さん", "やま"],             "en": "mountain",              "fr": "montagne" },
+    { "id": "k5",  "wordIds": ["w3"],        "kanji": "田", "readings": ["でん", "た"],               "en": "rice field",            "fr": "champ de riz" },
+    { "id": "k6",  "wordIds": ["w4"],        "kanji": "太", "readings": ["たい", "た", "ふと"],        "en": "thick, large, bold",    "fr": "épais, grand, gras" },
+    { "id": "k7",  "wordIds": ["w4"],        "kanji": "郎", "readings": ["ろう"],                     "en": "son, young man",        "fr": "fils, jeune homme" },
+    { "id": "k8",  "wordIds": ["w5"],        "kanji": "大", "readings": ["だい", "たい", "おお"],      "en": "big, large",            "fr": "grand, large" },
+    { "id": "k9",  "wordIds": ["w5"],        "kanji": "学", "readings": ["がく", "まな"],              "en": "study, learning",       "fr": "étude, apprentissage" },
+    { "id": "k10", "wordIds": ["w5"],        "kanji": "生", "readings": ["せい", "しょう", "い", "なま"], "en": "life, birth",        "fr": "vie, naissance" },
+    { "id": "k11", "wordIds": ["w6"],        "kanji": "毎", "readings": ["まい"],                     "en": "every",                 "fr": "chaque, tous les" },
+    { "id": "k12", "wordIds": ["w6", "w7"],  "kanji": "日", "readings": ["にち", "じつ", "ひ", "か"], "en": "day, sun",              "fr": "jour, soleil" },
+    { "id": "k13", "wordIds": ["w7"],        "kanji": "本", "readings": ["ほん", "もと"],             "en": "book, origin, true",    "fr": "livre, origine, vrai" },
+    { "id": "k14", "wordIds": ["w7"],        "kanji": "語", "readings": ["ご", "かた"],               "en": "language, word",        "fr": "langue, mot" },
+    { "id": "k15", "wordIds": ["w8"],        "kanji": "練", "readings": ["れん"],                     "en": "practice, knead",       "fr": "pratiquer, pétrir" },
+    { "id": "k16", "wordIds": ["w8"],        "kanji": "習", "readings": ["しゅう", "なら"],            "en": "learn, habit",          "fr": "apprendre, habitude" }
+  ]
+}

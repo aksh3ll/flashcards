@@ -1,0 +1,185 @@
+{
+  "id": "2nensei-yomitori-8",
+  "name": { "en": "2nd Year Reading 8", "fr": "2ème année lecture 8", "ja": "2年生 よみとり 8" },
+  "sentences": [
+    {
+      "id": "s1",
+      "display": "家に帰る。",
+      "hiragana": "いえにかえる。",
+      "en": "To return home.",
+      "fr": "Rentrer à la maison."
+    },
+    {
+      "id": "s2",
+      "display": "何回も話す。",
+      "hiragana": "なんかいもはなす。",
+      "en": "To speak many times.",
+      "fr": "Parler plusieurs fois."
+    },
+    {
+      "id": "s3",
+      "display": "山里でくらす。",
+      "hiragana": "やまざとでくらす。",
+      "en": "To live in a mountain village.",
+      "fr": "Vivre dans un village de montagne."
+    },
+    {
+      "id": "s4",
+      "display": "たくさん食べる。",
+      "hiragana": "たくさんたべる。",
+      "en": "To eat a lot.",
+      "fr": "Manger beaucoup."
+    },
+    {
+      "id": "s5",
+      "display": "明るい声で話す。",
+      "hiragana": "あかるいこえではなす。",
+      "en": "To speak in a cheerful voice.",
+      "fr": "Parler d'une voix joyeuse."
+    },
+    {
+      "id": "s6",
+      "display": "池に水を入れる。",
+      "hiragana": "いけにみずをいれる。",
+      "en": "To put water in the pond.",
+      "fr": "Mettre de l'eau dans l'étang."
+    },
+    {
+      "id": "s7",
+      "display": "今週の天気。",
+      "hiragana": "こんしゅうのてんき。",
+      "en": "This week's weather.",
+      "fr": "La météo de cette semaine."
+    },
+    {
+      "id": "s8",
+      "display": "そうじの当番。",
+      "hiragana": "そうじのとうばん。",
+      "en": "Cleaning duty.",
+      "fr": "Tour de nettoyage."
+    },
+    {
+      "id": "s9",
+      "display": "せまい道を歩く。",
+      "hiragana": "せまいみちをあるく。",
+      "en": "To walk a narrow path.",
+      "fr": "Marcher sur un chemin étroit."
+    },
+    {
+      "id": "s10",
+      "display": "東京に行く。",
+      "hiragana": "とうきょうにいく。",
+      "en": "To go to Tokyo.",
+      "fr": "Aller à Tokyo."
+    },
+    {
+      "id": "s11",
+      "display": "古いお寺。",
+      "hiragana": "ふるいおてら。",
+      "en": "An old temple.",
+      "fr": "Un vieux temple."
+    },
+    {
+      "id": "s12",
+      "display": "夕日が西にしずむ。",
+      "hiragana": "ゆうひがにしにしずむ。",
+      "en": "The evening sun sinks in the west.",
+      "fr": "Le soleil du soir se couche à l'ouest."
+    },
+    {
+      "id": "s13",
+      "display": "水道を止める。",
+      "hiragana": "すいどうをとめる。",
+      "en": "To turn off the water.",
+      "fr": "Couper l'eau."
+    },
+    {
+      "id": "s14",
+      "display": "工場ではたらく。",
+      "hiragana": "こうじょうではたらく。",
+      "en": "To work at a factory.",
+      "fr": "Travailler dans une usine."
+    },
+    {
+      "id": "s15",
+      "display": "電池をかえる。",
+      "hiragana": "でんちをかえる。",
+      "en": "To replace a battery.",
+      "fr": "Changer une pile."
+    },
+    {
+      "id": "s16",
+      "display": "雨で中止になる。",
+      "hiragana": "あめでちゅうしになる。",
+      "en": "To be cancelled due to rain.",
+      "fr": "Être annulé à cause de la pluie."
+    }
+  ],
+  "words": [
+    { "id": "w1",  "sentenceIds": ["s1"],        "display": "家",     "hiragana": "いえ",       "en": "house, home",      "fr": "maison" },
+    { "id": "w2",  "sentenceIds": ["s1"],        "display": "帰る",   "hiragana": "かえる",     "en": "to return home",   "fr": "rentrer, retourner" },
+    { "id": "w3",  "sentenceIds": ["s2"],        "display": "何回",   "hiragana": "なんかい",   "en": "how many times",   "fr": "combien de fois" },
+    { "id": "w4",  "sentenceIds": ["s2", "s5"],  "display": "話す",   "hiragana": "はなす",     "en": "to speak",         "fr": "parler" },
+    { "id": "w5",  "sentenceIds": ["s3"],        "display": "山里",   "hiragana": "やまざと",   "en": "mountain village", "fr": "village de montagne" },
+    { "id": "w6",  "sentenceIds": ["s4"],        "display": "食べる", "hiragana": "たべる",     "en": "to eat",           "fr": "manger" },
+    { "id": "w7",  "sentenceIds": ["s5"],        "display": "明るい", "hiragana": "あかるい",   "en": "bright, cheerful", "fr": "lumineux, joyeux" },
+    { "id": "w8",  "sentenceIds": ["s5"],        "display": "声",     "hiragana": "こえ",       "en": "voice",            "fr": "voix" },
+    { "id": "w9",  "sentenceIds": ["s6"],        "display": "池",     "hiragana": "いけ",       "en": "pond",             "fr": "étang" },
+    { "id": "w10", "sentenceIds": ["s6"],        "display": "水",     "hiragana": "みず",       "en": "water",            "fr": "eau" },
+    { "id": "w11", "sentenceIds": ["s6"],        "display": "入れる", "hiragana": "いれる",     "en": "to put in",        "fr": "mettre dans" },
+    { "id": "w12", "sentenceIds": ["s7"],        "display": "今週",   "hiragana": "こんしゅう", "en": "this week",        "fr": "cette semaine" },
+    { "id": "w13", "sentenceIds": ["s7"],        "display": "天気",   "hiragana": "てんき",     "en": "weather",          "fr": "météo, temps" },
+    { "id": "w14", "sentenceIds": ["s8"],        "display": "当番",   "hiragana": "とうばん",   "en": "duty, shift",      "fr": "tour de garde" },
+    { "id": "w15", "sentenceIds": ["s9"],        "display": "道",     "hiragana": "みち",       "en": "road, path",       "fr": "chemin, route" },
+    { "id": "w16", "sentenceIds": ["s9"],        "display": "歩く",   "hiragana": "あるく",     "en": "to walk",          "fr": "marcher" },
+    { "id": "w17", "sentenceIds": ["s10"],       "display": "東京",   "hiragana": "とうきょう", "en": "Tokyo",            "fr": "Tokyo" },
+    { "id": "w18", "sentenceIds": ["s10"],       "display": "行く",   "hiragana": "いく",       "en": "to go",            "fr": "aller" },
+    { "id": "w19", "sentenceIds": ["s11"],       "display": "古い",   "hiragana": "ふるい",     "en": "old, ancient",     "fr": "vieux, ancien" },
+    { "id": "w20", "sentenceIds": ["s11"],       "display": "寺",     "hiragana": "てら",       "en": "temple",           "fr": "temple" },
+    { "id": "w21", "sentenceIds": ["s12"],       "display": "夕日",   "hiragana": "ゆうひ",     "en": "evening sun",      "fr": "soleil du soir" },
+    { "id": "w22", "sentenceIds": ["s12"],       "display": "西",     "hiragana": "にし",       "en": "west",             "fr": "ouest" },
+    { "id": "w23", "sentenceIds": ["s13"],       "display": "水道",   "hiragana": "すいどう",   "en": "water supply, tap", "fr": "robinet, eau courante" },
+    { "id": "w24", "sentenceIds": ["s13"],       "display": "止める", "hiragana": "とめる",     "en": "to stop, turn off", "fr": "arrêter, couper" },
+    { "id": "w25", "sentenceIds": ["s14"],       "display": "工場",   "hiragana": "こうじょう", "en": "factory",          "fr": "usine" },
+    { "id": "w26", "sentenceIds": ["s15"],       "display": "電池",   "hiragana": "でんち",     "en": "battery",          "fr": "pile, batterie" },
+    { "id": "w27", "sentenceIds": ["s16"],       "display": "雨",     "hiragana": "あめ",       "en": "rain",             "fr": "pluie" },
+    { "id": "w28", "sentenceIds": ["s16"],       "display": "中止",   "hiragana": "ちゅうし",   "en": "cancellation",     "fr": "annulation" }
+  ],
+  "kanjis": [
+    { "id": "k1",  "wordIds": ["w1"],             "kanji": "家", "readings": ["か", "いえ"],                   "en": "house, home",      "fr": "maison" },
+    { "id": "k2",  "wordIds": ["w2"],             "kanji": "帰", "readings": ["き", "かえ"],                   "en": "return home",      "fr": "rentrer" },
+    { "id": "k3",  "wordIds": ["w3"],             "kanji": "何", "readings": ["か", "なに", "なん"],           "en": "what, how many",   "fr": "quoi, combien" },
+    { "id": "k4",  "wordIds": ["w3"],             "kanji": "回", "readings": ["かい", "まわ"],                 "en": "times, turn",      "fr": "fois, tour" },
+    { "id": "k5",  "wordIds": ["w4"],             "kanji": "話", "readings": ["わ", "はな"],                   "en": "speak, story",     "fr": "parler, histoire" },
+    { "id": "k6",  "wordIds": ["w5"],             "kanji": "山", "readings": ["さん", "やま"],                 "en": "mountain",         "fr": "montagne" },
+    { "id": "k7",  "wordIds": ["w5"],             "kanji": "里", "readings": ["り", "さと"],                   "en": "village, hometown", "fr": "village, pays natal" },
+    { "id": "k8",  "wordIds": ["w6"],             "kanji": "食", "readings": ["しょく", "じき", "た"],         "en": "eat, food",        "fr": "manger, nourriture" },
+    { "id": "k9",  "wordIds": ["w7"],             "kanji": "明", "readings": ["めい", "みょう", "あか", "あ"], "en": "bright, clear",    "fr": "lumineux, clair" },
+    { "id": "k10", "wordIds": ["w8"],             "kanji": "声", "readings": ["せい", "こえ"],                 "en": "voice",            "fr": "voix" },
+    { "id": "k11", "wordIds": ["w9", "w26"],      "kanji": "池", "readings": ["ち", "いけ"],                   "en": "pond",             "fr": "étang" },
+    { "id": "k12", "wordIds": ["w10", "w23"],     "kanji": "水", "readings": ["すい", "みず"],                 "en": "water",            "fr": "eau" },
+    { "id": "k13", "wordIds": ["w11"],            "kanji": "入", "readings": ["にゅう", "い", "はい"],         "en": "enter, put in",    "fr": "entrer, mettre" },
+    { "id": "k14", "wordIds": ["w12"],            "kanji": "今", "readings": ["こん", "きん", "いま"],         "en": "now, present",     "fr": "maintenant, présent" },
+    { "id": "k15", "wordIds": ["w12"],            "kanji": "週", "readings": ["しゅう"],                       "en": "week",             "fr": "semaine" },
+    { "id": "k16", "wordIds": ["w13"],            "kanji": "天", "readings": ["てん", "あま"],                 "en": "heaven, sky",      "fr": "ciel, paradis" },
+    { "id": "k17", "wordIds": ["w13"],            "kanji": "気", "readings": ["き", "け"],                     "en": "spirit, energy",   "fr": "esprit, énergie" },
+    { "id": "k18", "wordIds": ["w14"],            "kanji": "当", "readings": ["とう", "あ"],                   "en": "hit, current",     "fr": "toucher, actuel" },
+    { "id": "k19", "wordIds": ["w14"],            "kanji": "番", "readings": ["ばん"],                         "en": "number, watch",    "fr": "numéro, garde" },
+    { "id": "k20", "wordIds": ["w15", "w23"],     "kanji": "道", "readings": ["どう", "みち"],                 "en": "road, way",        "fr": "route, chemin" },
+    { "id": "k21", "wordIds": ["w16"],            "kanji": "歩", "readings": ["ほ", "ある"],                   "en": "walk, step",       "fr": "marcher, pas" },
+    { "id": "k22", "wordIds": ["w17"],            "kanji": "東", "readings": ["とう", "ひがし"],               "en": "east",             "fr": "est" },
+    { "id": "k23", "wordIds": ["w17"],            "kanji": "京", "readings": ["きょう", "けい", "みやこ"],     "en": "capital city",     "fr": "capitale" },
+    { "id": "k24", "wordIds": ["w18"],            "kanji": "行", "readings": ["こう", "ぎょう", "い", "おこな"], "en": "go, conduct",    "fr": "aller, conduire" },
+    { "id": "k25", "wordIds": ["w19"],            "kanji": "古", "readings": ["こ", "ふる"],                   "en": "old, ancient",     "fr": "vieux, ancien" },
+    { "id": "k26", "wordIds": ["w20"],            "kanji": "寺", "readings": ["じ", "てら"],                   "en": "temple",           "fr": "temple" },
+    { "id": "k27", "wordIds": ["w21"],            "kanji": "夕", "readings": ["せき", "ゆう"],                 "en": "evening",          "fr": "soir" },
+    { "id": "k28", "wordIds": ["w21"],            "kanji": "日", "readings": ["にち", "じつ", "ひ", "か"],     "en": "sun, day",         "fr": "soleil, jour" },
+    { "id": "k29", "wordIds": ["w22"],            "kanji": "西", "readings": ["せい", "にし"],                 "en": "west",             "fr": "ouest" },
+    { "id": "k30", "wordIds": ["w24", "w28"],     "kanji": "止", "readings": ["し", "と"],                     "en": "stop",             "fr": "arrêter, stopper" },
+    { "id": "k31", "wordIds": ["w25"],            "kanji": "工", "readings": ["こう", "く"],                   "en": "craft, industry",  "fr": "artisanat, industrie" },
+    { "id": "k32", "wordIds": ["w25"],            "kanji": "場", "readings": ["じょう", "ば"],                 "en": "place, scene",     "fr": "lieu, scène" },
+    { "id": "k33", "wordIds": ["w26"],            "kanji": "電", "readings": ["でん"],                         "en": "electricity",      "fr": "électricité" },
+    { "id": "k34", "wordIds": ["w27"],            "kanji": "雨", "readings": ["う", "あめ"],                   "en": "rain",             "fr": "pluie" },
+    { "id": "k35", "wordIds": ["w28"],            "kanji": "中", "readings": ["ちゅう", "なか"],               "en": "middle, inside",   "fr": "milieu, intérieur" }
+  ]
+}

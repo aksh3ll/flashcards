@@ -229,7 +229,7 @@ async function fetchAndCacheRemote() {
       localStorage.setItem(KEYS.REMOTE_COLLS, JSON.stringify(colls));
     if (srsData && typeof srsData === 'object')
       localStorage.setItem(KEYS.SRS_REMOTE, JSON.stringify(srsData));
-    state.collections = mergeCollections();
+    state.collections = await mergeCollections();
     renderHome();
     toast(i18n('syncOk', Array.isArray(colls) ? colls.length : 0));
   } catch {
@@ -243,13 +243,25 @@ async function pushSRS(data) {
   catch { /* silent — local copy already saved */ }
 }
 
-function mergeCollections() {
+async function mergeCollections() {
   const remote   = loadRemoteColls();
   const imported = loadImported();
   const remoteIds  = new Set(remote.map(c => c.id));
   const impFiltered = imported.filter(c => !remoteIds.has(c.id));
   const allIds   = new Set([...remote, ...impFiltered].map(c => c.id));
-  const defFiltered = DEFAULT_COLLECTIONS.filter(c => !allIds.has(c.id));
+  // ============================================================
+  // DEFAULT COLLECTIONS
+  // Each collection contains:
+  //   id        : unique identifier
+  //   name      : collection name in japanese, french, english
+  //   order     : order of the collection in the list 
+  //   sentences : display (kanji), hiragana, en, fr
+  //   words     : display (kanji), hiragana, sentenceIds[], en, fr
+  //   kanjis    : kanji character, readings[], wordIds[], en, fr
+  //               (kanjis are DEDUPLICATED per collection)
+  // ============================================================
+  const defColls = await apiFetch('./data.json');
+  const defFiltered = defColls.filter(c => !allIds.has(c.id));
   return [...defFiltered, ...impFiltered, ...remote].sort((a, b) => (a.order ?? 999) - (b.order ?? 999));
 }
 
@@ -536,10 +548,10 @@ function renderAuthModal() {
       </div>
       <button class="btn btn-ghost" id="btn-signout-inner">${i18n('signOut')}</button>
     `;
-    inner.querySelector('#btn-signout-inner').addEventListener('click', () => {
+    inner.querySelector('#btn-signout-inner').addEventListener('click', async () => {
       clearAuth();
       state.auth = null;
-      state.collections = mergeCollections();
+      state.collections = await mergeCollections();
       modal.classList.add('hidden');
       updateAuthButton();
       renderHome();
@@ -880,7 +892,7 @@ function exportCollections(collections) {
   URL.revokeObjectURL(url);
 }
 
-function importFile(file) {
+async function importFile(file) {
   if (!file) return;
   const reader = new FileReader();
   reader.onload = e => {
@@ -903,7 +915,7 @@ function importFile(file) {
       }
       const saved = loadImported();
       saveImported([...saved, ...fresh]);
-      state.collections = mergeCollections();
+      state.collections = await mergeCollections();
       renderHome();
       toast(i18n('imported', fresh.length));
     } catch {
@@ -1011,12 +1023,12 @@ function attachEvents() {
 /* ============================================================
    INIT
    ============================================================ */
-function init() {
+async function init() {
   handleOAuthCallback();
   state.auth = loadAuth();
   state.lang = detectLang();
   document.documentElement.lang = state.lang;
-  state.collections = mergeCollections();
+  state.collections = await mergeCollections();
 
   const input = document.getElementById('answer-input');
   if (typeof wanakana !== 'undefined') wanakana.bind(input);

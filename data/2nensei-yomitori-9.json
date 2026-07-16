@@ -1,0 +1,181 @@
+{
+  "id": "2nensei-yomitori-9",
+  "name": { "en": "2nd Year Reading 9", "fr": "2ème année lecture 9", "ja": "2年生 よみとり 9" },
+  "sentences": [
+    {
+      "id": "s1",
+      "display": "新しい本を買う。",
+      "hiragana": "あたらしいほんをかう。",
+      "en": "To buy a new book.",
+      "fr": "Acheter un nouveau livre."
+    },
+    {
+      "id": "s2",
+      "display": "ふみ台をつかう。",
+      "hiragana": "ふみだいをつかう。",
+      "en": "To use a step stool.",
+      "fr": "Utiliser un marchepied."
+    },
+    {
+      "id": "s3",
+      "display": "船で海をわたる。",
+      "hiragana": "ふねでうみをわたる。",
+      "en": "To cross the sea by boat.",
+      "fr": "Traverser la mer en bateau."
+    },
+    {
+      "id": "s4",
+      "display": "お米がおいしい。",
+      "hiragana": "おこめがおいしい。",
+      "en": "The rice is delicious.",
+      "fr": "Le riz est délicieux."
+    },
+    {
+      "id": "s5",
+      "display": "秋風がつめたい。",
+      "hiragana": "あきかぜがつめたい。",
+      "en": "The autumn wind is cold.",
+      "fr": "Le vent d'automne est froid."
+    },
+    {
+      "id": "s6",
+      "display": "時計を合わせる。",
+      "hiragana": "とけいをあわせる。",
+      "en": "To set a clock.",
+      "fr": "Régler une horloge."
+    },
+    {
+      "id": "s7",
+      "display": "理科のじっけん。",
+      "hiragana": "りかのじっけん。",
+      "en": "A science experiment.",
+      "fr": "Une expérience de sciences."
+    },
+    {
+      "id": "s8",
+      "display": "馬にのる。",
+      "hiragana": "うまにのる。",
+      "en": "To ride a horse.",
+      "fr": "Monter à cheval."
+    },
+    {
+      "id": "s9",
+      "display": "首かざりをつける。",
+      "hiragana": "くびかざりをつける。",
+      "en": "To put on a necklace.",
+      "fr": "Mettre un collier."
+    },
+    {
+      "id": "s10",
+      "display": "夕食を作る。",
+      "hiragana": "ゆうしょくをつくる。",
+      "en": "To make dinner.",
+      "fr": "Préparer le dîner."
+    },
+    {
+      "id": "s11",
+      "display": "一つに合体する。",
+      "hiragana": "ひとつにがったいする。",
+      "en": "To combine into one.",
+      "fr": "Se combiner en un seul."
+    },
+    {
+      "id": "s12",
+      "display": "細いまがり角。",
+      "hiragana": "ほそいまがりかど。",
+      "en": "A narrow bend.",
+      "fr": "Un virage étroit."
+    },
+    {
+      "id": "s13",
+      "display": "画用紙に絵をかく。",
+      "hiragana": "がようしにえをかく。",
+      "en": "To draw a picture on drawing paper.",
+      "fr": "Dessiner sur du papier à dessin."
+    },
+    {
+      "id": "s14",
+      "display": "作文を書く。",
+      "hiragana": "さくぶんをかく。",
+      "en": "To write a composition.",
+      "fr": "Écrire une rédaction."
+    },
+    {
+      "id": "s15",
+      "display": "三角形。",
+      "hiragana": "さんかくけい。",
+      "en": "Triangle.",
+      "fr": "Triangle."
+    },
+    {
+      "id": "s16",
+      "display": "竹で細工する。",
+      "hiragana": "たけでさいくする。",
+      "en": "To do bamboo craftwork.",
+      "fr": "Travailler le bambou."
+    }
+  ],
+  "words": [
+    { "id": "w1",  "sentenceIds": ["s1"],        "display": "新しい",  "hiragana": "あたらしい", "en": "new",              "fr": "nouveau, neuf" },
+    { "id": "w2",  "sentenceIds": ["s1"],        "display": "本",      "hiragana": "ほん",       "en": "book",             "fr": "livre" },
+    { "id": "w3",  "sentenceIds": ["s1"],        "display": "買う",    "hiragana": "かう",       "en": "to buy",           "fr": "acheter" },
+    { "id": "w4",  "sentenceIds": ["s2"],        "display": "ふみ台",  "hiragana": "ふみだい",   "en": "step stool",       "fr": "marchepied" },
+    { "id": "w5",  "sentenceIds": ["s3"],        "display": "船",      "hiragana": "ふね",       "en": "boat, ship",       "fr": "bateau, navire" },
+    { "id": "w6",  "sentenceIds": ["s3"],        "display": "海",      "hiragana": "うみ",       "en": "sea, ocean",       "fr": "mer, océan" },
+    { "id": "w7",  "sentenceIds": ["s4"],        "display": "米",      "hiragana": "こめ",       "en": "rice",             "fr": "riz" },
+    { "id": "w8",  "sentenceIds": ["s5"],        "display": "秋風",    "hiragana": "あきかぜ",   "en": "autumn wind",      "fr": "vent d'automne" },
+    { "id": "w9",  "sentenceIds": ["s6"],        "display": "時計",    "hiragana": "とけい",     "en": "clock, watch",     "fr": "horloge, montre" },
+    { "id": "w10", "sentenceIds": ["s6"],        "display": "合わせる","hiragana": "あわせる",   "en": "to set, adjust",   "fr": "régler, ajuster" },
+    { "id": "w11", "sentenceIds": ["s7"],        "display": "理科",    "hiragana": "りか",       "en": "science",          "fr": "sciences naturelles" },
+    { "id": "w12", "sentenceIds": ["s8"],        "display": "馬",      "hiragana": "うま",       "en": "horse",            "fr": "cheval" },
+    { "id": "w13", "sentenceIds": ["s9"],        "display": "首かざり","hiragana": "くびかざり", "en": "necklace",         "fr": "collier" },
+    { "id": "w14", "sentenceIds": ["s10"],       "display": "夕食",    "hiragana": "ゆうしょく", "en": "dinner, supper",   "fr": "dîner, souper" },
+    { "id": "w15", "sentenceIds": ["s10"],       "display": "作る",    "hiragana": "つくる",     "en": "to make, create",  "fr": "faire, créer" },
+    { "id": "w16", "sentenceIds": ["s11"],       "display": "一つ",    "hiragana": "ひとつ",     "en": "one",              "fr": "un, une" },
+    { "id": "w17", "sentenceIds": ["s11"],       "display": "合体",    "hiragana": "がったい",   "en": "combination, fusion", "fr": "combinaison, fusion" },
+    { "id": "w18", "sentenceIds": ["s12"],       "display": "細い",    "hiragana": "ほそい",     "en": "thin, narrow",     "fr": "fin, étroit" },
+    { "id": "w19", "sentenceIds": ["s12"],       "display": "まがり角","hiragana": "まがりかど", "en": "corner, bend",     "fr": "virage, coin" },
+    { "id": "w20", "sentenceIds": ["s13"],       "display": "画用紙",  "hiragana": "がようし",   "en": "drawing paper",    "fr": "papier à dessin" },
+    { "id": "w21", "sentenceIds": ["s13"],       "display": "絵",      "hiragana": "え",         "en": "picture, drawing", "fr": "dessin, tableau" },
+    { "id": "w22", "sentenceIds": ["s14"],       "display": "作文",    "hiragana": "さくぶん",   "en": "composition, essay", "fr": "rédaction, composition" },
+    { "id": "w23", "sentenceIds": ["s14"],       "display": "書く",    "hiragana": "かく",       "en": "to write",         "fr": "écrire" },
+    { "id": "w24", "sentenceIds": ["s15"],       "display": "三角形",  "hiragana": "さんかくけい", "en": "triangle",       "fr": "triangle" },
+    { "id": "w25", "sentenceIds": ["s16"],       "display": "竹",      "hiragana": "たけ",       "en": "bamboo",           "fr": "bambou" },
+    { "id": "w26", "sentenceIds": ["s16"],       "display": "細工",    "hiragana": "さいく",     "en": "craftwork",        "fr": "artisanat, ouvrage" }
+  ],
+  "kanjis": [
+    { "id": "k1",  "wordIds": ["w1"],             "kanji": "新", "readings": ["しん", "あたら"],              "en": "new",              "fr": "nouveau, neuf" },
+    { "id": "k2",  "wordIds": ["w2"],             "kanji": "本", "readings": ["ほん", "もと"],               "en": "book, origin",     "fr": "livre, origine" },
+    { "id": "k3",  "wordIds": ["w3"],             "kanji": "買", "readings": ["ばい", "か"],                 "en": "buy",              "fr": "acheter" },
+    { "id": "k4",  "wordIds": ["w4"],             "kanji": "台", "readings": ["だい", "たい"],               "en": "stand, platform",  "fr": "socle, support" },
+    { "id": "k5",  "wordIds": ["w5"],             "kanji": "船", "readings": ["せん", "ふね"],               "en": "boat, ship",       "fr": "bateau, navire" },
+    { "id": "k6",  "wordIds": ["w6"],             "kanji": "海", "readings": ["かい", "うみ"],               "en": "sea, ocean",       "fr": "mer, océan" },
+    { "id": "k7",  "wordIds": ["w7"],             "kanji": "米", "readings": ["べい", "まい", "こめ"],       "en": "rice",             "fr": "riz" },
+    { "id": "k8",  "wordIds": ["w8"],             "kanji": "秋", "readings": ["しゅう", "あき"],             "en": "autumn",           "fr": "automne" },
+    { "id": "k9",  "wordIds": ["w8"],             "kanji": "風", "readings": ["ふう", "かぜ"],               "en": "wind",             "fr": "vent" },
+    { "id": "k10", "wordIds": ["w9"],             "kanji": "時", "readings": ["じ", "とき"],                 "en": "time, hour",       "fr": "heure, temps" },
+    { "id": "k11", "wordIds": ["w9"],             "kanji": "計", "readings": ["けい", "はか"],               "en": "measure, plan",    "fr": "mesure, calculer" },
+    { "id": "k12", "wordIds": ["w10", "w17"],     "kanji": "合", "readings": ["ごう", "がっ", "あ"],         "en": "fit, match",       "fr": "correspondre, convenir" },
+    { "id": "k13", "wordIds": ["w11"],            "kanji": "理", "readings": ["り"],                         "en": "reason, science",  "fr": "raison, science" },
+    { "id": "k14", "wordIds": ["w11"],            "kanji": "科", "readings": ["か"],                         "en": "subject, course",  "fr": "matière, discipline" },
+    { "id": "k15", "wordIds": ["w12"],            "kanji": "馬", "readings": ["ば", "うま"],                 "en": "horse",            "fr": "cheval" },
+    { "id": "k16", "wordIds": ["w13"],            "kanji": "首", "readings": ["しゅ", "くび"],               "en": "neck",             "fr": "cou" },
+    { "id": "k17", "wordIds": ["w14"],            "kanji": "夕", "readings": ["せき", "ゆう"],               "en": "evening",          "fr": "soir" },
+    { "id": "k18", "wordIds": ["w14"],            "kanji": "食", "readings": ["しょく", "じき", "た"],       "en": "eat, food",        "fr": "manger, nourriture" },
+    { "id": "k19", "wordIds": ["w15", "w22"],     "kanji": "作", "readings": ["さく", "つく"],               "en": "make, create",     "fr": "faire, créer" },
+    { "id": "k20", "wordIds": ["w16"],            "kanji": "一", "readings": ["いち", "いつ", "ひと"],       "en": "one",              "fr": "un" },
+    { "id": "k21", "wordIds": ["w17"],            "kanji": "体", "readings": ["たい", "からだ"],             "en": "body",             "fr": "corps" },
+    { "id": "k22", "wordIds": ["w18", "w26"],     "kanji": "細", "readings": ["さい", "ほそ"],               "en": "thin, detailed",   "fr": "fin, détaillé" },
+    { "id": "k23", "wordIds": ["w19", "w24"],     "kanji": "角", "readings": ["かく", "かど"],               "en": "corner, angle",    "fr": "coin, angle" },
+    { "id": "k24", "wordIds": ["w20"],            "kanji": "画", "readings": ["が", "かく"],                 "en": "picture, draw",    "fr": "dessin, tableau" },
+    { "id": "k25", "wordIds": ["w20"],            "kanji": "用", "readings": ["よう"],                       "en": "use, purpose",     "fr": "usage, utilité" },
+    { "id": "k26", "wordIds": ["w20"],            "kanji": "紙", "readings": ["し", "かみ"],                 "en": "paper",            "fr": "papier" },
+    { "id": "k27", "wordIds": ["w21"],            "kanji": "絵", "readings": ["かい", "え"],                 "en": "picture, drawing", "fr": "dessin, tableau" },
+    { "id": "k28", "wordIds": ["w22"],            "kanji": "文", "readings": ["ぶん", "もん", "ふみ"],       "en": "writing, sentence", "fr": "écriture, phrase" },
+    { "id": "k29", "wordIds": ["w23"],            "kanji": "書", "readings": ["しょ", "か"],                 "en": "write",            "fr": "écrire" },
+    { "id": "k30", "wordIds": ["w24"],            "kanji": "三", "readings": ["さん", "み"],                 "en": "three",            "fr": "trois" },
+    { "id": "k31", "wordIds": ["w24"],            "kanji": "形", "readings": ["けい", "ぎょう", "かたち"],   "en": "shape, form",      "fr": "forme, figure" },
+    { "id": "k32", "wordIds": ["w25"],            "kanji": "竹", "readings": ["ちく", "たけ"],               "en": "bamboo",           "fr": "bambou" },
+    { "id": "k33", "wordIds": ["w26"],            "kanji": "工", "readings": ["こう", "く"],                 "en": "craft, work",      "fr": "artisanat, travail" }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "2nensei-yomitori-7",
+  "name": {"fr": "2ème année lecture 7", "en": "2nd Year Reading 7", "ja": "2年生 よみとり 7"},
+  "sentences": [
+    {
+      "id": "s1",
+      "display": "父のたんじょう日。",
+      "hiragana": "ちちのたんじょうび。",
+      "en": "Father's birthday.",
+      "fr": "L'anniversaire de père."
+    },
+    {
+      "id": "s2",
+      "display": "母の日に花をおくる。",
+      "hiragana": "ははのひにはなをおくる。",
+      "en": "To give flowers on Mother's Day.",
+      "fr": "Offrir des fleurs pour la fête des mères."
+    },
+    {
+      "id": "s3",
+      "display": "兄といっしょに帰る。",
+      "hiragana": "あにといっしょにかえる。",
+      "en": "To return together with one's older brother.",
+      "fr": "Rentrer avec son grand frère."
+    },
+    {
+      "id": "s4",
+      "display": "弟となかがいい。",
+      "hiragana": "おとうととなかがいい。",
+      "en": "To be close with one's younger brother.",
+      "fr": "S'entendre bien avec son petit frère."
+    },
+    {
+      "id": "s5",
+      "display": "午後からあそぶ。",
+      "hiragana": "ごごからあそぶ。",
+      "en": "To play from the afternoon.",
+      "fr": "Jouer à partir de l'après-midi."
+    },
+    {
+      "id": "s6",
+      "display": "親がむかえに来る。",
+      "hiragana": "おやがむかえにくる。",
+      "en": "A parent comes to pick up.",
+      "fr": "Un parent vient chercher."
+    },
+    {
+      "id": "s7",
+      "display": "北国はさむい。",
+      "hiragana": "きたぐにはさむい。",
+      "en": "The north is cold.",
+      "fr": "Le nord est froid."
+    },
+    {
+      "id": "s8",
+      "display": "紙くずをあつめる。",
+      "hiragana": "かみくずをあつめる。",
+      "en": "To collect scraps of paper.",
+      "fr": "Ramasser des morceaux de papier."
+    },
+    {
+      "id": "s9",
+      "display": "おやつの時間。",
+      "hiragana": "おやつのじかん。",
+      "en": "Snack time.",
+      "fr": "L'heure du goûter."
+    },
+    {
+      "id": "s10",
+      "display": "算数をがんばる。",
+      "hiragana": "さんすうをがんばる。",
+      "en": "To work hard at arithmetic.",
+      "fr": "S'appliquer en arithmétique."
+    },
+    {
+      "id": "s11",
+      "display": "もうすぐ夜になる。",
+      "hiragana": "もうすぐよるになる。",
+      "en": "It will soon be night.",
+      "fr": "La nuit va bientôt tomber."
+    },
+    {
+      "id": "s12",
+      "display": "音楽を聞く。",
+      "hiragana": "おんがくをきく。",
+      "en": "To listen to music.",
+      "fr": "Écouter de la musique."
+    },
+    {
+      "id": "s13",
+      "display": "外国人に会う。",
+      "hiragana": "がいこくじんにあう。",
+      "en": "To meet a foreigner.",
+      "fr": "Rencontrer un étranger."
+    },
+    {
+      "id": "s14",
+      "display": "兄弟が三人いる。",
+      "hiragana": "きょうだいがさんにんいる。",
+      "en": "There are three siblings.",
+      "fr": "Il y a trois frères et sœurs."
+    },
+    {
+      "id": "s15",
+      "display": "白紙にもどす。",
+      "hiragana": "はくしにもどす。",
+      "en": "To reset to blank.",
+      "fr": "Remettre à zéro."
+    },
+    {
+      "id": "s16",
+      "display": "今夜は三日月だ。",
+      "hiragana": "こんやはみかづきだ。",
+      "en": "Tonight is a crescent moon.",
+      "fr": "Ce soir, il y a un croissant de lune."
+    }
+  ],
+  "words": [
+    { "id": "w1",  "sentenceIds": ["s1"],        "display": "父",       "hiragana": "ちち",       "en": "father",            "fr": "père" },
+    { "id": "w2",  "sentenceIds": ["s1"],        "display": "たんじょう日", "hiragana": "たんじょうび", "en": "birthday",       "fr": "anniversaire" },
+    { "id": "w3",  "sentenceIds": ["s2"],        "display": "母の日",   "hiragana": "ははのひ",   "en": "Mother's Day",      "fr": "fête des mères" },
+    { "id": "w4",  "sentenceIds": ["s2"],        "display": "花",       "hiragana": "はな",       "en": "flower",            "fr": "fleur" },
+    { "id": "w5",  "sentenceIds": ["s3"],        "display": "兄",       "hiragana": "あに",       "en": "older brother",     "fr": "grand frère" },
+    { "id": "w6",  "sentenceIds": ["s3"],        "display": "帰る",     "hiragana": "かえる",     "en": "to return home",    "fr": "rentrer" },
+    { "id": "w7",  "sentenceIds": ["s4"],        "display": "弟",       "hiragana": "おとうと",   "en": "younger brother",   "fr": "petit frère" },
+    { "id": "w8",  "sentenceIds": ["s5"],        "display": "午後",     "hiragana": "ごご",       "en": "afternoon",         "fr": "après-midi" },
+    { "id": "w9",  "sentenceIds": ["s6"],        "display": "親",       "hiragana": "おや",       "en": "parent",            "fr": "parent" },
+    { "id": "w10", "sentenceIds": ["s6"],        "display": "来る",     "hiragana": "くる",       "en": "to come",           "fr": "venir" },
+    { "id": "w11", "sentenceIds": ["s7"],        "display": "北国",     "hiragana": "きたぐに",   "en": "northern country",  "fr": "pays du nord" },
+    { "id": "w12", "sentenceIds": ["s8"],        "display": "紙",       "hiragana": "かみ",       "en": "paper",             "fr": "papier" },
+    { "id": "w13", "sentenceIds": ["s9"],        "display": "時間",     "hiragana": "じかん",     "en": "time",              "fr": "temps, durée" },
+    { "id": "w14", "sentenceIds": ["s10"],       "display": "算数",     "hiragana": "さんすう",   "en": "arithmetic",        "fr": "arithmétique" },
+    { "id": "w15", "sentenceIds": ["s11"],       "display": "夜",       "hiragana": "よる",       "en": "night",             "fr": "nuit" },
+    { "id": "w16", "sentenceIds": ["s12"],       "display": "音楽",     "hiragana": "おんがく",   "en": "music",             "fr": "musique" },
+    { "id": "w17", "sentenceIds": ["s12"],       "display": "聞く",     "hiragana": "きく",       "en": "to listen",         "fr": "écouter" },
+    { "id": "w18", "sentenceIds": ["s13"],       "display": "外国人",   "hiragana": "がいこくじん", "en": "foreigner",       "fr": "étranger" },
+    { "id": "w19", "sentenceIds": ["s13"],       "display": "会う",     "hiragana": "あう",       "en": "to meet",           "fr": "rencontrer" },
+    { "id": "w20", "sentenceIds": ["s14"],       "display": "兄弟",     "hiragana": "きょうだい", "en": "siblings",          "fr": "frères et sœurs" },
+    { "id": "w21", "sentenceIds": ["s14"],       "display": "三人",     "hiragana": "さんにん",   "en": "three people",      "fr": "trois personnes" },
+    { "id": "w22", "sentenceIds": ["s15"],       "display": "白紙",     "hiragana": "はくし",     "en": "blank paper, reset", "fr": "page blanche, remise à zéro" },
+    { "id": "w23", "sentenceIds": ["s16"],       "display": "今夜",     "hiragana": "こんや",     "en": "tonight",           "fr": "ce soir" },
+    { "id": "w24", "sentenceIds": ["s16"],       "display": "三日月",   "hiragana": "みかづき",   "en": "crescent moon",     "fr": "croissant de lune" }
+  ],
+  "kanjis": [
+    { "id": "k1",  "wordIds": ["w1"],             "kanji": "父", "readings": ["ふ", "ちち"],                   "en": "father",           "fr": "père" },
+    { "id": "k2",  "wordIds": ["w2", "w3", "w24"],"kanji": "日", "readings": ["にち", "じつ", "ひ", "か"],     "en": "sun, day",         "fr": "soleil, jour" },
+    { "id": "k3",  "wordIds": ["w3"],             "kanji": "母", "readings": ["ぼ", "はは"],                   "en": "mother",           "fr": "mère" },
+    { "id": "k4",  "wordIds": ["w4"],             "kanji": "花", "readings": ["か", "はな"],                   "en": "flower",           "fr": "fleur" },
+    { "id": "k5",  "wordIds": ["w5", "w20"],      "kanji": "兄", "readings": ["けい", "きょう", "あに"],       "en": "older brother",    "fr": "grand frère" },
+    { "id": "k6",  "wordIds": ["w6"],             "kanji": "帰", "readings": ["き", "かえ"],                   "en": "return home",      "fr": "rentrer" },
+    { "id": "k7",  "wordIds": ["w7", "w20"],      "kanji": "弟", "readings": ["てい", "だい", "おとうと"],     "en": "younger brother",  "fr": "petit frère" },
+    { "id": "k8",  "wordIds": ["w8"],             "kanji": "午", "readings": ["ご"],                           "en": "noon, hour",       "fr": "midi, heure" },
+    { "id": "k9",  "wordIds": ["w8"],             "kanji": "後", "readings": ["ご", "こう", "あと"],           "en": "after, behind",    "fr": "après, derrière" },
+    { "id": "k10", "wordIds": ["w9"],             "kanji": "親", "readings": ["しん", "おや"],                 "en": "parent, close",    "fr": "parent, proche" },
+    { "id": "k11", "wordIds": ["w10"],            "kanji": "来", "readings": ["らい", "く", "き"],             "en": "come",             "fr": "venir" },
+    { "id": "k12", "wordIds": ["w11"],            "kanji": "北", "readings": ["ほく", "きた"],                 "en": "north",            "fr": "nord" },
+    { "id": "k13", "wordIds": ["w11", "w18"],     "kanji": "国", "readings": ["こく", "くに"],                 "en": "country",          "fr": "pays" },
+    { "id": "k14", "wordIds": ["w12", "w22"],     "kanji": "紙", "readings": ["し", "かみ"],                   "en": "paper",            "fr": "papier" },
+    { "id": "k15", "wordIds": ["w13"],            "kanji": "時", "readings": ["じ", "とき"],                   "en": "time, hour",       "fr": "heure, temps" },
+    { "id": "k16", "wordIds": ["w13"],            "kanji": "間", "readings": ["かん", "けん", "ま", "あいだ"], "en": "interval, between", "fr": "intervalle, entre" },
+    { "id": "k17", "wordIds": ["w14"],            "kanji": "算", "readings": ["さん"],                         "en": "calculate",        "fr": "calculer, compter" },
+    { "id": "k18", "wordIds": ["w14"],            "kanji": "数", "readings": ["すう", "かず"],                 "en": "number, count",    "fr": "nombre, compter" },
+    { "id": "k19", "wordIds": ["w15", "w23"],     "kanji": "夜", "readings": ["や", "よる"],                   "en": "night",            "fr": "nuit" },
+    { "id": "k20", "wordIds": ["w16"],            "kanji": "音", "readings": ["おん", "いん", "おと"],         "en": "sound",            "fr": "son, bruit" },
+    { "id": "k21", "wordIds": ["w16"],            "kanji": "楽", "readings": ["がく", "らく", "たの"],         "en": "music, comfort",   "fr": "musique, plaisir" },
+    { "id": "k22", "wordIds": ["w17"],            "kanji": "聞", "readings": ["ぶん", "き"],                   "en": "listen, hear",     "fr": "écouter, entendre" },
+    { "id": "k23", "wordIds": ["w18"],            "kanji": "外", "readings": ["がい", "そと"],                 "en": "outside, foreign", "fr": "extérieur, étranger" },
+    { "id": "k24", "wordIds": ["w18", "w21"],     "kanji": "人", "readings": ["じん", "にん", "ひと"],         "en": "person",           "fr": "personne" },
+    { "id": "k25", "wordIds": ["w19"],            "kanji": "会", "readings": ["かい", "あ"],                   "en": "meet, association", "fr": "rencontrer, association" },
+    { "id": "k26", "wordIds": ["w21", "w24"],     "kanji": "三", "readings": ["さん", "み"],                   "en": "three",            "fr": "trois" },
+    { "id": "k27", "wordIds": ["w22"],            "kanji": "白", "readings": ["はく", "しろ"],                 "en": "white, blank",     "fr": "blanc" },
+    { "id": "k28", "wordIds": ["w23"],            "kanji": "今", "readings": ["こん", "きん", "いま"],         "en": "now, present",     "fr": "maintenant, présent" },
+    { "id": "k29", "wordIds": ["w24"],            "kanji": "月", "readings": ["げつ", "がつ", "つき"],         "en": "moon, month",      "fr": "lune, mois" }
+  ]
+}

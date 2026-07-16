@@ -1,0 +1,156 @@
+{
+  "id": "1nensei-yomitori-6",
+  "name": {"fr": "1ère année lecture 6", "en": "1st Year Reading 6", "ja": "1年生 よみとり 6"},
+  "sentences": [
+    {
+      "id": "s1",
+      "display": "大きな音がする。",
+      "hiragana": "おおきなおとがする。",
+      "en": "To make a loud sound.",
+      "fr": "Faire un grand bruit."
+    },
+    {
+      "id": "s2",
+      "display": "赤いふうせん。",
+      "hiragana": "あかいふうせん。",
+      "en": "A red balloon.",
+      "fr": "Un ballon rouge."
+    },
+    {
+      "id": "s3",
+      "display": "玉入れをする。",
+      "hiragana": "たまいれをする。",
+      "en": "To play ball-toss.",
+      "fr": "Jouer au lancer de balles."
+    },
+    {
+      "id": "s4",
+      "display": "一月に生まれる。",
+      "hiragana": "いちがつにうまれる。",
+      "en": "To be born in January.",
+      "fr": "Naître en janvier."
+    },
+    {
+      "id": "s5",
+      "display": "耳をすましてきく。",
+      "hiragana": "みみをすましてきく。",
+      "en": "To listen carefully.",
+      "fr": "Tendre l'oreille pour écouter."
+    },
+    {
+      "id": "s6",
+      "display": "はだかの王さま。",
+      "hiragana": "はだかのおうさま。",
+      "en": "The naked king.",
+      "fr": "Le roi nu."
+    },
+    {
+      "id": "s7",
+      "display": "口ぶえをならす。",
+      "hiragana": "くちぶえをならす。",
+      "en": "To whistle.",
+      "fr": "Siffler."
+    },
+    {
+      "id": "s8",
+      "display": "はたを立てる。",
+      "hiragana": "はたをたてる。",
+      "en": "To raise a flag.",
+      "fr": "Planter un drapeau."
+    },
+    {
+      "id": "s9",
+      "display": "生きものをそだてる。",
+      "hiragana": "いきものをそだてる。",
+      "en": "To raise a living creature.",
+      "fr": "Élever un être vivant."
+    },
+    {
+      "id": "s10",
+      "display": "音がくをきく。",
+      "hiragana": "おんがくをきく。",
+      "en": "To listen to music.",
+      "fr": "Écouter de la musique."
+    },
+    {
+      "id": "s11",
+      "display": "先にしゅっぱつする。",
+      "hiragana": "さきにしゅっぱつする。",
+      "en": "To depart first.",
+      "fr": "Partir en premier."
+    },
+    {
+      "id": "s12",
+      "display": "草むしりをする。",
+      "hiragana": "くさむしりをする。",
+      "en": "To weed.",
+      "fr": "Désherber."
+    },
+    {
+      "id": "s13",
+      "display": "一年生。",
+      "hiragana": "いちねんせい。",
+      "en": "First-year student.",
+      "fr": "Élève de première année."
+    },
+    {
+      "id": "s14",
+      "display": "目ひょうをたてる。",
+      "hiragana": "もくひょうをたてる。",
+      "en": "To set a goal.",
+      "fr": "Fixer un objectif."
+    },
+    {
+      "id": "s15",
+      "display": "先生がはなす。",
+      "hiragana": "せんせいがはなす。",
+      "en": "The teacher speaks.",
+      "fr": "Le professeur parle."
+    },
+    {
+      "id": "s16",
+      "display": "年こしそばをたべる。",
+      "hiragana": "としこしそばをたべる。",
+      "en": "To eat New Year's Eve soba.",
+      "fr": "Manger le soba du réveillon du Nouvel An."
+    }
+  ],
+  "words": [
+    { "id": "w1",  "sentenceIds": ["s1"],        "display": "大きな",   "hiragana": "おおきな",   "en": "big, large",         "fr": "grand, large" },
+    { "id": "w2",  "sentenceIds": ["s1"],        "display": "音",       "hiragana": "おと",       "en": "sound, noise",       "fr": "son, bruit" },
+    { "id": "w3",  "sentenceIds": ["s2"],        "display": "赤い",     "hiragana": "あかい",     "en": "red",                "fr": "rouge" },
+    { "id": "w4",  "sentenceIds": ["s3"],        "display": "玉入れ",   "hiragana": "たまいれ",   "en": "ball-toss game",     "fr": "jeu de lancer de balles" },
+    { "id": "w5",  "sentenceIds": ["s4"],        "display": "一月",     "hiragana": "いちがつ",   "en": "January",            "fr": "janvier" },
+    { "id": "w6",  "sentenceIds": ["s4"],        "display": "生まれる", "hiragana": "うまれる",   "en": "to be born",         "fr": "naître" },
+    { "id": "w7",  "sentenceIds": ["s5"],        "display": "耳",       "hiragana": "みみ",       "en": "ear",                "fr": "oreille" },
+    { "id": "w8",  "sentenceIds": ["s6"],        "display": "王さま",   "hiragana": "おうさま",   "en": "king",               "fr": "roi" },
+    { "id": "w9",  "sentenceIds": ["s7"],        "display": "口ぶえ",   "hiragana": "くちぶえ",   "en": "whistle",            "fr": "sifflement" },
+    { "id": "w10", "sentenceIds": ["s8"],        "display": "立てる",   "hiragana": "たてる",     "en": "to raise, to set up", "fr": "dresser, planter" },
+    { "id": "w11", "sentenceIds": ["s9"],        "display": "生きもの", "hiragana": "いきもの",   "en": "living creature",    "fr": "être vivant" },
+    { "id": "w12", "sentenceIds": ["s10"],       "display": "音がく",   "hiragana": "おんがく",   "en": "music",              "fr": "musique" },
+    { "id": "w13", "sentenceIds": ["s11"],       "display": "先",       "hiragana": "さき",       "en": "ahead, first",       "fr": "devant, d'abord" },
+    { "id": "w14", "sentenceIds": ["s12"],       "display": "草むしり", "hiragana": "くさむしり", "en": "weeding",            "fr": "désherbage" },
+    { "id": "w15", "sentenceIds": ["s13"],       "display": "一年生",   "hiragana": "いちねんせい", "en": "first-year student", "fr": "élève de première année" },
+    { "id": "w16", "sentenceIds": ["s14"],       "display": "目ひょう", "hiragana": "もくひょう", "en": "goal, target",       "fr": "objectif, but" },
+    { "id": "w17", "sentenceIds": ["s15"],       "display": "先生",     "hiragana": "せんせい",   "en": "teacher",            "fr": "professeur, enseignant" },
+    { "id": "w18", "sentenceIds": ["s16"],       "display": "年こし",   "hiragana": "としこし",   "en": "year-crossing, New Year's Eve", "fr": "passage de l'an, réveillon" }
+  ],
+  "kanjis": [
+    { "id": "k1",  "wordIds": ["w1"],                  "kanji": "大", "readings": ["だい", "たい", "おお"],         "en": "big, large",       "fr": "grand, large" },
+    { "id": "k2",  "wordIds": ["w2", "w12"],            "kanji": "音", "readings": ["おん", "いん", "おと"],         "en": "sound",            "fr": "son, bruit" },
+    { "id": "k3",  "wordIds": ["w3"],                  "kanji": "赤", "readings": ["せき", "あか"],                 "en": "red",              "fr": "rouge" },
+    { "id": "k4",  "wordIds": ["w4"],                  "kanji": "玉", "readings": ["ぎょく", "たま"],               "en": "ball, jewel",      "fr": "balle, joyau" },
+    { "id": "k5",  "wordIds": ["w4"],                  "kanji": "入", "readings": ["にゅう", "い", "はい"],         "en": "enter, put in",    "fr": "entrer, mettre" },
+    { "id": "k6",  "wordIds": ["w5", "w15"],            "kanji": "一", "readings": ["いち", "いつ", "ひと"],         "en": "one",              "fr": "un" },
+    { "id": "k7",  "wordIds": ["w5"],                  "kanji": "月", "readings": ["げつ", "がつ", "つき"],         "en": "moon, month",      "fr": "lune, mois" },
+    { "id": "k8",  "wordIds": ["w6", "w11", "w15", "w17"], "kanji": "生", "readings": ["せい", "しょう", "い", "なま"], "en": "life, birth",  "fr": "vie, naissance" },
+    { "id": "k9",  "wordIds": ["w7"],                  "kanji": "耳", "readings": ["じ", "みみ"],                   "en": "ear",              "fr": "oreille" },
+    { "id": "k10", "wordIds": ["w8"],                  "kanji": "王", "readings": ["おう"],                         "en": "king",             "fr": "roi" },
+    { "id": "k11", "wordIds": ["w9"],                  "kanji": "口", "readings": ["こう", "くち"],                 "en": "mouth",            "fr": "bouche" },
+    { "id": "k12", "wordIds": ["w10"],                 "kanji": "立", "readings": ["りつ", "た"],                   "en": "stand, raise",     "fr": "se lever, dresser" },
+    { "id": "k13", "wordIds": ["w14"],                 "kanji": "草", "readings": ["そう", "くさ"],                 "en": "grass, weed",      "fr": "herbe, mauvaise herbe" },
+    { "id": "k14", "wordIds": ["w15", "w18"],          "kanji": "年", "readings": ["ねん", "とし"],                 "en": "year",             "fr": "année" },
+    { "id": "k15", "wordIds": ["w16"],                 "kanji": "目", "readings": ["もく", "め"],                   "en": "eye, goal",        "fr": "œil, objectif" },
+    { "id": "k16", "wordIds": ["w13", "w17"],          "kanji": "先", "readings": ["せん", "さき"],                 "en": "ahead, previous",  "fr": "devant, précédent" }
+  ]
+}

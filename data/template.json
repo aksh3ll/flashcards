@@ -1,0 +1,15 @@
+{
+  "id": "rei",
+  "name": { "en": "example", "fr": "exemple", "ja": "例" },
+  "sentences": [
+    { "id": "s1", "display": "これは例です。", "hiragana": "これはれいです。", "fr": "Ceci est un exemple.", "en": "This is an example."}
+  ],
+  "words": [
+    { "id": "w1", "sentenceIds": ["s1"], "display": "例", "hiragana": "れい", "en": "example", "fr": "exemple" },
+    { "id": "w2", "sentenceIds": ["s1"], "display": "書く", "hiragana": "かく", "en": "to write", "fr": "écrire" }
+  ],
+  "kanjis": [
+    { "id": "k1", "wordIds": ["w1"], "kanji": "考", "readings": ["れい", "たと"], "en": "example", "fr": "exemple" },
+    { "id": "k2", "wordIds": ["w2"], "kanji": "書", "readings": ["か", "しょ"], "en": "write", "fr": "écrire" }
+  ]
+}
