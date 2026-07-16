@@ -1,0 +1,49 @@
+{
+  "id": "example-1",
+  "name": {"fr": "Étudier le japonais", "en": "Studying Japanese", "ja": "日本語を勉強する"},
+  "order": 1,
+  "sentences": [
+    {
+      "id": "s1",
+      "display": "日本語を勉強しています",
+      "hiragana": "にほんごをべんきょうしています",
+      "en": "I am studying Japanese",
+      "fr": "J'étudie le japonais"
+    },
+    {
+      "id": "s2",
+      "display": "今日はいい天気ですね",
+      "hiragana": "きょうはいいてんきですね",
+      "en": "The weather is nice today, isn't it",
+      "fr": "Il fait beau aujourd'hui, n'est-ce pas"
+    },
+    {
+      "id": "s3",
+      "display": "明日も頑張りましょう",
+      "hiragana": "あしたもがんばりましょう",
+      "en": "Let's do our best tomorrow too",
+      "fr": "Faisons de notre mieux demain aussi"
+    }
+  ],
+  "words": [
+    { "id": "w1", "sentenceIds": ["s1"], "display": "日本語", "hiragana": "にほんご", "en": "Japanese language", "fr": "la langue japonaise" },
+    { "id": "w2", "sentenceIds": ["s1"], "display": "勉強", "hiragana": "べんきょう", "en": "study", "fr": "étude, étudier" },
+    { "id": "w3", "sentenceIds": ["s2"], "display": "今日", "hiragana": "きょう", "en": "today", "fr": "aujourd'hui" },
+    { "id": "w4", "sentenceIds": ["s2"], "display": "天気", "hiragana": "てんき", "en": "weather", "fr": "météo, temps" },
+    { "id": "w5", "sentenceIds": ["s3"], "display": "明日", "hiragana": "あした", "en": "tomorrow", "fr": "demain" },
+    { "id": "w6", "sentenceIds": ["s3"], "display": "頑張る", "hiragana": "がんばる", "en": "to do one's best", "fr": "faire de son mieux" }
+  ],
+  "kanjis": [
+    { "id": "k1",  "wordIds": ["w1", "w3", "w5"], "kanji": "日", "readings": ["にち", "じつ", "ひ", "か"], "en": "sun, day", "fr": "soleil, jour" },
+    { "id": "k2",  "wordIds": ["w1"],             "kanji": "本", "readings": ["ほん", "もと"],             "en": "book, origin, true", "fr": "livre, origine, vrai" },
+    { "id": "k3",  "wordIds": ["w1"],             "kanji": "語", "readings": ["ご", "かた"],               "en": "language, word", "fr": "langue, mot" },
+    { "id": "k4",  "wordIds": ["w2"],             "kanji": "勉", "readings": ["べん"],                     "en": "diligence, effort", "fr": "zèle, effort" },
+    { "id": "k5",  "wordIds": ["w2"],             "kanji": "強", "readings": ["きょう", "ごう", "つよ"],   "en": "strong, force", "fr": "fort, force" },
+    { "id": "k6",  "wordIds": ["w3"],             "kanji": "今", "readings": ["こん", "きん", "いま"],      "en": "now, present", "fr": "maintenant, présent" },
+    { "id": "k7",  "wordIds": ["w4"],             "kanji": "天", "readings": ["てん", "あま"],             "en": "heaven, sky", "fr": "ciel, paradis" },
+    { "id": "k8",  "wordIds": ["w4"],             "kanji": "気", "readings": ["き", "け"],                 "en": "spirit, energy", "fr": "esprit, énergie" },
+    { "id": "k9",  "wordIds": ["w5"],             "kanji": "明", "readings": ["めい", "みょう", "あ"],    "en": "bright, light, clear", "fr": "lumineux, clair" },
+    { "id": "k10", "wordIds": ["w6"],             "kanji": "頑", "readings": ["がん"],                   "en": "stubborn, determined", "fr": "têtu, déterminé" },
+    { "id": "k11", "wordIds": ["w6"],             "kanji": "張", "readings": ["ちょう", "は"],            "en": "stretch, spread", "fr": "tendre, étendre" }
+  ]
+}

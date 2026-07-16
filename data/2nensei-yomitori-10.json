@@ -1,0 +1,173 @@
+{
+  "id": "2nensei-yomitori-10",
+  "name": { "en": "2nd Year Reading 10", "fr": "2ème année lecture 10", "ja": "2年生 よみとり 10" },
+  "sentences": [
+    {
+      "id": "s1",
+      "display": "戸じまりをする。",
+      "hiragana": "とじまりをする。",
+      "en": "To lock up the doors.",
+      "fr": "Verrouiller les portes."
+    },
+    {
+      "id": "s2",
+      "display": "おいしい麦茶。",
+      "hiragana": "おいしいむぎちゃ。",
+      "en": "Delicious barley tea.",
+      "fr": "Délicieux thé d'orge."
+    },
+    {
+      "id": "s3",
+      "display": "地図を見る。",
+      "hiragana": "ちずをみる。",
+      "en": "To look at a map.",
+      "fr": "Regarder une carte."
+    },
+    {
+      "id": "s4",
+      "display": "自分のもちもの。",
+      "hiragana": "じぶんのもちもの。",
+      "en": "One's own belongings.",
+      "fr": "Ses propres affaires."
+    },
+    {
+      "id": "s5",
+      "display": "教科書をひらく。",
+      "hiragana": "きょうかしょをひらく。",
+      "en": "To open a textbook.",
+      "fr": "Ouvrir un manuel scolaire."
+    },
+    {
+      "id": "s6",
+      "display": "市場で買いものをする。",
+      "hiragana": "いちばでかいものをする。",
+      "en": "To shop at the market.",
+      "fr": "Faire ses achats au marché."
+    },
+    {
+      "id": "s7",
+      "display": "きれいな歌声。",
+      "hiragana": "きれいなうたごえ。",
+      "en": "A beautiful singing voice.",
+      "fr": "Une belle voix chantante."
+    },
+    {
+      "id": "s8",
+      "display": "心をこめる。",
+      "hiragana": "こころをこめる。",
+      "en": "To put one's heart into it.",
+      "fr": "Mettre du cœur à l'ouvrage."
+    },
+    {
+      "id": "s9",
+      "display": "はっきり答える。",
+      "hiragana": "はっきりこたえる。",
+      "en": "To answer clearly.",
+      "fr": "Répondre clairement."
+    },
+    {
+      "id": "s10",
+      "display": "うつくしい星空。",
+      "hiragana": "うつくしいほしぞら。",
+      "en": "A beautiful starry sky.",
+      "fr": "Un beau ciel étoilé."
+    },
+    {
+      "id": "s11",
+      "display": "野原でかけまわる。",
+      "hiragana": "のはらでかけまわる。",
+      "en": "To run around in the field.",
+      "fr": "Courir dans les champs."
+    },
+    {
+      "id": "s12",
+      "display": "冬になると雪がふる。",
+      "hiragana": "ふゆになるとゆきがふる。",
+      "en": "When winter comes, it snows.",
+      "fr": "Quand l'hiver arrive, il neige."
+    },
+    {
+      "id": "s13",
+      "display": "ごはんが少ない。",
+      "hiragana": "ごはんがすくない。",
+      "en": "There is little rice.",
+      "fr": "Il y a peu de riz."
+    },
+    {
+      "id": "s14",
+      "display": "元気よく走る。",
+      "hiragana": "げんきよくはしる。",
+      "en": "To run energetically.",
+      "fr": "Courir avec entrain."
+    },
+    {
+      "id": "s15",
+      "display": "みんなで交わる。",
+      "hiragana": "みんなでまじわる。",
+      "en": "To mingle with everyone.",
+      "fr": "Se mêler avec tout le monde."
+    },
+    {
+      "id": "s16",
+      "display": "野さいを食べる。",
+      "hiragana": "やさいをたべる。",
+      "en": "To eat vegetables.",
+      "fr": "Manger des légumes."
+    }
+  ],
+  "words": [
+    { "id": "w1",  "sentenceIds": ["s1"],       "display": "戸",     "hiragana": "と",         "en": "door",             "fr": "porte" },
+    { "id": "w2",  "sentenceIds": ["s2"],       "display": "麦茶",   "hiragana": "むぎちゃ",   "en": "barley tea",       "fr": "thé d'orge" },
+    { "id": "w3",  "sentenceIds": ["s3"],       "display": "地図",   "hiragana": "ちず",       "en": "map",              "fr": "carte" },
+    { "id": "w4",  "sentenceIds": ["s3"],       "display": "見る",   "hiragana": "みる",       "en": "to see, to look",  "fr": "voir, regarder" },
+    { "id": "w5",  "sentenceIds": ["s4"],       "display": "自分",   "hiragana": "じぶん",     "en": "oneself",          "fr": "soi-même" },
+    { "id": "w6",  "sentenceIds": ["s5"],       "display": "教科書", "hiragana": "きょうかしょ", "en": "textbook",       "fr": "manuel scolaire" },
+    { "id": "w7",  "sentenceIds": ["s6"],       "display": "市場",   "hiragana": "いちば",     "en": "market",           "fr": "marché" },
+    { "id": "w8",  "sentenceIds": ["s6"],       "display": "買いもの", "hiragana": "かいもの", "en": "shopping",         "fr": "courses, achats" },
+    { "id": "w9",  "sentenceIds": ["s7"],       "display": "歌声",   "hiragana": "うたごえ",   "en": "singing voice",    "fr": "voix chantante" },
+    { "id": "w10", "sentenceIds": ["s8"],       "display": "心",     "hiragana": "こころ",     "en": "heart, mind",      "fr": "cœur, esprit" },
+    { "id": "w11", "sentenceIds": ["s9"],       "display": "答える", "hiragana": "こたえる",   "en": "to answer",        "fr": "répondre" },
+    { "id": "w12", "sentenceIds": ["s10"],      "display": "星空",   "hiragana": "ほしぞら",   "en": "starry sky",       "fr": "ciel étoilé" },
+    { "id": "w13", "sentenceIds": ["s11"],      "display": "野原",   "hiragana": "のはら",     "en": "field, plain",     "fr": "champ, plaine" },
+    { "id": "w14", "sentenceIds": ["s12"],      "display": "冬",     "hiragana": "ふゆ",       "en": "winter",           "fr": "hiver" },
+    { "id": "w15", "sentenceIds": ["s12"],      "display": "雪",     "hiragana": "ゆき",       "en": "snow",             "fr": "neige" },
+    { "id": "w16", "sentenceIds": ["s13"],      "display": "少ない", "hiragana": "すくない",   "en": "few, little",      "fr": "peu, rare" },
+    { "id": "w17", "sentenceIds": ["s14"],      "display": "元気",   "hiragana": "げんき",     "en": "energy, health",   "fr": "énergie, forme" },
+    { "id": "w18", "sentenceIds": ["s14"],      "display": "走る",   "hiragana": "はしる",     "en": "to run",           "fr": "courir" },
+    { "id": "w19", "sentenceIds": ["s15"],      "display": "交わる", "hiragana": "まじわる",   "en": "to mingle, mix",   "fr": "se mêler, se croiser" },
+    { "id": "w20", "sentenceIds": ["s16"],      "display": "野さい", "hiragana": "やさい",     "en": "vegetables",       "fr": "légumes" },
+    { "id": "w21", "sentenceIds": ["s16"],      "display": "食べる", "hiragana": "たべる",     "en": "to eat",           "fr": "manger" }
+  ],
+  "kanjis": [
+    { "id": "k1",  "wordIds": ["w1"],        "kanji": "戸", "readings": ["こ", "と"],                   "en": "door",             "fr": "porte" },
+    { "id": "k2",  "wordIds": ["w2"],        "kanji": "麦", "readings": ["ばく", "むぎ"],               "en": "wheat, barley",    "fr": "blé, orge" },
+    { "id": "k3",  "wordIds": ["w2"],        "kanji": "茶", "readings": ["ちゃ", "さ"],                 "en": "tea",              "fr": "thé" },
+    { "id": "k4",  "wordIds": ["w3"],        "kanji": "地", "readings": ["ち", "じ"],                   "en": "ground, earth",    "fr": "sol, terre" },
+    { "id": "k5",  "wordIds": ["w3"],        "kanji": "図", "readings": ["ず", "と"],                   "en": "map, diagram",     "fr": "carte, schéma" },
+    { "id": "k6",  "wordIds": ["w4"],        "kanji": "見", "readings": ["けん", "み"],                 "en": "see, look",        "fr": "voir, regarder" },
+    { "id": "k7",  "wordIds": ["w5"],        "kanji": "自", "readings": ["じ", "みずか"],               "en": "self",             "fr": "soi, auto-" },
+    { "id": "k8",  "wordIds": ["w5"],        "kanji": "分", "readings": ["ぶん", "ふん", "わ"],         "en": "part, minute",     "fr": "partie, minute" },
+    { "id": "k9",  "wordIds": ["w6"],        "kanji": "教", "readings": ["きょう", "おし"],             "en": "teach, education", "fr": "enseigner, éducation" },
+    { "id": "k10", "wordIds": ["w6"],        "kanji": "科", "readings": ["か"],                         "en": "subject, course",  "fr": "matière, discipline" },
+    { "id": "k11", "wordIds": ["w6"],        "kanji": "書", "readings": ["しょ", "か"],                 "en": "write, book",      "fr": "écrire, livre" },
+    { "id": "k12", "wordIds": ["w7"],        "kanji": "市", "readings": ["し", "いち"],                 "en": "city, market",     "fr": "ville, marché" },
+    { "id": "k13", "wordIds": ["w7"],        "kanji": "場", "readings": ["じょう", "ば"],               "en": "place, scene",     "fr": "lieu, scène" },
+    { "id": "k14", "wordIds": ["w8"],        "kanji": "買", "readings": ["ばい", "か"],                 "en": "buy",              "fr": "acheter" },
+    { "id": "k15", "wordIds": ["w9"],        "kanji": "歌", "readings": ["か", "うた"],                 "en": "song, sing",       "fr": "chanson, chanter" },
+    { "id": "k16", "wordIds": ["w9"],        "kanji": "声", "readings": ["せい", "こえ"],               "en": "voice",            "fr": "voix" },
+    { "id": "k17", "wordIds": ["w10"],       "kanji": "心", "readings": ["しん", "こころ"],             "en": "heart, mind",      "fr": "cœur, esprit" },
+    { "id": "k18", "wordIds": ["w11"],       "kanji": "答", "readings": ["とう", "こた"],               "en": "answer",           "fr": "répondre, réponse" },
+    { "id": "k19", "wordIds": ["w12"],       "kanji": "星", "readings": ["せい", "ほし"],               "en": "star",             "fr": "étoile" },
+    { "id": "k20", "wordIds": ["w12"],       "kanji": "空", "readings": ["くう", "そら", "から"],       "en": "sky, empty",       "fr": "ciel, vide" },
+    { "id": "k21", "wordIds": ["w13", "w20"],"kanji": "野", "readings": ["や", "の"],                   "en": "field, wild",      "fr": "champ, sauvage" },
+    { "id": "k22", "wordIds": ["w13"],       "kanji": "原", "readings": ["げん", "はら"],               "en": "plain, origin",    "fr": "plaine, origine" },
+    { "id": "k23", "wordIds": ["w14"],       "kanji": "冬", "readings": ["とう", "ふゆ"],               "en": "winter",           "fr": "hiver" },
+    { "id": "k24", "wordIds": ["w15"],       "kanji": "雪", "readings": ["せつ", "ゆき"],               "en": "snow",             "fr": "neige" },
+    { "id": "k25", "wordIds": ["w16"],       "kanji": "少", "readings": ["しょう", "すく", "すこ"],     "en": "few, little",      "fr": "peu, rare" },
+    { "id": "k26", "wordIds": ["w17"],       "kanji": "元", "readings": ["げん", "がん", "もと"],       "en": "origin, health",   "fr": "origine, santé" },
+    { "id": "k27", "wordIds": ["w17"],       "kanji": "気", "readings": ["き", "け"],                   "en": "spirit, energy",   "fr": "esprit, énergie" },
+    { "id": "k28", "wordIds": ["w18"],       "kanji": "走", "readings": ["そう", "はし"],               "en": "run",              "fr": "courir" },
+    { "id": "k29", "wordIds": ["w19"],       "kanji": "交", "readings": ["こう", "まじ"],               "en": "mix, intersect",   "fr": "croiser, mélanger" },
+    { "id": "k30", "wordIds": ["w21"],       "kanji": "食", "readings": ["しょく", "じき", "た"],       "en": "eat, food",        "fr": "manger, nourriture" }
+  ]
+}

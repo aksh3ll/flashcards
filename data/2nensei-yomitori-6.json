@@ -1,0 +1,175 @@
+{
+  "id": "2nensei-yomitori-6",
+  "name": {"fr": "2ème année lecture 6", "en": "2nd Year Reading 6", "ja": "2年生 よみとり 6"},
+  "sentences": [
+    {
+      "id": "s1",
+      "display": "顔をあらう。",
+      "hiragana": "かおをあらう。",
+      "en": "To wash one's face.",
+      "fr": "Se laver le visage."
+    },
+    {
+      "id": "s2",
+      "display": "毎日本を読む。",
+      "hiragana": "まいにちほんをよむ。",
+      "en": "To read a book every day.",
+      "fr": "Lire un livre tous les jours."
+    },
+    {
+      "id": "s3",
+      "display": "家の中であそぶ。",
+      "hiragana": "いえのなかであそぶ。",
+      "en": "To play inside the house.",
+      "fr": "Jouer à l'intérieur de la maison."
+    },
+    {
+      "id": "s4",
+      "display": "人間の体。",
+      "hiragana": "にんげんのからだ。",
+      "en": "The human body.",
+      "fr": "Le corps humain."
+    },
+    {
+      "id": "s5",
+      "display": "もうすぐ昼になる。",
+      "hiragana": "もうすぐひるになる。",
+      "en": "It will soon be noon.",
+      "fr": "Il sera bientôt midi."
+    },
+    {
+      "id": "s6",
+      "display": "九時半にねる。",
+      "hiragana": "くじはんにねる。",
+      "en": "To go to sleep at nine thirty.",
+      "fr": "Se coucher à neuf heures et demie."
+    },
+    {
+      "id": "s7",
+      "display": "電気をつける。",
+      "hiragana": "でんきをつける。",
+      "en": "To turn on the light.",
+      "fr": "Allumer la lumière."
+    },
+    {
+      "id": "s8",
+      "display": "外で走る。",
+      "hiragana": "そとではしる。",
+      "en": "To run outside.",
+      "fr": "Courir dehors."
+    },
+    {
+      "id": "s9",
+      "display": "大きな声をだす。",
+      "hiragana": "おおきなこえをだす。",
+      "en": "To raise one's voice.",
+      "fr": "Élever la voix."
+    },
+    {
+      "id": "s10",
+      "display": "くじが当たる。",
+      "hiragana": "くじがあたる。",
+      "en": "To win a lottery.",
+      "fr": "Gagner à la loterie."
+    },
+    {
+      "id": "s11",
+      "display": "ボタンが外れる。",
+      "hiragana": "ぼたんがはずれる。",
+      "en": "A button comes undone.",
+      "fr": "Un bouton se détache."
+    },
+    {
+      "id": "s12",
+      "display": "楽しい時間。",
+      "hiragana": "たのしいじかん。",
+      "en": "Enjoyable time.",
+      "fr": "Moment agréable."
+    },
+    {
+      "id": "s13",
+      "display": "あひるの親子。",
+      "hiragana": "あひるのおやこ。",
+      "en": "A duck and its duckling.",
+      "fr": "Un canard et son petit."
+    },
+    {
+      "id": "s14",
+      "display": "公園であそぶ。",
+      "hiragana": "こうえんであそぶ。",
+      "en": "To play in the park.",
+      "fr": "Jouer au parc."
+    },
+    {
+      "id": "s15",
+      "display": "作家をめざす。",
+      "hiragana": "さっかをめざす。",
+      "en": "To aim to become an author.",
+      "fr": "Aspirer à devenir auteur."
+    },
+    {
+      "id": "s16",
+      "display": "親切に教える。",
+      "hiragana": "しんせつにおしえる。",
+      "en": "To teach kindly.",
+      "fr": "Enseigner avec gentillesse."
+    }
+  ],
+  "words": [
+    { "id": "w1",  "sentenceIds": ["s1"],        "display": "顔",     "hiragana": "かお",       "en": "face",              "fr": "visage" },
+    { "id": "w2",  "sentenceIds": ["s2"],        "display": "毎日",   "hiragana": "まいにち",   "en": "every day",         "fr": "tous les jours" },
+    { "id": "w3",  "sentenceIds": ["s2"],        "display": "本",     "hiragana": "ほん",       "en": "book",              "fr": "livre" },
+    { "id": "w4",  "sentenceIds": ["s2"],        "display": "読む",   "hiragana": "よむ",       "en": "to read",           "fr": "lire" },
+    { "id": "w5",  "sentenceIds": ["s3"],        "display": "家",     "hiragana": "いえ",       "en": "house, home",       "fr": "maison" },
+    { "id": "w6",  "sentenceIds": ["s3"],        "display": "中",     "hiragana": "なか",       "en": "inside, middle",    "fr": "intérieur, milieu" },
+    { "id": "w7",  "sentenceIds": ["s4"],        "display": "人間",   "hiragana": "にんげん",   "en": "human being",       "fr": "être humain" },
+    { "id": "w8",  "sentenceIds": ["s4"],        "display": "体",     "hiragana": "からだ",     "en": "body",              "fr": "corps" },
+    { "id": "w9",  "sentenceIds": ["s5"],        "display": "昼",     "hiragana": "ひる",       "en": "noon, daytime",     "fr": "midi, journée" },
+    { "id": "w10", "sentenceIds": ["s6"],        "display": "九時半", "hiragana": "くじはん",   "en": "nine thirty",       "fr": "neuf heures et demie" },
+    { "id": "w11", "sentenceIds": ["s7"],        "display": "電気",   "hiragana": "でんき",     "en": "electricity, light", "fr": "électricité, lumière" },
+    { "id": "w12", "sentenceIds": ["s8"],        "display": "外",     "hiragana": "そと",       "en": "outside",           "fr": "dehors, extérieur" },
+    { "id": "w13", "sentenceIds": ["s8"],        "display": "走る",   "hiragana": "はしる",     "en": "to run",            "fr": "courir" },
+    { "id": "w14", "sentenceIds": ["s9"],        "display": "大きな", "hiragana": "おおきな",   "en": "big, large",        "fr": "grand, large" },
+    { "id": "w15", "sentenceIds": ["s9"],        "display": "声",     "hiragana": "こえ",       "en": "voice",             "fr": "voix" },
+    { "id": "w16", "sentenceIds": ["s10"],       "display": "当たる", "hiragana": "あたる",     "en": "to hit, to win",    "fr": "toucher, gagner" },
+    { "id": "w17", "sentenceIds": ["s11"],       "display": "外れる", "hiragana": "はずれる",   "en": "to come undone",    "fr": "se détacher, rater" },
+    { "id": "w18", "sentenceIds": ["s12"],       "display": "楽しい", "hiragana": "たのしい",   "en": "enjoyable, fun",    "fr": "agréable, amusant" },
+    { "id": "w19", "sentenceIds": ["s12"],       "display": "時間",   "hiragana": "じかん",     "en": "time",              "fr": "temps, durée" },
+    { "id": "w20", "sentenceIds": ["s13"],       "display": "親子",   "hiragana": "おやこ",     "en": "parent and child",  "fr": "parent et enfant" },
+    { "id": "w21", "sentenceIds": ["s14"],       "display": "公園",   "hiragana": "こうえん",   "en": "park",              "fr": "parc" },
+    { "id": "w22", "sentenceIds": ["s15"],       "display": "作家",   "hiragana": "さっか",     "en": "author, writer",    "fr": "auteur, écrivain" },
+    { "id": "w23", "sentenceIds": ["s16"],       "display": "親切",   "hiragana": "しんせつ",   "en": "kindness, kind",    "fr": "gentillesse, aimable" },
+    { "id": "w24", "sentenceIds": ["s16"],       "display": "教える", "hiragana": "おしえる",   "en": "to teach",          "fr": "enseigner, apprendre" }
+  ],
+  "kanjis": [
+    { "id": "k1",  "wordIds": ["w1"],             "kanji": "顔", "readings": ["がん", "かお"],                 "en": "face",             "fr": "visage" },
+    { "id": "k2",  "wordIds": ["w2"],             "kanji": "毎", "readings": ["まい"],                         "en": "every",            "fr": "chaque, tous les" },
+    { "id": "k3",  "wordIds": ["w2"],             "kanji": "日", "readings": ["にち", "じつ", "ひ", "か"],     "en": "sun, day",         "fr": "soleil, jour" },
+    { "id": "k4",  "wordIds": ["w3"],             "kanji": "本", "readings": ["ほん", "もと"],                 "en": "book, origin",     "fr": "livre, origine" },
+    { "id": "k5",  "wordIds": ["w4"],             "kanji": "読", "readings": ["どく", "とく", "よ"],           "en": "read",             "fr": "lire" },
+    { "id": "k6",  "wordIds": ["w5", "w22"],      "kanji": "家", "readings": ["か", "いえ"],                   "en": "house, home",      "fr": "maison" },
+    { "id": "k7",  "wordIds": ["w6"],             "kanji": "中", "readings": ["ちゅう", "なか"],               "en": "inside, middle",   "fr": "intérieur, milieu" },
+    { "id": "k8",  "wordIds": ["w7"],             "kanji": "人", "readings": ["じん", "にん", "ひと"],         "en": "person",           "fr": "personne" },
+    { "id": "k9",  "wordIds": ["w7", "w19"],      "kanji": "間", "readings": ["かん", "けん", "ま", "あいだ"], "en": "interval, between", "fr": "intervalle, entre" },
+    { "id": "k10", "wordIds": ["w8"],             "kanji": "体", "readings": ["たい", "からだ"],               "en": "body",             "fr": "corps" },
+    { "id": "k11", "wordIds": ["w9"],             "kanji": "昼", "readings": ["ちゅう", "ひる"],               "en": "noon, daytime",    "fr": "midi, journée" },
+    { "id": "k12", "wordIds": ["w10"],            "kanji": "九", "readings": ["きゅう", "く"],                 "en": "nine",             "fr": "neuf" },
+    { "id": "k13", "wordIds": ["w10", "w19"],     "kanji": "時", "readings": ["じ", "とき"],                   "en": "time, hour",       "fr": "heure, temps" },
+    { "id": "k14", "wordIds": ["w10"],            "kanji": "半", "readings": ["はん"],                         "en": "half",             "fr": "demi, moitié" },
+    { "id": "k15", "wordIds": ["w11"],            "kanji": "電", "readings": ["でん"],                         "en": "electricity",      "fr": "électricité" },
+    { "id": "k16", "wordIds": ["w11"],            "kanji": "気", "readings": ["き", "け"],                     "en": "spirit, energy",   "fr": "esprit, énergie" },
+    { "id": "k17", "wordIds": ["w12", "w17"],     "kanji": "外", "readings": ["がい", "そと"],                 "en": "outside, foreign", "fr": "dehors, étranger" },
+    { "id": "k18", "wordIds": ["w13"],            "kanji": "走", "readings": ["そう", "はし"],                 "en": "run",              "fr": "courir" },
+    { "id": "k19", "wordIds": ["w14"],            "kanji": "大", "readings": ["だい", "たい", "おお"],         "en": "big, large",       "fr": "grand, large" },
+    { "id": "k20", "wordIds": ["w15"],            "kanji": "声", "readings": ["せい", "こえ"],                 "en": "voice",            "fr": "voix" },
+    { "id": "k21", "wordIds": ["w16"],            "kanji": "当", "readings": ["とう", "あ"],                   "en": "hit, current",     "fr": "toucher, actuel" },
+    { "id": "k22", "wordIds": ["w18"],            "kanji": "楽", "readings": ["がく", "らく", "たの"],         "en": "music, comfort",   "fr": "musique, plaisir" },
+    { "id": "k23", "wordIds": ["w20"],            "kanji": "子", "readings": ["し", "こ"],                     "en": "child",            "fr": "enfant" },
+    { "id": "k24", "wordIds": ["w20", "w23"],     "kanji": "親", "readings": ["しん", "おや"],                 "en": "parent, close",    "fr": "parent, proche" },
+    { "id": "k25", "wordIds": ["w21"],            "kanji": "公", "readings": ["こう"],                         "en": "public",           "fr": "public" },
+    { "id": "k26", "wordIds": ["w21"],            "kanji": "園", "readings": ["えん"],                         "en": "garden, park",     "fr": "jardin, parc" },
+    { "id": "k27", "wordIds": ["w22"],            "kanji": "作", "readings": ["さく", "つく"],                 "en": "make, create",     "fr": "faire, créer" },
+    { "id": "k28", "wordIds": ["w23"],            "kanji": "切", "readings": ["せつ", "き"],                   "en": "cut, important",   "fr": "couper, important" },
+    { "id": "k29", "wordIds": ["w24"],            "kanji": "教", "readings": ["きょう", "おし"],               "en": "teach, education", "fr": "enseigner, éducation" }
+  ]
+}

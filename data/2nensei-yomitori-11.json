@@ -1,0 +1,188 @@
+{
+  "id": "2nensei-yomitori-11",
+  "name": { "en": "2nd Year Reading 11", "fr": "2ème année lecture 11", "ja": "2年生 よみとり 11" },
+  "sentences": [
+    {
+      "id": "s1",
+      "display": "町まで遠い。",
+      "hiragana": "まちまでとおい。",
+      "en": "It's far to the town.",
+      "fr": "C'est loin jusqu'à la ville."
+    },
+    {
+      "id": "s2",
+      "display": "風が強い。",
+      "hiragana": "かぜがつよい。",
+      "en": "The wind is strong.",
+      "fr": "Le vent est fort."
+    },
+    {
+      "id": "s3",
+      "display": "音楽の天才。",
+      "hiragana": "おんがくのてんさい。",
+      "en": "A musical genius.",
+      "fr": "Un génie musical."
+    },
+    {
+      "id": "s4",
+      "display": "学校の正門。",
+      "hiragana": "がっこうのせいもん。",
+      "en": "The main gate of the school.",
+      "fr": "La porte principale de l'école."
+    },
+    {
+      "id": "s5",
+      "display": "弓矢を引く。",
+      "hiragana": "ゆみやをひく。",
+      "en": "To draw a bow and arrow.",
+      "fr": "Tirer à l'arc et à la flèche."
+    },
+    {
+      "id": "s6",
+      "display": "ちかくの交番。",
+      "hiragana": "ちかくのこうばん。",
+      "en": "A nearby police box.",
+      "fr": "Un poste de police à proximité."
+    },
+    {
+      "id": "s7",
+      "display": "計算が合う。",
+      "hiragana": "けいさんがあう。",
+      "en": "The calculation matches.",
+      "fr": "Le calcul correspond."
+    },
+    {
+      "id": "s8",
+      "display": "ふかい谷がある。",
+      "hiragana": "ふかいたにがある。",
+      "en": "There is a deep valley.",
+      "fr": "Il y a une vallée profonde."
+    },
+    {
+      "id": "s9",
+      "display": "北風がつめたい。",
+      "hiragana": "きたかぜがつめたい。",
+      "en": "The north wind is cold.",
+      "fr": "Le vent du nord est froid."
+    },
+    {
+      "id": "s10",
+      "display": "牛肉を食べる。",
+      "hiragana": "ぎゅうにくをたべる。",
+      "en": "To eat beef.",
+      "fr": "Manger du bœuf."
+    },
+    {
+      "id": "s11",
+      "display": "字を書き直す。",
+      "hiragana": "じをかきなおす。",
+      "en": "To rewrite a character.",
+      "fr": "Réécrire un caractère."
+    },
+    {
+      "id": "s12",
+      "display": "台風が弱まる。",
+      "hiragana": "たいふうがよわまる。",
+      "en": "The typhoon weakens.",
+      "fr": "Le typhon s'affaiblit."
+    },
+    {
+      "id": "s13",
+      "display": "本を売る。",
+      "hiragana": "ほんをうる。",
+      "en": "To sell a book.",
+      "fr": "Vendre un livre."
+    },
+    {
+      "id": "s14",
+      "display": "時間を計る。",
+      "hiragana": "じかんをはかる。",
+      "en": "To measure time.",
+      "fr": "Mesurer le temps."
+    },
+    {
+      "id": "s15",
+      "display": "遠足に行く。",
+      "hiragana": "えんそくにいく。",
+      "en": "To go on a field trip.",
+      "fr": "Partir en excursion."
+    },
+    {
+      "id": "s16",
+      "display": "正直に話す。",
+      "hiragana": "しょうじきにはなす。",
+      "en": "To speak honestly.",
+      "fr": "Parler honnêtement."
+    }
+  ],
+  "words": [
+    { "id": "w1",  "sentenceIds": ["s1"],  "display": "町",     "hiragana": "まち",       "en": "town",            "fr": "ville, bourg" },
+    { "id": "w2",  "sentenceIds": ["s1"],  "display": "遠い",   "hiragana": "とおい",     "en": "far, distant",    "fr": "loin, éloigné" },
+    { "id": "w3",  "sentenceIds": ["s2"],  "display": "風",     "hiragana": "かぜ",       "en": "wind",            "fr": "vent" },
+    { "id": "w4",  "sentenceIds": ["s2"],  "display": "強い",   "hiragana": "つよい",     "en": "strong",          "fr": "fort, puissant" },
+    { "id": "w5",  "sentenceIds": ["s3"],  "display": "音楽",   "hiragana": "おんがく",   "en": "music",           "fr": "musique" },
+    { "id": "w6",  "sentenceIds": ["s3"],  "display": "天才",   "hiragana": "てんさい",   "en": "genius",          "fr": "génie" },
+    { "id": "w7",  "sentenceIds": ["s4"],  "display": "学校",   "hiragana": "がっこう",   "en": "school",          "fr": "école" },
+    { "id": "w8",  "sentenceIds": ["s4"],  "display": "正門",   "hiragana": "せいもん",   "en": "main gate",       "fr": "porte principale" },
+    { "id": "w9",  "sentenceIds": ["s5"],  "display": "弓矢",   "hiragana": "ゆみや",     "en": "bow and arrow",   "fr": "arc et flèche" },
+    { "id": "w10", "sentenceIds": ["s5"],  "display": "引く",   "hiragana": "ひく",       "en": "to draw, to pull", "fr": "tirer, attirer" },
+    { "id": "w11", "sentenceIds": ["s6"],  "display": "交番",   "hiragana": "こうばん",   "en": "police box",      "fr": "poste de police" },
+    { "id": "w12", "sentenceIds": ["s7"],  "display": "計算",   "hiragana": "けいさん",   "en": "calculation",     "fr": "calcul" },
+    { "id": "w13", "sentenceIds": ["s7"],  "display": "合う",   "hiragana": "あう",       "en": "to match, to fit", "fr": "correspondre, coïncider" },
+    { "id": "w14", "sentenceIds": ["s8"],  "display": "谷",     "hiragana": "たに",       "en": "valley",          "fr": "vallée" },
+    { "id": "w15", "sentenceIds": ["s9"],  "display": "北風",   "hiragana": "きたかぜ",   "en": "north wind",      "fr": "vent du nord" },
+    { "id": "w16", "sentenceIds": ["s10"], "display": "牛肉",   "hiragana": "ぎゅうにく", "en": "beef",            "fr": "bœuf" },
+    { "id": "w17", "sentenceIds": ["s10"], "display": "食べる", "hiragana": "たべる",     "en": "to eat",          "fr": "manger" },
+    { "id": "w18", "sentenceIds": ["s11"], "display": "字",     "hiragana": "じ",         "en": "character, letter", "fr": "caractère, lettre" },
+    { "id": "w19", "sentenceIds": ["s11"], "display": "書き直す", "hiragana": "かきなおす", "en": "to rewrite",    "fr": "réécrire" },
+    { "id": "w20", "sentenceIds": ["s12"], "display": "台風",   "hiragana": "たいふう",   "en": "typhoon",         "fr": "typhon" },
+    { "id": "w21", "sentenceIds": ["s12"], "display": "弱まる", "hiragana": "よわまる",   "en": "to weaken",       "fr": "s'affaiblir" },
+    { "id": "w22", "sentenceIds": ["s13"], "display": "本",     "hiragana": "ほん",       "en": "book",            "fr": "livre" },
+    { "id": "w23", "sentenceIds": ["s13"], "display": "売る",   "hiragana": "うる",       "en": "to sell",         "fr": "vendre" },
+    { "id": "w24", "sentenceIds": ["s14"], "display": "時間",   "hiragana": "じかん",     "en": "time",            "fr": "temps, durée" },
+    { "id": "w25", "sentenceIds": ["s14"], "display": "計る",   "hiragana": "はかる",     "en": "to measure",      "fr": "mesurer" },
+    { "id": "w26", "sentenceIds": ["s15"], "display": "遠足",   "hiragana": "えんそく",   "en": "field trip",      "fr": "excursion" },
+    { "id": "w27", "sentenceIds": ["s15"], "display": "行く",   "hiragana": "いく",       "en": "to go",           "fr": "aller" },
+    { "id": "w28", "sentenceIds": ["s16"], "display": "正直",   "hiragana": "しょうじき", "en": "honesty, honest", "fr": "honnêteté, honnête" },
+    { "id": "w29", "sentenceIds": ["s16"], "display": "話す",   "hiragana": "はなす",     "en": "to speak",        "fr": "parler" }
+  ],
+  "kanjis": [
+    { "id": "k1",  "wordIds": ["w1"],        "kanji": "町", "readings": ["ちょう", "まち"],             "en": "town",             "fr": "ville, bourg" },
+    { "id": "k2",  "wordIds": ["w2", "w26"], "kanji": "遠", "readings": ["えん", "とお"],               "en": "far, distant",     "fr": "loin, éloigné" },
+    { "id": "k3",  "wordIds": ["w3", "w15", "w20"], "kanji": "風", "readings": ["ふう", "かぜ"],        "en": "wind",             "fr": "vent" },
+    { "id": "k4",  "wordIds": ["w4"],        "kanji": "強", "readings": ["きょう", "ごう", "つよ"],     "en": "strong",           "fr": "fort, puissant" },
+    { "id": "k5",  "wordIds": ["w5"],        "kanji": "音", "readings": ["おん", "いん", "おと"],       "en": "sound",            "fr": "son, bruit" },
+    { "id": "k6",  "wordIds": ["w5"],        "kanji": "楽", "readings": ["がく", "らく", "たの"],       "en": "music, comfort",   "fr": "musique, plaisir" },
+    { "id": "k7",  "wordIds": ["w6"],        "kanji": "天", "readings": ["てん", "あま"],               "en": "heaven, sky",      "fr": "ciel, paradis" },
+    { "id": "k8",  "wordIds": ["w6"],        "kanji": "才", "readings": ["さい"],                       "en": "talent",           "fr": "talent, génie" },
+    { "id": "k9",  "wordIds": ["w7"],        "kanji": "学", "readings": ["がく", "まな"],               "en": "study, learning",  "fr": "étude, apprentissage" },
+    { "id": "k10", "wordIds": ["w7"],        "kanji": "校", "readings": ["こう"],                       "en": "school",           "fr": "école" },
+    { "id": "k11", "wordIds": ["w8", "w28"], "kanji": "正", "readings": ["せい", "しょう", "ただ"],     "en": "correct, right",   "fr": "correct, juste" },
+    { "id": "k12", "wordIds": ["w8"],        "kanji": "門", "readings": ["もん", "かど"],               "en": "gate",             "fr": "porte, portail" },
+    { "id": "k13", "wordIds": ["w9"],        "kanji": "弓", "readings": ["きゅう", "ゆみ"],             "en": "bow",              "fr": "arc" },
+    { "id": "k14", "wordIds": ["w9"],        "kanji": "矢", "readings": ["し", "や"],                   "en": "arrow",            "fr": "flèche" },
+    { "id": "k15", "wordIds": ["w10"],       "kanji": "引", "readings": ["いん", "ひ"],                 "en": "pull, draw",       "fr": "tirer, attirer" },
+    { "id": "k16", "wordIds": ["w11"],       "kanji": "交", "readings": ["こう", "まじ"],               "en": "intersect, mix",   "fr": "croiser, mélanger" },
+    { "id": "k17", "wordIds": ["w11"],       "kanji": "番", "readings": ["ばん"],                       "en": "number, watch",    "fr": "numéro, garde" },
+    { "id": "k18", "wordIds": ["w12", "w25"],"kanji": "計", "readings": ["けい", "はか"],               "en": "measure, plan",    "fr": "mesure, calculer" },
+    { "id": "k19", "wordIds": ["w12"],       "kanji": "算", "readings": ["さん"],                       "en": "calculate",        "fr": "calculer, compter" },
+    { "id": "k20", "wordIds": ["w13"],       "kanji": "合", "readings": ["ごう", "がっ", "あ"],         "en": "fit, match",       "fr": "correspondre, convenir" },
+    { "id": "k21", "wordIds": ["w14"],       "kanji": "谷", "readings": ["こく", "たに"],               "en": "valley",           "fr": "vallée" },
+    { "id": "k22", "wordIds": ["w15"],       "kanji": "北", "readings": ["ほく", "きた"],               "en": "north",            "fr": "nord" },
+    { "id": "k23", "wordIds": ["w16"],       "kanji": "牛", "readings": ["ぎゅう", "うし"],             "en": "cow, ox",          "fr": "vache, bœuf" },
+    { "id": "k24", "wordIds": ["w16"],       "kanji": "肉", "readings": ["にく"],                       "en": "meat, flesh",      "fr": "viande, chair" },
+    { "id": "k25", "wordIds": ["w17"],       "kanji": "食", "readings": ["しょく", "じき", "た"],       "en": "eat, food",        "fr": "manger, nourriture" },
+    { "id": "k26", "wordIds": ["w18"],       "kanji": "字", "readings": ["じ"],                         "en": "character, letter", "fr": "caractère, lettre" },
+    { "id": "k27", "wordIds": ["w19"],       "kanji": "書", "readings": ["しょ", "か"],                 "en": "write",            "fr": "écrire" },
+    { "id": "k28", "wordIds": ["w19", "w28"],"kanji": "直", "readings": ["ちょく", "じき", "なお"],     "en": "straight, fix",    "fr": "droit, corriger" },
+    { "id": "k29", "wordIds": ["w20"],       "kanji": "台", "readings": ["だい", "たい"],               "en": "stand, platform",  "fr": "socle, typhon" },
+    { "id": "k30", "wordIds": ["w21"],       "kanji": "弱", "readings": ["じゃく", "よわ"],             "en": "weak",             "fr": "faible" },
+    { "id": "k31", "wordIds": ["w22"],       "kanji": "本", "readings": ["ほん", "もと"],               "en": "book, origin",     "fr": "livre, origine" },
+    { "id": "k32", "wordIds": ["w23"],       "kanji": "売", "readings": ["ばい", "う"],                 "en": "sell",             "fr": "vendre" },
+    { "id": "k33", "wordIds": ["w24"],       "kanji": "時", "readings": ["じ", "とき"],                 "en": "time, hour",       "fr": "heure, temps" },
+    { "id": "k34", "wordIds": ["w24"],       "kanji": "間", "readings": ["かん", "けん", "ま", "あいだ"], "en": "interval, between", "fr": "intervalle, entre" },
+    { "id": "k35", "wordIds": ["w26"],       "kanji": "足", "readings": ["そく", "あし"],               "en": "foot, leg",        "fr": "pied, jambe" },
+    { "id": "k36", "wordIds": ["w27"],       "kanji": "行", "readings": ["こう", "ぎょう", "い", "おこな"], "en": "go, conduct",  "fr": "aller, conduire" },
+    { "id": "k37", "wordIds": ["w29"],       "kanji": "話", "readings": ["わ", "はな"],                 "en": "speak, story",     "fr": "parler, histoire" }
+  ]
+}
