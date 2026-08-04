@@ -1,4 +1,4 @@
-Generate a comprehensive JSON dataset for the following 16 Japanese sentences: `白ちょうがとぶ。`, `休日をすごす。`, `白いはなをかざる。`, `村人をたずねる。`, `手をあげる。`, `きれいな花がさく。`, `学校を休む。`, `夕がたまでにかえる。`, `千円のかいもの。`, `お金をはらう。`, `土をたいらにする。`, `糸をまく。`, `目がさめる。`, `金よう日。`, `百円玉。`, `土よう日。`.
+Generate a comprehensive JSON dataset for the following 16 Japanese sentences: `作文の発表会。`, `昔話の絵本を見る。`, `秋田県に遊びに行く。`, `有名人が来る。`, `多数決をする。`, `カードを表にする。`, `氷の上を歩く。`, `一分は六十秒です。`, `農作物を育てる。`, `次回お楽しみに。`, `野球の球を拾う。`, `ゆうびん局に行く。`, `話し合いで決める。`, `本を整理する。`, `洋服を着る。`, `木の実が落ちる。`.
 
 The output must follow the template
 `{
