@@ -1,0 +1,24 @@
+{
+    "count": 19,
+    "collections": [
+        {"id": "example-1", "url": "example-1.json", "name": {"fr": "Exemple 1", "en": "Example 1", "ja": "例文 1"}},
+        {"id": "example-2", "url": "example-2.json", "name": {"fr": "Exemple 2", "en": "Example 2", "ja": "例文 2"}},
+        {"id": "1nensei-yomitori-1", "url": "1nensei-yomitori-1.json", "name": {"fr": "1ère année lecture 1", "en": "1st Year Reading 1", "ja": "1年生 よみとり 1"}},
+        {"id": "1nensei-yomitori-2", "url": "1nensei-yomitori-2.json", "name": {"fr": "1ère année lecture 2", "en": "1st Year Reading 2", "ja": "1年生 よみとり 2"}},
+        {"id": "1nensei-yomitori-3", "url": "1nensei-yomitori-3.json", "name": {"fr": "1ère année lecture 3", "en": "1st Year Reading 3", "ja": "1年生 よみとり 3"}},
+        {"id": "1nensei-yomitori-4", "url": "1nensei-yomitori-4.json", "name": {"fr": "1ère année lecture 4", "en": "1st Year Reading 4", "ja": "1年生 よみとり 4"}},
+        {"id": "1nensei-yomitori-5", "url": "1nensei-yomitori-5.json", "name": {"fr": "1ère année lecture 5", "en": "1st Year Reading 5", "ja": "1年生 よみとり 5"}},
+        {"id": "1nensei-yomitori-6", "url": "1nensei-yomitori-6.json", "name": {"fr": "1ère année lecture 6", "en": "1st Year Reading 6", "ja": "1年生 よみとり 6"}},
+        {"id": "2nensei-yomitori-1", "url": "2nensei-yomitori-1.json", "name": {"fr": "2ème année lecture 1", "en": "2nd Year Reading 1", "ja": "2年生 よみとり 1"}},
+        {"id": "2nensei-yomitori-2", "url": "2nensei-yomitori-2.json", "name": {"fr": "2ème année lecture 2", "en": "2nd Year Reading 2", "ja": "2年生 よみとり 2"}},
+        {"id": "2nensei-yomitori-3", "url": "2nensei-yomitori-3.json", "name": {"fr": "2ème année lecture 3", "en": "2nd Year Reading 3", "ja": "2年生 よみとり 3"}},
+        {"id": "2nensei-yomitori-4", "url": "2nensei-yomitori-4.json", "name": {"fr": "2ème année lecture 4", "en": "2nd Year Reading 4", "ja": "2年生 よみとり 4"}},
+        {"id": "2nensei-yomitori-5", "url": "2nensei-yomitori-5.json", "name": {"fr": "2ème année lecture 5", "en": "2nd Year Reading 5", "ja": "2年生 よみとり 5"}},
+        {"id": "2nensei-yomitori-6", "url": "2nensei-yomitori-6.json", "name": {"fr": "2ème année lecture 6", "en": "2nd Year Reading 6", "ja": "2年生 よみとり 6"}},
+        {"id": "2nensei-yomitori-7", "url": "2nensei-yomitori-7.json", "name": {"fr": "2ème année lecture 7", "en": "2nd Year Reading 7", "ja": "2年生 よみとり 7"}},
+        {"id": "2nensei-yomitori-8", "url": "2nensei-yomitori-8.json", "name": {"fr": "2ème année lecture 8", "en": "2nd Year Reading 8", "ja": "2年生 よみとり 8"}},
+        {"id": "2nensei-yomitori-9", "url": "2nensei-yomitori-9.json", "name": {"fr": "2ème année lecture 9", "en": "2nd Year Reading 9", "ja": "2年生 よみとり 9"}},
+        {"id": "2nensei-yomitori-10", "url": "2nensei-yomitori-10.json", "name": {"fr": "2ème année lecture 10", "en": "2nd Year Reading 10", "ja": "2年生 よみとり 10"}},
+        {"id": "2nensei-yomitori-11", "url": "2nensei-yomitori-11.json", "name": {"fr": "2ème année lecture 11", "en": "2nd Year Reading 11", "ja": "2年生 よみとり 11"}}
+    ]
+}

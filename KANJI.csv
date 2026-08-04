@@ -1,0 +1,2496 @@
+"id","KANJI","onyomi_katakana","onyomi_romaji","kunyomi_hiragana","kunyomi_romaji","meaning_en","meaning_fr","level"
+1,日,"ニチ, ジツ","nichi, jitsu","ひ, -び, -か","hi, -bi, -ka","day, sun, Japan, counter for days","jour, soleil, Japon, compteur pour les jours",N5
+2,一,イチ,ichi,ひと(つ),hito(tsu),one,un,N5
+3,国,コク,koku,くに,kuni,country,pays,N5
+4,人,ジン、 ニン,"jin, nin",ひと,hito,person,personne,N5
+5,年,ネン,nen,とし,toshi,"year, counter for years","année, compteur pour les années",N5
+6,大,ダイ、 タイ,"dai, tai",おお(きい),oo(kii),"large, big","grand, gros",N5
+7,十,ジュウ,juu,とお、 と,"tou, to","ten, 10","dix, 10",N5
+8,二,ニ、 ジ,"ni, ji",ふた(つ),futa(tsu),"two, 2","deux, 2",N5
+9,本,ホン,hon,もと,moto,"book, present, true, counter for long cylindrical things","livre, présent, vrai, compteur pour les objets cylindriques longs",N5
+10,中,チュウ,chuu,なか、 うち、 あた(る),"naka, uchi, ata(ru)","in, inside, middle, mean, center","dans, à l'intérieur, milieu, moyen, centre",N5
+11,長,チョウ,chou,なが(い)、 おさ,"naga(i), osa","long, leader, superior, senior","long, chef, supérieur, aîné",N5
+12,出,シュツ、 スイ,"shutsu, sui",で(る)、 だ(す)、 い(でる),"de(ru), da(su), i(deru)","exit, leave, go out","sortir, quitter, aller dehors",N5
+13,三,サン,san,み(つ),mi(tsu),"three, 3","trois, 3",N5
+14,時,ジ,ji,とき、 -どき,"toki, doki","time, hour","temps, heure",N5
+15,行,コウ、 ギョウ、 アン,"kou, gyou, an",い(く)、 ゆ(く)、 おこな(う),"i(ku), yu(ku), okona(u)","going, journey, carry out, line, row","aller, voyage, exécuter, ligne, rang",N5
+16,見,ケン,ken,み(る)、 み(せる),"mi(ru), mi(seru)","see, hopes, chances, idea, opinion, look at, visible","voir, espoirs, chances, idée, opinion, regarder, visible",N5
+17,月,ゲツ、 ガツ,"getsu, gatsu",つき,tsuki,"month, moon","mois, lune",N5
+18,分,ブン、 フン、 ブ,"bun, fun, bu",わ(ける),wa(keru),"part, minute of time, understand","partie, minute de temps, comprendre",N5
+19,後,ゴ、 コウ,"go, kou",のち、 うし(ろ)、 あと,"nochi, ushi(ro), ato","behind, back, later","derrière, arrière, plus tard",N5
+20,前,ゼン,zen,まえ,mae,"in front, before","devant, avant",N5
+21,生,セイ、 ショウ,"sei, shou",い(きる)、 う(む)、 お(う)、 は(える)、 なま,"i(kiru), u(mu), o(u), ha(eru), nama","life, genuine, birth","vie, véritable, naissance",N5
+22,五,ゴ,go,いつ(つ),itsu(tsu),"five, 5","cinq, 5",N5
+23,間,カン、 ケン,"kan, ken",あいだ、 ま、 あい,"aida, ma, ai","interval, space","intervalle, espace",N5
+24,上,ジョウ、 ショウ、 シャン,"jou, shou, shan",うえ、 うわ-、 かみ、 あ(げる)、 のぼ(る)、 たてまつ(る),"ue, uwa, kami, a(geru), nobo(ru), tatematsu(ru)","above, up","au-dessus, en haut",N5
+25,東,トウ,tou,ひがし,higashi,east,est,N5
+26,四,シ,shi,よ(つ)、 よん,"yo(tsu), yon","four, 4","quatre, 4",N5
+27,今,コン、 キン,"kon, kin",いま,ima,now; the present,maintenant; le présent,N5
+28,金,キン、 コン、 ゴン,"kin, kon, gon",かね、 かな-、 -がね,"kane, kana, gane",gold,or,N5
+29,九,キュウ、 ク,"kyuu, ku",ここの(つ),kokono(tsu),"nine, 9","neuf, 9",N5
+30,入,ニュウ,nyuu,い(る)、はい(る),"i(ru), hai(ru)","enter, insert","entrer, insérer",N5
+31,学,ガク,gaku,まな(ぶ),mana(bu),"study, learning, science","étude, apprentissage, science",N5
+32,高,コウ,kou,たか(い),taka(i),"tall, high, expensive","grand, haut, cher",N5
+33,円,エン,en,まる(い),maru(i),"circle, yen, round","cercle, yen, rond",N5
+34,子,シ、 ス、 ツ,"shi, su, tsu",こ、 ね,"ko, ne",child,enfant,N5
+35,外,ガイ、 ゲ,"gai, ge",そと、 ほか、 はず(す)、 と-,"soto, hoka, hazu-, to-",outside,extérieur,N5
+36,八,ハチ,hachi,や(つ)、 よう,"ya(tsu), you","eight, 8","huit, 8",N5
+37,六,ロク,roku,む(つ)、 むい,"mu(tsu), mui","six, 6","six, 6",N5
+38,下,カ、 ゲ,"ka, ge",した、 しも、 もと、 さ(げる)、 くだ(る)、 お(ろす),"shita, shimo, moto, sa(geru), kuda(ru), o(rosu)","below, down, descend, give, low, inferior","en dessous, en bas, descendre, donner, bas, inférieur",N5
+39,来,ライ、 タイ,"rai, tai",く.る、 きた.る、 き、 こ,"kuru, kitaru, ki, ko","come, due, next, cause, become","venir, dû, prochain, cause, devenir",N5
+40,気,キ、 ケ,"ki, ke",いき,iki,"spirit, mind, air, atmosphere, mood","esprit, esprit, air, atmosphère, humeur",N5
+41,小,ショウ,shou,ちい(さい)、 こ-、 お-、 さ-,"chii(sai), ko-, o-, sa-","little, small","petit, petit",N5
+42,七,シチ,shichi,なな(つ)、 なの,"nana(tsu), nano","seven, 7","sept, 7",N5
+43,山,サン、 セン,"san, sen",やま,yama,mountain,montagne,N5
+44,話,ワ,wa,はな(す)、 はなし,"hana(su), hanashi","tale, talk","récit, conversation",N5
+45,女,ジョ,jo,おんな、 め,"onnna, me","woman, female","femme, féminin",N5
+46,北,ホク,hoku,きた,kita,north,nord,N5
+47,午,ゴ,go,うま,uma,"noon, sign of the horse","midi, signe du cheval",N5
+48,百,ヒャク、 ビャク,"hyaku, byaku",もも,momo,hundred,cent,N5
+49,書,ショ,sho,か(く),kaku,write,écrire,N5
+50,先,セン,sen,さき、 ま(ず),"saki, ma(zu)","before, ahead, previous, future, precedence","avant, devant, précédent, futur, préséance",N5
+51,名,メイ、 ミョウ,"mei, myou",な,na,"name, noted, distinguished, reputation","nom, célèbre, distingué, réputation",N5
+52,川,セン,sen,かわ,kawa,"river, stream","rivière, cours d'eau",N5
+53,千,セン,sen,ち,chi,thousand,mille,N5
+54,水,スイ,sui,みず,mizu,water,eau,N5
+55,半,ハン,han,なか(ば),naka(ba),"half, middle, odd number, semi-","moitié, milieu, nombre impair, semi-",N5
+56,男,ダン、 ナン,"dan, nan",おとこ、 お,"otoko, o",male; man,"homme, masculin",N5
+57,西,セイ、 サイ,"sei, sai",にし,nishi,west,ouest,N5
+58,電,デン,den,,,electricity; electric powered,électricité; alimenté par électricité,N5
+59,校,コウ,kou,,,"school, exam","école, examen",N5
+60,語,ゴ,go,かた(る),kata(ru),"word, speech, language","mot, discours, langue",N5
+61,土,ド、 ト,"do, to",つち,tsuchi,"soil, earth, ground","sol, terre, terrain",N5
+62,木,ボク、 モク,"boku, moku",き、 こ-,"ki, ko","tree, wood","arbre, bois",N5
+63,聞,ブン、 モン,"bun, mon",き(く),ki(ku),to hear; to listen; to ask,entendre; écouter; demander,N5
+64,食,ショク、 ジキ,"shoku, jiki",く(う)、 た(べる)、 は(む),"k(u), ta(beru), ha(mu)","eat, food","manger, nourriture",N5
+65,車,シャ,sha,くるま,kuruma,"car, wheel","voiture, roue",N5
+66,何,カ,ka,なに、 なん,"nani, nan",what,quoi,N5
+67,南,ナン、 ナ,"nan, na",みなみ,minami,south,sud,N5
+68,万,マン、 バン,"man, ban",,,"ten thousand, 10,000","dix mille, 10 000",N5
+69,毎,マイ,mai,ごと(に),goto(ni),every,chaque,N5
+70,白,ハク、 ビャク,"haku, byaku",しろ(い),shiro(i),white,blanc,N5
+71,天,テン,ten,あまつ,amatsu,"heavens, sky, imperial","cieux, ciel, impérial",N5
+72,母,ボ,bo,はは、 かあ,"haha, kaa",mother,mère,N5
+73,火,カ,ka,ひ、 -び、 ほ-,"hi, bi, ho",fire,feu,N5
+74,右,ウ、 ユウ,"u, yuu",みぎ,migi,right (direction),droite (direction),N5
+75,読,ドク、 トク、 トウ,"doku, toku, tou",よ(む),yo(mu),to read,lire,N5
+76,友,ユウ,yuu,とも,tomo,friend,ami,N5
+77,左,サ、 シャ,"sa, sha",ひだり,hidari,left,gauche,N5
+78,休,キュウ,kyuu,やす(む),yasu(mu),"rest, day off, retire, sleep","repos, jour de congé, retraite, sommeil",N5
+79,父,フ,fu,ちち、 とう,"chichi, tou",father,père,N5
+80,雨,ウ,u,あめ、 あま,"ame, ama",rain,pluie,N5
+81,会,カイ,kai,あ(う),a(u),meeting; meet,,N4
+82,同,ドウ,dou,おな(じ),onaji,"same, agree, equal",,N4
+83,事,ジ,ji,こと,koto,"matter, thing, fact, business, reason, possibly",,N4
+84,自,ジ、 シ,"ji, shi",みずか(ら),mizuka(ra),oneself,,N4
+85,社,シャ,sha,やしろ,yashiro,"company, firm, office, association, shrine",,N4
+86,発,ハツ、 ホツ,"hatsu, hotsu",,,"departure, discharge, emit, start from",,N4
+87,者,シャ,sha,もの,mono,"someone, person",,N4
+88,地,チ、 ジ,"chi, ji",,,"ground, earth",,N4
+89,業,ギョウ,gyou,わざ,waza,"business, vocation, arts, performance",,N4
+90,方,ホウ,hou,かた,kata,"direction, person, alternative",,N4
+91,新,シン,shin,あたら(しい)、 あら(た),"atara(shii), ara(ta)",new,,N4
+92,場,ジョウ,jou,ば,ba,"location, place",,N4
+93,員,イン,in,,,"employee, member, number, the one in charge",,N4
+94,立,リツ,ritsu,た(つ),ta(tsu),"stand up, rise",,N4
+95,開,カイ,kai,ひら(く)、 あ(ける),"hira(ku), a(keru)","open, unfold, unseal",,N4
+96,手,シュ,shu,て,te,hand,,N4
+97,力,リョク、 リキ,"ryoku, riki",ちから,chikara,"power, strength, strong, strain, bear up, exert",,N4
+98,問,モン,mon,と(う),to(u),"question, ask, problem",,N4
+99,代,ダイ,dai,か(わり),ka(wari),"substitute, change, convert, replace, period",,N4
+100,明,メイ、 ミョウ,"mei, myou",あか(るい),aka(rui),"bright, light",,N4
+101,動,ドウ,dou,うご(く),ugo(ku),"move, motion, change",,N4
+102,京,キョウ、 ケイ、 キン,"kyou, kei, kin",みやこ,miyako,capital,,N4
+103,目,モク、 ボク,"moku, boku",め,me,"eye, class, look, insight, experience",,N4
+104,通,ツウ,tsuu,とお(る)、かよ(う),"too(ru), kayo(u)","traffic, pass through, avenue, commute",,N4
+105,言,ゲン、 ゴン,"gen, gon",い（う）、 こと,"i(u), koto","say, word",,N4
+106,理,リ,ri,,,"logic, arrangement, reason, justice, truth",,N4
+107,体,タイ,tai,からだ,karada,"body, substance, object, reality",,N4
+108,田,デン,den,た,ta,"rice field, rice paddy",,N4
+109,主,シュ,shu,ぬし、 おも,"nushi, omo","lord, chief, master, main thing, principal",,N4
+110,題,ダイ,dai,,,"topic, subject",,N4
+111,意,イ,i,,,"idea, mind, heart, taste, thought",,N4
+112,不,フ、 ブ,"fu, bu",,,"negative, non-, bad",,N4
+113,作,サク、 サ,"saku, sa",つく(る),tsuku(ru),"make, production, prepare, build",,N4
+114,用,ヨウ,you,もち(いる),mochi(iru),"utilize, business, service, use, employ",,N4
+115,度,ド、 タク,"do, taku",たび、 た(い),"tabi, ta(i)","degrees, occurrence, time, counter for occurrences",,N4
+116,強,キョウ、 ゴウ,"kyou, gou",つよ(い),tsuyo(i),strong,,N4
+117,公,コウ,kou,,,"public, prince, official, governmental",,N4
+118,持,ジ,ji,も(つ),mo(tsu),"hold, have",,N4
+119,野,ヤ,ya,の,no,"plains, field, rustic, civilian life",,N4
+120,以,イ,i,もっ(て),mo(tte),"by means of, because, in view of, compared with",,N4
+121,思,シ,shi,おも(う),omo(u),think,,N4
+122,家,カ,ka,いえ、 や、 うち,"ie, ya, uchi","house, home, family, professional, expert",,N4
+123,世,セイ、 セ,"sei, se",よ,yo,"generation, world, society, public",,N4
+124,多,タ,ta,おお(い),oo(i),"many, frequent, much",,N4
+125,正,セイ、 ショウ,"sei, shou",ただ(しい)、 まさ(に),"tada(shii), masa(ni)","correct, justice, righteous",,N4
+126,安,アン,an,やす(い),yasu(i),"safe, peaceful, cheap",,N4
+127,院,イン,in,,,"institution, temple, mansion, school",,N4
+128,心,シン,shin,こころ,kokoro,"heart, mind, spirit",,N4
+129,界,カイ,kai,,,"world, boundary",,N4
+130,教,キョウ,kyou,おし(える)、 おそ(わる),"oshi(eru), oso(waru)","teach, faith, doctrine",,N4
+131,文,ブン、 モン,"bun, mon",ふみ,fumi,"sentence, literature, style, art",,N4
+132,元,ゲン、 ガン,"gen, gan",もと,moto,"beginning, former time, origin",,N4
+133,重,ジュウ、 チョウ,"juu, chou",おも(い)、 かさ(ねる),"omo(i), kasa(neru)","heavy, important, esteem, respect",,N4
+134,近,キン,kin,ちか(い),chika(i),"near, early, akin, tantamount",,N4
+135,考,コウ,kou,かんが(える),kanga(eru),"consider, think over",,N4
+136,画,ガ、 カク,"ga, kaku",かく(する),kaku(suru),"brush-stroke, picture",,N4
+137,海,カイ,kai,うみ,umi,"sea, ocean",,N4
+138,売,バイ,bai,う(る),u(ru),sell,,N4
+139,知,チ,chi,し(る),shi(ru),"know, wisdom",,N4
+140,道,ドウ,dou,みち,michi,"road-way, street, district, journey, course",,N4
+141,集,シュウ,shuu,あつ(める),atsu(meru),"gather, meet",,N4
+142,別,ベツ,betsu,わか(れる)、 わ(ける),"waka(reru), wa(keru)","separate, branch off, diverge",,N4
+143,物,ブツ、 モツ,"butsu, motsu",もの,mono,"thing, object, matter",,N4
+144,使,シ,shi,つか(う),tsuka(u),"use, order, messenger, ambassador",,N4
+145,品,ヒン,hin,しな,shina,"goods, refinement, dignity, article",,N4
+146,計,ケイ,kei,はか(る),haka(ru),"plot, plan, scheme, measure",,N4
+147,死,シ,shi,し(ぬ),shi(nu),"death, die",,N4
+148,特,トク,toku,,,special,,N4
+149,私,シ,shi,わたくし、 わたし,"watakushi, watashi","private, I, me",,N4
+150,始,シ,shi,はじ(める),haji(meru),"commence, begin",,N4
+151,朝,チョウ,chou,あさ,asa,morning,,N4
+152,運,ウン,un,はこ(ぶ),hako(bu),"carry, luck, destiny, fate, transport",,N4
+153,終,シュウ,shuu,お(わる),o(waru),"end, finish",,N4
+154,台,ダイ、 タイ,"dai, tai",うてな,utena,"pedestal, a stand, counter for machines and vehicles",,N4
+155,広,コウ,kou,ひろ(い),hiro(i),"wide, broad, spacious",,N4
+156,住,ジュウ、 チュウ,"juu, chuu",す(む),su(mu),"dwell, reside, live, inhabit",,N4
+157,無,ム、 ブ,"mu, bu",な(い),na(i),"nothingness, none, aint, nothing, nil",,N4
+158,真,シン,shin,ま、 まこと,"ma, makoto","true, reality, Buddhist sect",,N4
+159,有,ユウ、 ウ,"yuu, u",あ(る),a(ru),"possess, have, exist, happen",,N4
+160,口,コウ,kou,くち,kuchi,mouth,,N4
+161,少,ショウ,shou,すく(ない)、 すこ(し),"suku(nai), suko(shi)","few, little",,N4
+162,町,チョウ,chou,まち,machi,"town, village, block, street",,N4
+163,料,リョウ,ryou,,,"fee, materials",,N4
+164,工,コウ、 ク、 グ,"kou, ku, gu",,,"craft, construction",,N4
+165,建,ケン、 コン,"ken, kon",た(てる),ta(teru),build,,N4
+166,空,クウ,kuu,そら、 から、 あ(く)、 す(く)、 むな(しい),"sora, kara, a(ku), su(ku), muna(shii)","empty, sky, void, vacant, vacuum",,N4
+167,急,キュウ,kyuu,いそ(ぐ),iso(gu),"hurry, emergency, sudden, steep",,N4
+168,止,シ,shi,と(まる)、 とど(まる)、 や(める)、 よ(す),"to(maru), todo(maru), ya(meru), yo(su)","stop, halt",,N4
+169,送,ソウ,sou,おく(る),oku(ru),"escort, send",,N4
+170,切,セツ、 サイ,"setsu, sai",き(る),ki(ru),"cut, cutoff, be sharp",,N4
+171,転,テン,ten,ころ(がる),koro(garu),"revolve, turn around, change",,N4
+172,研,ケン,ken,と(ぐ),to(gu),"polish, study of, sharpen",,N4
+173,足,ソク,soku,あし、 た(りる),"ashi, ta(riru)","leg, foot, be sufficient",,N4
+174,究,キュウ,kyuu,,,"research, study",,N4
+175,楽,ガク、 ラク,"gaku, raku",たの(しい),tano(shii),"music, comfort, ease",,N4
+176,起,キ,ki,お(きる)、 おこ(す),"o(kiru), oko(su)","wake up, get up; rouse",,N4
+177,着,チャク,chaku,き(る)、つ(く),"ki(ru), tsu(ku)","arrive, wear, counter for suits of clothing",,N4
+178,店,テン,ten,みせ,mise,"store, shop",,N4
+179,病,ビョウ,byou,や(む),ya(mu),"ill, sick",,N4
+180,質,シツ、 シチ,"shitsu, shichi",たち、 ただ(す),"tachi, tada(su)","substance, quality, matter, temperament",,N4
+181,待,タイ,tai,ま(つ),ma(tsu),"wait, depend on",,N4
+182,試,シ,shi,こころ(みる)、 ため(す),"kokoro(miru), tame(su)","test, try, attempt, experiment",,N4
+183,族,ゾク,zoku,,,"tribe, family",,N4
+184,銀,ギン,gin,,,silver,,N4
+185,早,ソウ、 サッ,"sou, sa",はや(い),haya(i),"early, fast",,N4
+186,映,エイ,ei,うつ(る)、 は(える),"utsu(ru), ha(eru)","reflect, reflection, projection",,N4
+187,親,シン,shin,おや、 した(しい),"oya, shita(shii)","parent, intimacy, relative, familiarity",,N4
+188,験,ケン,ken,,,"verification, effect, testing",,N4
+189,英,エイ,ei,,,"England, English, hero, outstanding",,N4
+190,医,イ,i,,,"doctor, medicine",,N4
+191,仕,シ,shi,,,"attend, doing, official, serve",,N4
+192,去,キョ、 コ,"kyo, ko",さ(る),sa(ru),"gone, past, quit, leave, elapse, eliminate",,N4
+193,味,ミ,mi,あじ,aji,"flavor, taste",,N4
+194,写,シャ,sha,うつ(る),utsuru,"copy, be photographed, describe",,N4
+195,字,ジ,ji,,,"character, letter, word",,N4
+196,答,トウ,tou,こた(える),kota(eru),"solution, answer",,N4
+197,夜,ヤ,ya,よ、 よる,"yo, yoru","night, evening",,N4
+198,音,オン,on,おと、 ね,"oto, ne","sound, noise",,N4
+199,注,チュウ,chuu,そそ(ぐ)、 さ(す)、 つ(ぐ),"soso(gu), sa(su), tsu(gu)","pour, irrigate, shed (tears), flow into, concentrate on",,N4
+200,帰,キ,ki,かえ(る)、 かえ(す),"kae(ru), kae(su)","homecoming, arrive at, lead to, result in",,N4
+201,古,コ,ko,ふる(い),furu(i),old,,N4
+202,歌,カ,ka,うた、 うた(う),"uta, uta(u)","song, sing",,N4
+203,買,バイ,bai,か(う),ka(u),buy,,N4
+204,悪,アク,aku,わる(い),waru(i),"bad, evil, wrong",,N4
+205,図,ズ、 ト,"zu, to",はか(る),haka(ru),"map, drawing, plan, extraordinary",,N4
+206,週,シュウ,shuu,,,week,,N4
+207,室,シツ,shitsu,むろ,muro,"room, apartment, chamber, greenhouse, cellar",,N4
+208,歩,ホ、 ブ,"ho, bu",ある(く)、 あゆ(む),"aru(ku), ayu(mu)","walk, counter for steps",,N4
+209,風,フウ、 フ,"fuu, fu",かぜ、 かざ-,"kaze, kaza-","wind, air, style, manner",,N4
+210,紙,シ,shi,かみ,kami,paper,,N4
+211,黒,コク,koku,くろ,kuro,black,,N4
+212,花,カ、 ケ,"ka, ke",はな,hana,flower,,N4
+213,春,シュン,shun,はる,haru,spring,,N4
+214,赤,セキ、 シャク,"seki, shaku",あか(い),aka(i),red,,N4
+215,青,セイ、 ショウ,"sei, shou",あお(い),ao(i),blue,,N4
+216,館,カン,kan,やかた,yakata,"building, mansion, large building, palace",,N4
+217,屋,オク,oku,や,ya,"roof, house, shop, dealer, seller",,N4
+218,色,ショク、 シキ,"shoku, shiki",いろ,iro,color,,N4
+219,走,ソウ,sou,はし(る),hashi(ru),run,,N4
+220,秋,シュウ,shuu,あき,aki,"autumn, fall",,N4
+221,夏,カ、 ゲ,"ka, ge",なつ,natsu,summer,,N4
+222,習,シュウ,shuu,なら(う),nara(u),learn,,N4
+223,駅,エキ,eki,,,station,,N4
+224,洋,ヨウ,you,,,"ocean, sea, foreign, Western style",,N4
+225,旅,リョ,ryo,たび,tabi,"trip, travel",,N4
+226,服,フク,fuku,,,"clothing, admit, obey",,N4
+227,夕,,,ゆう,yuu,evening,,N4
+228,借,シャク,shaku,か(りる),ka(riru),"borrow, rent",,N4
+229,曜,ヨウ,you,,,weekday,,N4
+230,飲,イン,in,の(む),no(mu),drink,,N4
+231,肉,ニク,niku,,,meat,,N4
+232,貸,タイ,tai,か(す)、 かし,"ka(su), kashi",lend,,N4
+233,堂,ドウ,dou,,,"public chamber, hall",,N4
+234,鳥,チョウ,chou,とり,tori,"bird, chicken",,N4
+235,飯,ハン,han,めし,meshi,"meal, rice",,N4
+236,勉,ベン,ben,つと(める),tsuto(meru),"exertion, endeavor, effort",,N4
+237,冬,トウ,tou,ふゆ,fuyu,winter,,N4
+238,昼,チュウ,chuu,ひる,hiru,"daytime, noon",,N4
+239,茶,チャ、 サ,"cha, sa",,,tea,,N4
+240,弟,テイ、 ダイ、 デ,"tei, dai, de",おとうと,otouto,younger brother,,N4
+241,牛,ギュウ,gyuu,うし,ushi,cow,,N4
+242,魚,ギョ,gyo,うお、 さかな,"uo, sakana",fish,,N4
+243,兄,キョウ、 ケイ,"kyou, kei",あに,ani,elder brother,,N4
+244,犬,ケン,ken,いぬ,inu,dog,,N4
+245,妹,マイ,mai,いもうと,imouto,younger sister,,N4
+246,姉,シ,shi,あね,ane,elder sister,,N4
+247,漢,カン,kan,,,China,,N4
+248,政,セイ,sei,まつりごと,matsurigoto,"politics,government",,N3
+249,議,ギ,gi,,,"deliberation,consultation,debate",,N3
+250,民,ミン,min,たみ,tami,"people,nation,subjects",,N3
+251,連,レン,ren,つら(なる)、つ(れる),"tsura(naru),tsu(reru)","take along,lead,join,connect",,N3
+252,対,タイ、 ツイ,"tai,tsui",,,"opposite,even,equal,versus,anti-,compare",,N3
+253,部,ブ,bu,,,"section,bureau,dept,class,copy,part,portion",,N3
+254,合,ゴウ、 ガッ、 カッ,"gou,ga,ka",あ(う)、あい,"a(u),ai","fit,suit,join,0.1",,N3
+255,市,シ,shi,いち,ichi,"market,city,town",,N3
+256,内,ナイ,nai,うち,uchi,"inside,within,between,among,house,home",,N3
+257,相,ソウ、 ショウ,"sou,shou",あい,ai,"inter-,mutual,together,each other,minister of state",,N3
+258,定,テイ、 ジョウ,"tei,jou",さだ(める),sada(meru),"determine,fix,establish,decide",,N3
+259,回,カイ,kai,まわ(す),mawa(su),"-times,round,revolve,counter",,N3
+260,選,セン,sen,えら(ぶ),era(bu),"elect,select,choose,prefer",,N3
+261,米,ベイ、 マイ、 メエトル,"bei,mai,meetoru",こめ,kome,"rice,USA,meter",,N3
+262,実,ジツ,jitsu,み、みの(る),"mi,mino(ru)","reality,truth",,N3
+263,関,カン,kan,せき、 かか(わる),"seki,kaka(waru)","connection,barrier,gateway,involve,concerning",,N3
+264,決,ケツ,ketsu,き(める),ki(meru),"decide,fix,agree upon,appoint",,N3
+265,全,ゼン,zen,まった(く)、 すべ(て),"matta(ku),sube(te)","whole,entire,all,complete,fulfill",,N3
+266,表,ヒョウ,hyou,おもて、 あらわ(す),"omote,arawa(su)","surface,table,chart,diagram",,N3
+267,戦,セン,sen,いくさ、 たたか(う),"ikusa,tataka(u)","war,battle,match",,N3
+268,経,ケイ,kei,へ(る)、 た(つ),"he(ru),ta(tsu)","longitude,pass thru,expire,warp",,N3
+269,最,サイ,sai,もっと(も),motto(mo),"utmost,most,extreme",,N3
+270,現,ゲン,gen,あらわ(れる)、 うつ(つ),"arawa(reru),utsu(tsu)","present,existing,actual",,N3
+271,調,チョウ,chou,しら(べる)、ととの(う),"shira(beru),tono(u)","tune,tone,meter,prepare,investigate",,N3
+272,化,カ、 ケ,"ka,ke",ば(ける)、 ふ(ける),"ba(keru),fu(keru)","change,take the form of,influence,enchant,delude,-ization",,N3
+273,当,トウ,tou,あ(たる),a(taru),"hit,right,appropriate",,N3
+274,約,ヤク,yaku,つづ(まる),tsuzu(maru),"promise,approximately,shrink",,N3
+275,首,シュ,shu,くび,kubi,neck,,N3
+276,法,ホウ,hou,のり,nori,"method,law,rule,principle,model,system",,N3
+277,性,セイ、 ショウ,"sei,shou",,,"sex,gender,nature",,N3
+278,的,テキ,teki,,,"mark,target,object,adjective ending",,N3
+279,要,ヨウ,you,い(る)、 かなめ,"i(ru),kaname","need,main point,essence,pivot",,N3
+280,制,セイ,sei,,,"system,law,rule",,N3
+281,治,ジ、チ,"ji,chi",おさ(める)、なお(る),"nasa(meru),nao(ru)","reign,cure,heal",,N3
+282,務,ム,mu,つと(める),tsuto(meru),"task,duties",,N3
+283,成,セイ、 ジョウ,"sei,jou",な(る),na(ru),"turn into,become,get,grow,elapse",,N3
+284,期,キ、 ゴ,"ki,go",,,"period,time,date,term",,N3
+285,取,シュ,shu,と(る),to(ru),"take,fetch",,N3
+286,都,ト、ツ,"to,tsu",みやこ,miyako,"metropolis,capital",,N3
+287,和,ワ、オ,"wa,o",やわ(らぐ)、なご(む),"yawa(ragu),nago(mu)","harmony,Japanese style,peace",,N3
+288,機,キ,ki,はた,hata,"machine,airplane,opportunity",,N3
+289,平,ヘイ、ビョウ,"hei,byou",たい(ら)、ひら,"tai(ra),hira","even,flat,peace",,N3
+290,加,カ,ka,くわ(える),kuwa(eru),"add,addition,increase,join",,N3
+291,受,ジュ,ju,う(ける),u(keru),"accept,undergo,answer (phone),take",,N3
+292,続,ゾク,zoku,つづ(く),tsuzuku,"continue,series,sequel",,N3
+293,進,シン,shin,すす(む),susu(mu),"advance,proceed",,N3
+294,数,スウ,suu,かず、 かぞ(える),"kazu,kazo(eru)","number,strength,fate,law,figures",,N3
+295,記,キ,ki,しる(す),shiru(su),"scribe,account,narrative",,N3
+296,初,ショ,sho,はじ(め)、はつ,"haji(me),hatsu","first time,beginning",,N3
+297,指,シ,shi,ゆび、さ(す),"yubi,sa(su)","finger,point to,indicate",,N3
+298,権,ケン,ken,,,"authority,power,rights",,N3
+299,支,シ,shi,ささ(える),sasa(eru),"branch,support,sustain",,N3
+300,産,サン,san,う(む)、 む(す),"u(mu),mu(su)","products,bear,give birth",,N3
+301,点,テン,ten,つ(ける),tsu(keru),"spot,point,mark",,N3
+302,報,ホウ,hou,むく(いる),mukku(iru),"report,news,reward",,N3
+303,済,サイ、セイ,"sai,sei",す(む),su(mu),"settle,relieve,finish",,N3
+304,活,カツ,katsu,,,living,,N3
+305,原,ゲン,gen,はら,hara,"original,primitive,field",,N3
+306,共,キョウ,kyou,とも,tomo,"together,both,neither",,N3
+307,得,トク,toku,え(る),e(ru),"gain,get,find,earn,acquire,can,may,able to,profit",,N3
+308,解,カイ、ゲ,"kai,ge",と(く)、ほど(く),"to(ku),hodo(ku)","unravel,explanation",,N3
+309,交,コウ,kou,まじ(わる)、 ま(ぜる)、 か(わす),"maji(waru),ma(zeru),ka(wasu)","mingle,mixing,association,coming & going",,N3
+310,資,シ,shi,,,"assets,resources,capital,funds,data,be conducive to",,N3
+311,予,ヨ、 シャ,"yo,sha",あらかじ(め),arakaji(me),"beforehand,previous,myself,I",,N3
+312,向,コウ,kou,む(く)、むか(い),"mu(ku),muka(i)","facing,beyond",,N3
+313,際,サイ,sai,きわ,kiwa,"occasion,time",,N3
+314,勝,ショウ,shou,か(つ)、 まさ(る),"ka(tsu),masa(ru)","victory,win",,N3
+315,面,メン,men,おも、おもて、つら,"omo,omote,tsura","mask,face,features,surface",,N3
+316,告,コク,koku,つ(げる),tsu(geru),"revelation,inform",,N3
+317,反,ハン,han,そ(る),so(ru),anti-,,N3
+318,判,ハン,han,,,"judgement,signature",,N3
+319,認,ニン,nin,みと(める)、したた(める),"mito(meru),shitata(meru)","acknowledge,witness,recognize",,N3
+320,参,サン,san,まい(る),mai(ru),"going,coming,participate",,N3
+321,利,リ,ri,き(く),ki(ku),"profit,advantage,benefit",,N3
+322,組,ソ,so,く(む)、くみ,"ku(mu),kumi","association,assemble,unite",,N3
+323,信,シン,shin,,,"faith,truth,trust",,N3
+324,在,ザイ,zai,あ(る),a(ru),"exist,outskirts",,N3
+325,件,ケン,ken,くだん,kudan,"affair,case,matter",,N3
+326,側,ソク,soku,がわ、そば,"gawa,soba","side,lean,oppose",,N3
+327,任,ニン,nin,まか(せる),maka(seru),"responsibility,duty",,N3
+328,引,イン,in,ひ(く),hi(ku),"pull,tug,jerk",,N3
+329,求,キュウ,kyuu,もと(める),moto(meru),"request,want,demand",,N3
+330,所,ショ,sho,ところ,tokoro,"place,extent",,N3
+331,次,ジ、シ,"ji,shi",つ(ぐ)、つぎ,"tsu(gu),tsugi","next,order",,N3
+332,昨,サク,saku,,,"yesterday,previous",,N3
+333,論,ロン,ron,あげつら(う),agetsura(u),"argument,discourse",,N3
+334,官,カン,kan,,,"bureaucrat,the government,organ",,N3
+335,増,ゾウ,zou,ま(す)、 ふ(える),"ma(su),fu(eru)","increase,add",,N3
+336,係,ケイ,kei,かか(る)、かかり,"kaka(ru),kakari","person in charge,connection",,N3
+337,感,カン,kan,,,"emotion,feeling,sensation",,N3
+338,情,ジョウ、セイ,"jou,sei",なさ(け),nasa(ke),"feelings,emotion,passion",,N3
+339,投,トウ,tou,な(げる),na(geru),"throw,discard",,N3
+340,示,ジ、シ,"ji,shi",しめ(す),shime(su),"show,indicate,display",,N3
+341,変,ヘン,hen,か(わる),ka(waru),"unusual,change,strange",,N3
+342,打,ダ,da,う(つ)、ぶ(つ),"u(tsu),bu(tsu)","strike,hit,knock",,N3
+343,直,チョク、 ジキ,"choku,jiki",ただ(ちに)、 す(ぐ),"tada(chini),su(gu)","straightaway,honesty,frankness,fix,repair",,N3
+344,両,リョウ,ryou,,,both,,N3
+345,式,シキ,shiki,,,"style,ceremony",,N3
+346,確,カク,kaku,たし(か),tashi(ka),"assurance,firm,confirm",,N3
+347,果,カ,ka,は(たす),ha(tasu),"fruit,reward,carry out,achieve,complete",,N3
+348,容,ヨウ,you,,,"contain,form",,N3
+349,必,ヒツ,hitsu,かなら(ず),kanara(zu),"invariably,certain,inevitable",,N3
+350,演,エン,en,,,"performance,act,play,render,stage",,N3
+351,歳,サイ、セイ,"sai,sei",,,"age,year-end",,N3
+352,争,ソウ,sou,あらそ(う),araso(u),"contend,dispute,argue",,N3
+353,談,ダン,dan,,,"discuss,talk",,N3
+354,能,ノウ,nou,あた(う),ata(u),"ability,talent,skill,capacity",,N3
+355,位,イ,i,くらい、 ぐらい,"kurai,gurai","rank,grade,about",,N3
+356,置,チ,chi,お(く),o(ku),"placement,put,set,deposit,leave behind",,N3
+357,流,リュウ、ル,"ryuu,ru",なが(れる),naga(reru),"current,flow",,N3
+358,格,カク、コウ、キャク,"kaku,kou,kyaku",,,"status,rank,capacity",,N3
+359,疑,ギ,gi,うたが(う),utaga(u),"doubt,distrust",,N3
+360,過,カ,ka,す(ぎる)、よぎ(る),"su(giru),yogi(ru)","overdo,exceed,go beyond",,N3
+361,局,キョク,kyoku,,,"bureau,board,office",,N3
+362,放,ホウ,hou,はな(す)、ほう(る),"hana(su),hou(ru)","set free,release",,N3
+363,常,ジョウ,jou,つね,tsune,"usual,ordinary,normal",,N3
+364,状,ジョウ,jou,,,"conditions,form,appearance",,N3
+365,球,キュウ,kyuu,たま,tama,"ball,sphere",,N3
+366,職,ショク,shoku,,,"post,employment,work",,N3
+367,与,ヨ,yo,あた(える)、 あずか(る),"ata(eru),azuka(ru)","give,award",,N3
+368,供,キョウ、ク、クウ,"kyou,ku,kuu",そな(える)、とも,"sona(eru),tomo","submit,offer,present,accompany",,N3
+369,役,ヤク、エキ,"yaku,eki",,,"duty,service,role",,N3
+370,構,コウ,kou,かま(う),kama(u),"posture,build,pretend",,N3
+371,割,カツ,katsu,わ(る)、わり,"wa(ru),wari","proportion,divide,cut,separate",,N3
+372,身,シン,shin,み,mi,"somebody,person",,N3
+373,費,ヒ,hi,つい(やす),tsui(yasu),"expense,consume",,N3
+374,付,フ,fu,つ(ける),tsu(keru),"adhere,attach,refer to,append",,N3
+375,由,ユ、ユウ,"yu,yuu",よし、よ(る),"yoshi,yo(ru)","wherefore,a reason",,N3
+376,説,セツ、 ゼイ,"setsu,zei",と(く),to(ku),"opinion,theory,explanation",,N3
+377,難,ナン,nan,かた(い)、むずか(しい)、 にく(い),"kata(i),muzuka(shii),niku(i)","difficult,trouble,accident",,N3
+378,優,ユウ、ウ,"yuu,u",やさ(しい)、すぐ(れる),"yasa(shii),sugu(reru)","tenderness,kind,actor",,N3
+379,夫,フ、フウ,"fu,fuu",おっと,otto,"husband,man",,N3
+380,収,シュウ,shuu,おさ(める),osa(meru),"income,obtain,reap,pay,supply,store",,N3
+381,断,ダン,dan,た(つ)、 ことわ(る),"ta(tsu),kotowa(ru)","severance,decline,refuse,apologize",,N3
+382,石,セキ、シャク、コク,"seki,shaku,koku",いし,ishi,stone,,N3
+383,違,イ,i,ちが(う)、たが(う),"chiga(u),taga(u)","difference,differ",,N3
+384,消,ショウ,shou,き(える)、け(す),"ki(eru),ke(su)","extinguish,turn off",,N3
+385,神,シン、 ジン,"shin,jin",かみ,kami,"gods,mind,soul",,N3
+386,番,バン,ban,つが(い),tsugai,"turn,number in a series",,N3
+387,規,キ,ki,,,"standard,measure",,N3
+388,術,ジュツ,jutsu,すべ,sube,"art,technique,skill,means,trick",,N3
+389,備,ビ,bi,そな(える),sona(eru),"equip,provision,preparation",,N3
+390,宅,タク,taku,,,"home,house,residence",,N3
+391,害,ガイ,gai,,,"harm,injury",,N3
+392,配,ハイ,hai,くば(る),kuba(ru),"distribute,spouse",,N3
+393,警,ケイ,kei,,,"admonish,commandment",,N3
+394,育,イク,iku,そだ(つ)、はぐく(む),"soda(tsu),haguku(mu)","bring up,grow up,raise",,N3
+395,席,セキ,seki,むしろ,mushiro,seat,,N3
+396,訪,ホウ,hou,おとず(れる)、たず(ねる),"toozu(reru),tazu(neru)","call on,visit",,N3
+397,乗,ジョウ、 ショウ,"jou,shou",の(る),no(ru),ride,,N3
+398,残,ザン,zan,のこ(る),noko(ru),"remainder,balance",,N3
+399,想,ソウ、ソ,"sou,so",おも(う),omo(u),"concept,think,idea",,N3
+400,声,セイ、ショウ,"sei,shou",こえ,koe,voice,,N3
+401,助,ジョ,jo,たす(ける),tasu(keru),"help,rescue,assist",,N3
+402,労,ロウ,rou,ろう(する)、いたわ(る)、ねぎら(う),"rou(suru),itawa(ru),negira(u)","labor,thank for",,N3
+403,例,レイ,rei,たと(えば),tato(eba),example,,N3
+404,然,ゼン、ネン,"zen,nen",しか、さ,"shika,sa","sort of thing,if so",,N3
+405,限,ゲン,gen,かぎ(る),kagi(ru),"limit,restrict",,N3
+406,追,ツイ,tsui,お(う),o(u),"chase,drive away",,N3
+407,商,ショウ,shou,あきな(う),akina(u),deal; selling; merchant,,N3
+408,葉,ヨウ,you,は,ha,"leaf,plane,needle,blade,counter for flat things",,N3
+409,伝,デン,den,つた(わる),tsuta(waru),"transmit,go along,walk along,follow,report,communicate,legend,tradition",,N3
+410,働,ドウ,dou,はたら(く),hatara(ku),work,,N3
+411,形,ケイ、ギョウ,"kei,gyou",かた、かたち、なり,"kata,katachi,nari","shape,form,style",,N3
+412,景,ケイ、ケ,"kei,ke",,,"scenery,view",,N3
+413,落,ラク,raku,お(ちる),o(chiru),"fall,drop",,N3
+414,好,コウ,kou,この(む)、 す(く),"kono(mu),su(ku)","fond,pleasing,like something",,N3
+415,退,タイ,tai,しりぞ(く)、 ひ(く)、 の(ける)、 ど(く),"shirizo(ku),hi(ku),no(keru),do(ku)","retreat,withdraw,retire,resign,repel,expel,reject",,N3
+416,頭,トウ、ズ、ト,"tou,zu,to",あたま、かしら,"atama,kashira",head,,N3
+417,負,フ,fu,ま(ける)、 お(う),"ma(keru),o(u)","defeat,negative,minus,assume a responsibility",,N3
+418,渡,ト,to,わた(る),wata(ru),"transit,ferry,cross",,N3
+419,失,シツ,shitsu,うしな(う)、 う(せる),"ushina(u),u(seru)","lose,error,fault,disadvantage,loss",,N3
+420,差,サ,sa,さ(す),sa(su),"distinction,difference,variation",,N3
+421,末,マツ,matsu,すえ,sue,"end,close,tip",,N3
+422,守,シュ、ス,"shu,su",まも(る)、もり,"mamo(ru),mori","guard,protect,obey",,N3
+423,若,ジャク,jaku,わか(い)、も(し),"waka(i),mo(shi)",young,,N3
+424,種,シュ,shu,たね、-ぐさ,"tane,-gusa","species,kind,class,seed",,N3
+425,美,ビ、 ミ,"bi,mi",うつく(しい),utsukushii,"beauty,beautiful",,N3
+426,命,メイ、ミョウ,"mei,myou",いのち,inochi,"fate,command",,N3
+427,福,フク,fuku,,,"blessing,fortune,luck,wealth",,N3
+428,望,ボウ,bou,のぞ(む)、 もち,"nozo(mu),mochi","ambition,full moon,hope,desire,aspire to,expect",,N3
+429,非,ヒ,hi,あら(ず),ara(zu),"un-,mistake,negative",,N3
+430,観,カン,kan,み(る),mi(ru),"outlook,appearance,condition",,N3
+431,察,サツ,satsu,,,"guess,presume,judge",,N3
+432,段,ダン,dan,,,"grade,steps,stairs",,N3
+433,横,オウ,ou,よこ,yoko,"sideways,side",,N3
+434,深,シン,shin,ふか(い),fuka(i),"deep,heighten",,N3
+435,申,シン,shin,もう(す)、さる,"mou(su),saru",have the honor to,,N3
+436,様,ヨウ,you,さま、さん,"sama,san","manner,situation,polite suffix",,N3
+437,財,ザイ、 サイ、 ゾク,"zai,sai,zoku",,,"property,money,wealth,assets",,N3
+438,港,コウ,kou,みなと,minato,"harbor,port",,N3
+439,識,シキ,shiki,し(る),shi(ru),know,,N3
+440,呼,コ,ko,よ(ぶ),yo(bu),"call,invite",,N3
+441,達,タツ、 ダ,"tatsu,da",-たち,-tachi,"accomplished,reach,arrive,attain",,N3
+442,良,リョウ,ryou,よ(い)、い(い),"yo(i),i(i)",good,,N3
+443,阪,ハン,han,さか,saka,"heights,slope",,N3
+444,候,コウ,kou,そうろう,sourou,"climate,season,weather",,N3
+445,程,テイ,tei,ほど,hodo,"extent,degree",,N3
+446,満,マン,man,み(ちる),mi(chiru),"full,fullness,enough,satisfy",,N3
+447,敗,ハイ,hai,やぶ(れる),yabu(reru),"failure,defeat",,N3
+448,値,チ,chi,ね、 あたい,"ne,atai","price,cost,value",,N3
+449,突,トツ、カ,"totsu,ka",つ(く),tsu(ku),"stab,protruding,thrust",,N3
+450,光,コウ,kou,ひか(る)、ひかり,"hika(ru),hikari","ray,light",,N3
+451,路,ロ、ル,"ro,ru",みち,michi,"path,route,road",,N3
+452,科,カ,ka,,,"department,course,section",,N3
+453,積,セキ,seki,つ(む),tsu(mu),"volume,contents,pile up,stack",,N3
+454,他,タ,ta,ほか,hoka,"other,another",,N3
+455,処,ショ,sho,,,"dispose,manage,deal with",,N3
+456,太,タイ、タ,"tai,ta",ふと(い),futo(i),"plump,thick,big around",,N3
+457,客,キャク、カク,"kyaku,kaku",,,"guest,visitor,customer",,N3
+458,否,ヒ,hi,いな、いや,"ina,iya","negate,no,decline",,N3
+459,師,シ,shi,,,"expert,teacher,master",,N3
+460,登,トウ、ト,"tou,to",のぼ(る)、あ(がる),"nobo(ru),a(garu)","ascend,climb up",,N3
+461,易,エキ、 イ,"eki,i",やさ(しい)、 やす(い),"yasa(shii),yasu(i)","easy,ready to,simple",,N3
+462,速,ソク,soku,はや(い),haya(i),"quick,fast",,N3
+463,存,ソン、ゾン,"son,zon",,,"exist,be aware of",,N3
+464,飛,ヒ,hi,と(ぶ),to(bu),fly,,N3
+465,殺,サツ、サイ,"satsu,sai",ころ(す),koro(su),"kill,murder",,N3
+466,号,ゴウ,gou,,,"number,item",,N3
+467,単,タン,tan,ひとえ,hitoe,"simple,single",,N3
+468,座,ザ,za,すわ(る),suwa(ru),"squat,seat,sit",,N3
+469,破,ハ,ha,やぶ(る),yabu(ru),"rip,tear,break",,N3
+470,除,ジョ、ジ,"jo,ji",のぞ(く),nozo(ku),"exclude,remove",,N3
+471,完,カン,kan,,,"perfect,completion",,N3
+472,降,コウ、 ゴ,"kou,go",お(りる)、 ふ(る),"o(riru),fu(ru)","descend,precipitate,fall,surrender",,N3
+473,責,セキ,seki,せ(める),se(meru),"blame,condemn",,N3
+474,捕,ホ,ho,と(らえる)、つか(まえる),"to(raeru),tsuka(maeru)","catch,capture",,N3
+475,危,キ,ki,あぶ(ない)、あや(うい),"abu(nai),aya(ui)","dangerous,fear,uneasy",,N3
+476,給,キュウ,kyuu,たま(う)、たも(う),"tama(u),tamo(u)","salary,wage,gift",,N3
+477,苦,ク,ku,くる(しい)、にが(い),"kuru(shii),niga(i)","suffering,bitter",,N3
+478,迎,ゲイ,gei,むか(える),muka(eru),"welcome,meet,greet",,N3
+479,園,エン,en,その,sono,"park,garden,yard",,N3
+480,具,グ,gu,そな(える)、つぶさ(に),"sona(eru),tsubasa(ni)","tool,utensil",,N3
+481,辞,ジ,ji,や(める),ya(meru),"resign,word,term",,N3
+482,因,イン,in,よ(る)、ちな(む),"yo(ru),china(mu)","cause,factor,depend on",,N3
+483,馬,バ,ba,うま,uma,horse,,N3
+484,愛,アイ,ai,いと(しい)、まな,"ito(shii),mana","love,affection",,N3
+485,富,フ、フウ,"fu,fuu",と(む)、 とみ,"to(mu),tomi","wealth,enrich,abundant",,N3
+486,彼,ヒ,hi,かれ、 かの,"kare,kano","he,him",,N3
+487,未,ミ、ビ,"mi,bi",いま(だ)、ま(だ),"ima(da),ma(da)","un-,not yet",,N3
+488,舞,ブ,bu,ま(う)、まい,"ma(u),mai","dance,circle",,N3
+489,亡,ボウ、モウ,"bou,mou",な(くなる),na(kunaru),"deceased,dying",,N3
+490,冷,レイ,rei,つめ(たい)、ひ(える)、さ(める),"tsume(tai),hi(eru),sa(meru)","cool,cold,chill",,N3
+491,適,テキ,teki,かな(う),kana(u),"suitable,occasional,rare",,N3
+492,婦,フ,fu,よめ,yome,"lady,woman,wife",,N3
+493,寄,キ,ki,よ(る),yo(ru),"draw near,gather",,N3
+494,込,こ(む),ko(mu),,,"crowded,mixture",,N3
+495,顔,ガン,gan,かお,kao,"face,expression",,N3
+496,類,ルイ,rui,たぐ(い),tagu(i),"sort,kind,variety,class,genus",,N3
+497,余,ヨ,yo,あま(る),ama(ru),"too much,surplus",,N3
+498,王,オウ,ou,,,"king,rule",,N3
+499,返,ヘン,hen,かえ(す),kae(su),"return,answer",,N3
+500,妻,サイ,sai,つま,tsuma,"wife,spouse",,N3
+501,背,ハイ,hai,せ、せい,"se,sei","stature,height,back",,N3
+502,熱,ネツ,netsu,あつ(い),atsu(i),"heat,fever,passion",,N3
+503,宿,シュク,shuku,やど,yado,"inn,lodging",,N3
+504,薬,ヤク,yaku,くすり,kusuri,"medicine,chemical",,N3
+505,険,ケン,ken,けわ(しい),kewa(shii),"precipitous,inaccessible place",,N3
+506,頼,ライ,rai,たの(む)、 たよ(る),"tano(mu),tayo(ru)","trust,request",,N3
+507,覚,カク,kaku,おぼ(える)、 さ(ます),"obo(eru),sa(masu)","memorize,learn,remember,awake",,N3
+508,船,セン,sen,ふね、ふな,"fune,funa","ship,boat",,N3
+509,途,ト,to,みち,michi,"route,way,road",,N3
+510,許,キョ,kyo,ゆる(す),yuru(su),"permit,approve",,N3
+511,抜,バツ,batsu,ぬ(く),nu(ku),"slip out,extract,pull out,remove",,N3
+512,便,ベン、 ビン,"ben,bin",たよ(り),tayo(ri),"convenience,facility",,N3
+513,留,リュウ、 ル,"ryuu,ru",と(まる)、 とど(める),"to(maru),todo(meru)","detain,fasten,halt,stop",,N3
+514,罪,ザイ,zai,つみ,tsumi,"guilt,sin,crime",,N3
+515,努,ド,do,つと(める),tsuto(meru),"toil,diligent,as much as possible",,N3
+516,精,セイ、ショウ,"sei,shou",しら(げる),shira(geru),"refined,ghost,fairy,energy",,N3
+517,散,サン,san,ち(る)、ばら(ける),"chi(ru),bara(keru)","scatter,disperse",,N3
+518,静,セイ、ジョウ,"sei,jou",しず(か),shizu(ka),quiet,,N3
+519,婚,コン,kon,,,marriage,,N3
+520,喜,キ,ki,よろこ(ぶ),yoroko(bu),"rejoice,take pleasure in",,N3
+521,浮,フ,fu,う(かぶ),u(kabu),"float,rise to surface",,N3
+522,絶,ゼツ,zetsu,た(える),ta(eru),"discontinue,unparalleled",,N3
+523,幸,コウ,kou,さいわ(い)、さち、 しあわ(せ),"saiwa(i),sara,shiawa(se)","happiness,blessing,fortune",,N3
+524,押,オウ,ou,お(す),o(su),push,,N3
+525,倒,トウ,tou,たお(れる),tao(reru),"overthrow,fall,collapse",,N3
+526,等,トウ,tou,ひと(しい)、など,"hito(shii),nado","etc.,and so forth",,N3
+527,老,ロウ,rou,お(いる)、ふ(ける),"o(iru),fu(keru)",old,,N3
+528,曲,キョク,kyoku,ま(がる),ma(garu),"bend,music,melody",,N3
+529,払,はら(う),hara(u),,,pay,,N3
+530,庭,テイ,tei,にわ,niwa,"courtyard,garden,yard",,N3
+531,徒,ト,to,いたずら、 あだ,"itazura,ada","on foot,junior,vanity,futility,uselessness",,N3
+532,勤,キン、ゴン,"kin,gon",つと(める),tsuto(meru),"diligence,employed,serve",,N3
+533,遅,チ,chi,おく(れる)、 おそ(い),"oku(reru),oso(i)","slow,late,back,later",,N3
+534,居,キョ、コ,"kyo,ko",い(る)、お(る),"i(ru),o(ru)","reside,to be,exist",,N3
+535,雑,ザツ、ゾウ,"zatsu,zou",まじ(る),maji(ru),miscellaneous,,N3
+536,招,ショウ,shou,まね(く),mane(ku),"invite,summon,engage",,N3
+537,困,コン,kon,こま(る),koma(ru),"quandary,become distressed",,N3
+538,欠,ケツ、ケン,"ketsu,ken",か(ける),ka(keru),"lack,gap",,N3
+539,更,コウ,kou,さら(に)、ふ(ける),"sara(ni),fu(keru)","renew,renovate,again",,N3
+540,刻,コク,koku,きざ(む),kiza(mu),"engrave,cut fine,chop",,N3
+541,賛,サン,san,,,"approve,praise",,N3
+542,抱,ホウ,hou,だ(く)、いだ(く)、かか(える),"da(ku),ida(ku),kaka(eru)","embrace,hug",,N3
+543,犯,ハン,han,おか(す),oka(su),"crime,sin,offense",,N3
+544,恐,キョウ,kyou,おそ(れる)、こわ(い),"oso(reru),kowa(i)","fear,dread",,N3
+545,息,ムス、ソク,"musu,soku",いき,iki,"breath,son,interest (on money)",,N3
+546,遠,エン,"en,on",とお(い),too(i),"distant,far",,N3
+547,戻,レイ,rei,もど(る),modo(ru),"re-,return,revert",,N3
+548,願,ガン,gan,ねが(う),nega(u),"petition,request,wish",,N3
+549,絵,カイ、エ,"kai,e",,,"picture,drawing",,N3
+550,越,エツ,etsu,こ(す),ko(su),"surpass,cross over,move to,exceed",,N3
+551,欲,ヨク,yoku,ほ(しい),ho(shii),"longing,greed,passion",,N3
+552,痛,ツウ,tsuu,いた(い),ita(i),"pain,hurt,damage,bruise",,N3
+553,笑,ショウ,shou,わら(う)、え(む),"wara(u),e(mu)",laugh,,N3
+554,互,ゴ,go,たが(い)、かたみ(に),"taga(i),katami(ni)","mutually,reciprocally,together",,N3
+555,束,ソク,soku,たば、つか,"taba,tsuka","bundle,manage",,N3
+556,似,ジ、ね,"ji,ne",に(る),ni(ru),"becoming,resemble,imitate",,N3
+557,列,レツ、レ,"retsu,re",,,"file,row,column",,N3
+558,探,タン,tan,さぐ(る)、さが(す),"sagu(ru),saga(su)","search,look for",,N3
+559,逃,トウ,tou,に(げる)、のが(す),"ni(geru),noga(su)","escape,flee",,N3
+560,遊,ユウ,yuu,あそ(ぶ),aso(bu),play,,N3
+561,迷,メイ,mei,まよ(う),mayo(u),"astray,be perplexed,in doubt,lost",,N3
+562,夢,ム,mu,ゆめ,yume,"dream,vision",,N3
+563,君,クン,kun,きみ,kimi,"you,male name suffix",,N3
+564,閉,ヘイ,hei,と(じる)、し(める),"to(jiru),shi(meru)","closed,shut",,N3
+565,緒,ショ,sho,お,o,"beginning,end,cord,strap",,N3
+566,折,セツ、シャク,"setsu,shaku",お(る)、おり,"o(ru),ori","fold,break,fracture",,N3
+567,草,ソウ,sou,くさ,kusa,"grass,weeds,herbs",,N3
+568,暮,ボ,bo,く(らす),ku(rasu),"evening,livelihood",,N3
+569,酒,シュ,shu,さけ、さか-,"sake,saka-","sake,alcohol",,N3
+570,悲,ヒ,hi,かな(しい),kana(shii),"grieve,sad",,N3
+571,晴,セイ,sei,は(れる),ha(reru),clear up,,N3
+572,掛,ケイ,kei,か(ける),ka(keru),"hang,suspend",,N3
+573,到,トウ,tou,いた(る),ita(ru),"arrival,proceed,reach",,N3
+574,寝,シン,shin,ね(る),ne(ru),"lie down,sleep,rest",,N3
+575,暗,アン,an,くら(い),kura(i),"darkness,disappear,shade,informal",,N3
+576,盗,トウ,tou,ぬす(む),nusu(mu),"steal,rob",,N3
+577,吸,キュウ,kyuu,す(う),su(u),"suck,inhale",,N3
+578,陽,ヨウ,you,ひ,hi,"sunshine,positive",,N3
+579,御,ギョ、ゴ,"gyo,go",おん、お,"on,o",honorable,,N3
+580,歯,シ,shi,は,ha,"tooth,cog",,N3
+581,忘,ボウ,bou,わす(れる),wasu(reru),forget,,N3
+582,雪,セツ,setsu,ゆき,yuki,snow,,N3
+583,吹,スイ,sui,ふ(く),fu(ku),"blow,breathe,puff",,N3
+584,娘,ジョウ,jou,むすめ、こ,"musume,ko","daughter,girl",,N3
+585,誤,ゴ,go,あやま(る),ayama(ru),mistake,,N3
+586,洗,セン,sen,あら(う),ara(u),wash,,N3
+587,慣,カン,kan,な(れる),na(reru),"accustomed,get used to",,N3
+588,礼,レイ、ライ,"rei,rai",,,"salute,bow,ceremony,thanks",,N3
+589,窓,ソウ,sou,まど,mado,"window,pane",,N3
+590,昔,セキ、シャク,"seki,shaku",むかし,mukashi,"once upon a time,old times",,N3
+591,貧,ヒン、ビン,"hin,bin",まず(しい),mazu(shii),"poverty,poor",,N3
+592,怒,ド,do,いか(る)、 おこ(る),"ika(ru),oko(ru)","angry,be offended",,N3
+593,泳,エイ,ei,およ(ぐ),oyo(gu),swim,,N3
+594,祖,ソ,so,,,"ancestor,pioneer,founder",,N3
+595,杯,ハイ,hai,さかずき,sakazuki,"glass,cup",,N3
+596,疲,ヒ,hi,つか(れる),tsuka(reru),"exhausted,tire",,N3
+597,皆,カイ,kai,みな、 みんな,"mina,minna","all,everyone,everybody",,N3
+598,鳴,メイ,mei,な(く)、な(る),"na(ku),na(ru)","chirp,cry,bark",,N3
+599,腹,フク,fuku,はら,hara,"abdomen,belly,stomach",,N3
+600,煙,エン,en,けむ(る)、けむり,"kemu(ru),kemuri",smoke,,N3
+601,眠,ミン,min,ねむ(る),nemu(ru),sleep,,N3
+602,怖,フ,fu,こわ(い)、お(じる),"kowa(i),o(jiru)","dreadful,fearful",,N3
+603,耳,ジ,ji,みみ,mimi,ear,,N3
+604,頂,チョウ,chou,いただ(く),itada(ku),"receive,top,summit,peak",,N3
+605,箱,ソウ,sou,はこ,hako,"box,chest",,N3
+606,晩,バン,ban,,,"nightfall,night",,N3
+607,寒,カン,kan,さむ(い),samu(i),cold,,N3
+608,髪,ハツ,hatsu,かみ,kami,hair (on the head),,N3
+609,忙,ボウ、モウ,"bou,mou",いそが(しい),isoga(shii),"busy,occupied",,N3
+610,才,サイ,sai,,,"genius,years old",,N3
+611,靴,カ,ka,くつ,kutsu,shoes,,N3
+612,恥,チ,chi,はじ、は(ずかしい),"haji,ha(zukashii)","shame,dishonor",,N3
+613,偶,グウ,guu,たま,tama,"accidentally,even number",,N3
+614,偉,イ,i,えら(い),era(i),"admirable,greatness",,N3
+615,猫,ビョウ,byou,ねこ,neko,cat,,N3
+616,幾,キ,ki,いく(つ),iku(tsu),"how many,how much,some",,N3
+617,誰,スイ,sui,だれ,dare,"who,someone,somebody",,N3
+618,党,トウ,tou,なかま、 むら,"nakama,mura","party,faction,clique",,N2
+619,協,キョウ,kyou,,,"co-,cooperation",,N2
+620,総,ソウ,sou,すべ(て)、 ふさ,"sube(te),fusa","general,whole,all",,N2
+621,区,ク,ku,,,"ward,district",,N2
+622,領,リョウ,ryou,えり,eri,"jurisdiction,dominion",,N2
+623,県,ケン,ken,か(ける),ka(keru),prefecture,,N2
+624,設,セツ,setsu,もう(ける),mou(keru),"establishment,provision",,N2
+625,保,ホ、ホウ,"ho,hou",たも(つ),tamo(tsu),"protect,guarantee,keep",,N2
+626,改,カイ,kai,あらた(める),arata(meru),"reformation,change,modify",,N2
+627,第,ダイ,dai,,,"No.,number",,N2
+628,結,ケツ,ketsu,むす(ぶ)、ゆ(う),"musu(bu),yu(u)","tie,bind,contract",,N2
+629,派,ハ,ha,,"faction,group,part",y,,N2
+630,府,フ,fu,,,"borough,urban prefecture,govt office",,N2
+631,査,サ,sa,,,investigate,,N2
+632,委,イ,i,ゆだ(ねる),yuda(neru),"committee,entrust to",,N2
+633,軍,グン,gun,いくさ,ikusa,"army,force,troops",,N2
+634,案,アン,an,つくえ,tsukue,"plan,suggestion,draft",,N2
+635,策,サク,saku,,,"scheme,plan,policy",,N2
+636,団,ダン、トン,"dan,ton",かたまり、 まる(い),"katamari,maru(i)","group,association",,N2
+637,各,カク,kaku,おのおの,onoono,each; every; either,,N2
+638,島,トウ,tou,しま,shima,island,,N2
+639,革,カク,kaku,かわ,kawa,leather; skin; reform; become serious,,N2
+640,村,ソン,son,むら,mura,village; town,,N2
+641,勢,セイ,sei,いきお(い),ikio(i),forces; energy; military strength,,N2
+642,減,ゲン,gen,へ(る),he(ru),dwindle; decrease; reduce,,N2
+643,再,サイ、 サ,"sai,sa",ふたた(び),futata(bi),"again,twice,second time",,N2
+644,税,ゼイ,zei,,,tax; duty,,N2
+645,営,エイ,ei,いとな(む),itona(mu),occupation; camp; perform; build; conduct (business),,N2
+646,比,ヒ,hi,くら(べる),kura(beru),compare; race; ratio,,N2
+647,防,ボウ,bou,ふせ(ぐ),fuse(gu),ward off; defend; protect; resist,,N2
+648,補,ホ,ho,おぎな(う),ogina(u),supplement; supply; offset; compensate,,N2
+649,境,キョウ,kyou,さかい,sakai,"boundary,border,region",,N2
+650,導,ドウ,dou,みちび(く),michibi(ku),guidance; leading; conduct; usher,,N2
+651,副,フク,fuku,,,vice-; assistant; aide; duplicate; copy,,N2
+652,算,サン,san,そろ,soro,calculate; divining; number; probability,,N2
+653,輸,ユ、 シュ,"yu,shu",,,"transport,send,be inferior",,N2
+654,述,ジュツ,jutsu,の(べる),no(beru),mention; state; speak,,N2
+655,線,セン,sen,すじ,suji,line; track,,N2
+656,農,ノウ,nou,,,agriculture; farmers,,N2
+657,州,シュウ,shuu,す,su,state; province,,N2
+658,武,ブ、 ム,"bu,mu",たけ(し),take(shi),warrior; military; chivalry; arms,,N2
+659,象,ショウ、 ゾウ,"shou,zou",かたど(る),katado(ru),elephant; pattern after; image; shape,,N2
+660,域,イキ,iki,,,range; region; limits; stage; level,,N2
+661,額,ガク,gaku,ひたい,hitai,forehead; tablet; framed picture; sum; amount; volume,,N2
+662,欧,オウ,ou,うた(う)、 は(く),"uta(u),ha(ku)",Europe,,N2
+663,担,タン,tan,かつ(ぐ)、 にな(う),"katsu(gu),nina(u)",shouldering; carry; raise; bear,,N2
+664,準,ジュン,jun,じゅん(じる)、 なぞら(える),"jun(jiru),nazora(eru)",semi-; correspond to; imitate,,N2
+665,賞,ショウ,shou,ほ(める),ho(meru),prize; reward; praise,,N2
+666,辺,ヘン,hen,あた(り)、 ほと(り),"ata(ri),hoto(ri)",environs; boundary; border; vicinity,,N2
+667,造,ゾウ,zou,つく(る),tsuku(ru),create; make; structure; physique,,N2
+668,被,ヒ,hi,こうむ(る)、 かぶ(る),"koumu(ru),kabu(ru)",incur; cover; shelter; wear; put on,,N2
+669,技,ギ,gi,わざ,waza,skill; art; craft; ability; vocation; arts,,N2
+670,低,テイ,tei,ひく(い),hiku(i),lower; short; humble,,N2
+671,復,フク,fuku,また,mata,"restore,return to,revert",,N2
+672,移,イ,i,うつ(る),utsu(ru),"shift,move,change",,N2
+673,個,コ,ko,,,individual; counter for articles,,N2
+674,門,モン,mon,かど、 と,"kado,to",gate,,N2
+675,課,カ,ka,,,"chapter,lesson,section,department",,N2
+676,脳,ノウ,nou,のうずる,nouzuru,brain; memory,,N2
+677,極,キョク、 ゴク,"kyoku,goku",きわ(める),kiwa(meru),poles; settlement; conclusion; end,,N2
+678,含,ガン,gan,ふく(む),fuku(mu),contain; include,,N2
+679,蔵,ゾウ,zou,くら,kura,storehouse; hide; own; have; possess,,N2
+680,量,リョウ,ryou,はか(る),haka(ru),quantity; measure; weight; amount,,N2
+681,型,ケイ,kei,かた,kata,type; model,,N2
+682,況,キョウ,kyou,まし(て),mashi(te),condition; situation,,N2
+683,針,シン,shin,はり,hari,needle; pin; staple; stinger,,N2
+684,専,セン,sen,もっぱ(ら),moppa(ra),specialty; exclusive; mainly; solely,,N2
+685,谷,コク,koku,たに、 きわ(まる),"tani,kiwa(maru)",valley,,N2
+686,史,シ,shi,,,history; chronicle,,N2
+687,階,カイ,kai,きざはし,kizahashi,stair; counter for building story,,N2
+688,管,カン,kan,くだ,kuda,pipe; tube; wind instrument; control; jurisdiction,,N2
+689,兵,ヘイ、 ヒョウ,"hei,hyou",つわもの,tsuwamono,soldier; private; troops; army,,N2
+690,接,セツ,setsu,つ(ぐ),tsu(gu),touch; contact; adjoin; piece together,,N2
+691,細,サイ,sai,ほそ(い)、 こま(かい),"hoso(i),koma(kai)",slender; narrow; detailed; precise,,N2
+692,効,コウ,kou,き(く),ki(ku),merit; efficacy; efficiency; benefit,,N2
+693,丸,ガン,gan,まる、まる(い),"maru,maru(i)",round; full (month); perfection,,N2
+694,湾,ワン,wan,いりえ,irie,gulf; bay; inlet,,N2
+695,録,ロク,roku,と(る),to(ru),record,,N2
+696,省,セイ、 ショウ,"sei,shou",かえり(みる)、 はぶ(く),"kaeri(miru),habu(ku)",focus; government ministry; conserve,,N2
+697,旧,キュウ,kyuu,ふる(い)、 もと,"furu(i),moto",old times; old things; former; ex-,,N2
+698,橋,キョウ,kyou,はし,hashi,bridge,,N2
+699,岸,ガン,gan,きし,kishi,beach,,N2
+700,周,シュウ,shuu,まわ(り),mawa(ri),circumference; circuit; lap,,N2
+701,材,ザイ,zai,,,"lumber,log,timber,wood",,N2
+702,戸,コ,ko,と,to,door; counter for houses,,N2
+703,央,オウ,ou,,,center; middle,,N2
+704,券,ケン,ken,,,ticket,,N2
+705,編,ヘン,hen,あ(む),a(mu),compilation; knit; braid; twist; editing,,N2
+706,捜,ソウ,sou,さが(す),saga(su),search; look for; locate,,N2
+707,竹,チク,chiku,たけ,take,bamboo,,N2
+708,超,チョウ,chou,こ(える),ko(eru),transcend; super-; ultra-,,N2
+709,並,ヘイ,hei,な(み)、なみ、なら(べる),"na(mi),nami,nara(beru)","row,and,besides",,N2
+710,療,リョウ,ryou,,,heal; cure,,N2
+711,採,サイ,sai,と(る),to(ru),pick; take; fetch; take up,,N2
+712,森,シン,shin,もり,mori,"forest,woods",,N2
+713,競,キョウ、 ケイ,"kyou,kei",きそ(う)、 せ(る),"kiso(u),se(ru)",compete with; bid; contest; race,,N2
+714,介,カイ,kai,,,jammed in; shellfish; mediate,,N2
+715,根,コン,kon,ね,ne,root; radical,,N2
+716,販,ハン,han,,,"marketing,sell,trade",,N2
+717,歴,レキ,reki,,,curriculum; continuation; passage of time,,N2
+718,将,ショウ,shou,まさ(に)、 はた,"masa(ni),hata",leader; commander; general; admiral,,N2
+719,幅,フク,fuku,はば,haba,hanging scroll; width,,N2
+720,般,ハン,han,,,carrier; carry; all; general; sort; kind,,N2
+721,貿,ボウ,bou,,,trade; exchange,,N2
+722,講,コウ,kou,,,lecture; club; association,,N2
+723,林,リン,rin,はやし,hayashi,grove; forest,,N2
+724,装,ソウ、 ショウ,"sou,shou",よそお(う),yosoo(u),attire; dress; pretend; disguise,,N2
+725,諸,ショ,sho,もろ,moro,various; many; several; together,,N2
+726,劇,ゲキ,geki,,,drama; play,,N2
+727,河,カ,ka,かわ,kawa,river,,N2
+728,航,コウ,kou,,,navigate; sail; cruise; fly,,N2
+729,鉄,テツ,tetsu,くろがね,kurogane,iron,,N2
+730,児,ジ,ji,こ,ko,newborn babe; child,,N2
+731,禁,キン,kin,,,prohibition; ban; forbid,,N2
+732,印,イン,in,しるし,shirushi,stamp; seal; mark; symbol; trademark,,N2
+733,逆,ギャク,gyaku,さか(らう),saka(rau),inverted; reverse; opposite,,N2
+734,換,カン,kan,か(える),ka(eru),interchange; period; change; convert; replace; renew,,N2
+735,久,キュウ、 ク,"kyuu,ku",ひさ(しい),hisa(shii),long time; old story,,N2
+736,短,タン,tan,みじか(い),mijika(i),short; fault; defect; weak point,,N2
+737,油,ユ,yu,あぶら,abura,oil; fat,,N2
+738,暴,ボウ、 バク,"bou,baku",あば(く),aba(ku),outburst; force; violence,,N2
+739,輪,リン,rin,わ,wa,wheel; ring; circle; link; loop; counter for wheels and flowers,,N2
+740,占,セン,sen,し(める)、 うらな(う),"shi(meru),urana(u)",fortune-telling; divining; forecasting,,N2
+741,植,ショク,shoku,う(える),u(eru),plant,,N2
+742,清,セイ,sei,きよ(い),kiyo(i),pure; purify; cleanse,,N2
+743,倍,バイ,bai,,,double; twice; times; fold,,N2
+744,均,キン,kin,なら(す),nara(su),level; average,,N2
+745,億,オク,oku,,,hundred million; 10**8,,N2
+746,圧,アツ,atsu,お(す),o(su),pressure; push; overwhelm; oppress,,N2
+747,芸,ゲイ,gei,う(える)、 のり、 わざ,"u(eru),nori,waza",technique; art; craft; performance; acting,,N2
+748,署,ショ,sho,,,signature; govt office; police station,,N2
+749,伸,シン,shin,の(びる),no(biru),expand; stretch; extend,,N2
+750,停,テイ,tei,と(める),to(meru),halt; stopping,,N2
+751,爆,バク,baku,は(ぜる),ha(zeru),bomb; burst open,,N2
+752,陸,リク、 ロク,"riku,roku",おか,oka,land; six,,N2
+753,玉,ギョク,gyoku,たま,tama,jewel; ball,,N2
+754,波,ハ,ha,なみ,nami,waves; billows,,N2
+755,帯,タイ,tai,お(びる),o(biru),sash; belt; obi; zone; region,,N2
+756,延,エン,en,の(びる),no(biru),prolong; stretching,,N2
+757,羽,ウ,u,は、 わ、 はね,"ha,wa,hane","feathers; counter for birds,rabbits",,N2
+758,固,コ,ko,かた(める),kata(meru),harden; set; clot; curdle,,N2
+759,則,ソク,soku,のっと(る),notto(ru),rule; follow; based on,,N2
+760,乱,ラン,ran,みだ(れる),mida(reru),riot; war; disorder; disturb,,N2
+761,普,フ,fu,あまね(く),amane(ku),universal; generally,,N2
+762,測,ソク,soku,はか(る),haka(ru),fathom; plan; scheme; measure,,N2
+763,豊,ホウ、 ブ,"hou,bu",ゆた(か)、 とよ,"yuta(ka),toyo",bountiful; excellent; rich,,N2
+764,厚,コウ,kou,あつ(い),atsu(i),thick; heavy; rich,,N2
+765,齢,レイ,rei,よわい、 とし,"yowai,toshi",age,,N2
+766,囲,イ,i,かこ(む),kako(mu),surround; enclosure; preserve; keep,,N2
+767,卒,ソツ,sotsu,そっ(する),so(ssuru),graduate; soldier; private; die,,N2
+768,略,リャク,ryaku,ほぼ,hobo,abbreviation; omission; outline; shorten,,N2
+769,承,ショウ,shou,うけたまわ(る),uketamawa(ru),hear; listen to; be informed; receive,,N2
+770,順,ジュン,jun,,,obey; order; turn; occasion,,N2
+771,岩,ガン,gan,いわ,iwa,boulder; rock; cliff,,N2
+772,練,レン,ren,ね(る),ne(ru),"practice,gloss,train,drill,polish,refine",,N2
+773,軽,ケイ,kei,かる(い),karu(i),lightly; trifling; unimportant,,N2
+774,了,リョウ,ryou,,,complete; finish,,N2
+775,庁,チョウ,chou,やくしょ,yakusho,government office,,N2
+776,城,ジョウ、 セイ,"jou,sei",しろ,shiro,castle,,N2
+777,患,カン,kan,わずら(う),wazura(u),afflicted; disease; suffer from; be ill,,N2
+778,層,ソウ,sou,,,stratum; social class; layer; story; floor,,N2
+779,版,ハン,han,,,printing block; edition; impression; label,,N2
+780,令,レイ,rei,,,orders; command; decree,,N2
+781,角,カク,kaku,かど、 つの,"kado,tsuno",angle; corner; square,,N2
+782,絡,ラク,raku,から(む),kara(mu),entwine; coil around; get caught in,,N2
+783,損,ソン,son,そこ(なう),soko(nau),damage; loss; disadvantage; hurt; injure,,N2
+784,募,ボ,bo,つの(る),tsuno(ru),recruit; campaign,,N2
+785,裏,リ,ri,うら,ura,back; reverse; inside; rear,,N2
+786,仏,ブツ,butsu,ほとけ,hotoke,"Buddha,the dead,France",,N2
+787,績,セキ,seki,,,exploits; achievements,,N2
+788,築,チク,chiku,きず(く),kizu(ku),fabricate; build; construct,,N2
+789,貨,カ,ka,たから,takara,freight; goods; property,,N2
+790,混,コン,kon,ま(じる),ma(jiru),mix; blend; confuse,,N2
+791,昇,ショウ,shou,のぼ(る),nobo(ru),rise up,,N2
+792,池,チ,chi,いけ,ike,pond; pool; reservoir,,N2
+793,血,ケツ,ketsu,ち,chi,blood,,N2
+794,温,オン,on,あたた(かい)、ぬく,"atata(kai),nuku",warm,,N2
+795,季,キ,ki,,,seasons,,N2
+796,星,セイ,sei,ほし,hoshi,star,,N2
+797,永,エイ,ei,なが(い),naga(i),eternity; long; lengthy,,N2
+798,著,チョ、 チャク,"cho,chaku",あらわ(す)、 いちじる(しい),"arawa(su),ichijiru(shii)",renowned; publish; write,,N2
+799,誌,シ,shi,,,document; records,,N2
+800,庫,コ、 ク,"ko,ku",くら,kura,warehouse; storehouse,,N2
+801,刊,カン,kan,,,publish; carve; engrave,,N2
+802,像,ゾウ,zou,,,statue; picture; image; figure,,N2
+803,香,コウ、 キョウ,"kou,kyou",かお(り),kao(ri),incense; smell; perfume,,N2
+804,坂,ハン,han,さか,saka,slope; incline; hill,,N2
+805,底,テイ,tei,そこ,soko,bottom; sole; depth; bottom price,,N2
+806,布,フ,fu,ぬの、 し(く),"nuno,shi(ku)",linen; cloth; spread; distribute,,N2
+807,寺,ジ,ji,てら,tera,Buddhist temple,,N2
+808,宇,ウ,u,,,eaves; roof; house; heaven,,N2
+809,巨,キョ,kyo,,,gigantic; big; large; great,,N2
+810,震,シン,shin,ふる(う),furu(u),quake; shake; tremble; quiver,,N2
+811,希,キ,ki,まれ、 こいねが(う),"mare,koinega(u)",hope; beg; request; pray,,N2
+812,触,ショク,shoku,ふ(れる)、 さわ(る),"fu(reru),sawa(ru)",contact; touch; feel; hit; proclaim; announce,,N2
+813,依,イ、 エ,"i,e",よ(る),yo(ru),reliant; depend on; consequently; therefore; due to,,N2
+814,籍,セキ,seki,,,enroll; register; membership,,N2
+815,汚,オ,o,よご(す)、 きたな(い)、 けが(す),"yogo(su),kitana(i),kega(su)",dirty; pollute; disgrace; defile,,N2
+816,枚,マイ、 バイ,"mai,bai",,,sheet of...; counter for flat thin objects,,N2
+817,複,フク,fuku,,,duplicate; double; compound; multiple,,N2
+818,郵,ユウ,yuu,,,mail; stagecoach stop,,N2
+819,仲,チュウ,chuu,なか,naka,go-between; relationship,,N2
+820,栄,エイ,ei,さか(える),saka(eru),flourish; prosperity; honor,,N2
+821,札,サツ,satsu,ふだ,fuda,ticket; paper money; banknote; note,,N2
+822,板,ハン、 バン,"han,ban",いた,ita,plank; board; plate; stage,,N2
+823,骨,コツ,kotsu,ほね,hone,skeleton; bone; remains; frame,,N2
+824,傾,ケイ,kei,かたむ(く),katamu(ku),lean; incline; tilt; trend; bias,,N2
+825,届,カイ,kai,とど(ける),todo(keru),deliver; reach; arrive; report,,N2
+826,巻,カン,kan,ま(く)、 まき,"ma(ku),maki",scroll; volume; book; part; roll up; wind up; coil; counter for texts (or book scrolls),,N2
+827,燃,ネン,nen,も(える),mo(eru),burn; blaze; glow,,N2
+828,跡,セキ,seki,あと,ato,tracks; mark; print; impression,,N2
+829,包,ホウ,hou,つつ(む)、 くる(む),"tsutsu(mu),kuru(mu)",wrap; pack up; cover; conceal,,N2
+830,駐,チュウ,chuu,,,stop-over; reside in; resident,,N2
+831,弱,ジャク,jaku,よわ(い),yowa(i),weak; frail,,N2
+832,紹,ショウ,shou,,,introduce; inherit; help,,N2
+833,雇,コ,ko,やと(う),yato(u),employ; hire,,N2
+834,替,タイ,tai,か(わる),ka(waru),"exchange,spare,substitute",,N2
+835,預,ヨ,yo,あず(ける),azu(keru),deposit; custody; leave with; entrust to,,N2
+836,焼,ショウ,shou,や(く),ya(ku),bake; burning,,N2
+837,簡,カン,kan,ふだ、 えら(ぶ),"fuda,era(bu)",simplicity; brevity,,N2
+838,章,ショウ,shou,,,badge; chapter; composition; poem,,N2
+839,臓,ゾウ,zou,はらわた,harawata,entrails; viscera; bowels,,N2
+840,律,リツ、 リチ,"ritsu,richi",,,rhythm; law; regulation; control,,N2
+841,贈,ゾウ,zou,おく(る),oku(ru),presents; send; give to; award to,,N2
+842,照,ショウ,shou,て(る),te(ru),illuminate; shine; compare,,N2
+843,薄,ハク,haku,うす(い),usu(i),dilute; thin; weak (tea),,N2
+844,群,グン,gun,む(れる)、 むら(がる),"mu(reru),mura(garu)",flock; group; crowd; herd,,N2
+845,秒,ビョウ,byou,,,second,,N2
+846,奥,オウ,ou,おく,oku,heart; interior,,N2
+847,詰,キツ,kitsu,つ(める),tsu(meru),packed; close; rebuke; blame,,N2
+848,双,ソウ,sou,ふた,futa,pair; set; comparison; counter for pairs,,N2
+849,刺,シ,shi,さ(す)、 さし、 とげ,"sa(su),toge","thorn,pierce,stab,prick,sting",,N2
+850,純,ジュン,jun,,,genuine; purity; innocence,,N2
+851,翌,ヨク,yoku,,,the following; next,,N2
+852,快,カイ,kai,こころよ(い),kokoroyo(i),cheerful; pleasant; agreeable; comfortable,,N2
+853,片,ヘン,hen,かた,kata,one-sided; piece,,N2
+854,敬,ケイ,kei,うやま(う),uyama(u),awe; respect; honor; revere,,N2
+855,悩,ノウ,nou,なや(む),naya(mu),trouble; worry; in pain; distress; illness,,N2
+856,泉,セン,sen,いずみ,izumi,spring; fountain,,N2
+857,皮,ヒ,hi,かわ,kawa,skin; hide; leather,,N2
+858,漁,ギョ、 リョウ,"gyo,ryou",あさ(る),asa(ru),fishing; fishery,,N2
+859,荒,コウ,kou,あら(い)、あ(れる),"ara(i),a(reru)",rough; wild,,N2
+860,貯,チョ,cho,た(める),ta(meru),savings; store,,N2
+861,硬,コウ,kou,かた(い),kata(i),stiff; hard,,N2
+862,埋,マイ,mai,う(める),u(meru),bury; be filled up; embedded,,N2
+863,柱,チュウ,chuu,はしら,hashira,pillar; post; cylinder; support,,N2
+864,祭,サイ,sai,まつり,matsuri,ritual; offer prayers; celebrate,,N2
+865,袋,タイ,tai,ふくろ,fukuro,sack; bag; pouch,,N2
+866,筆,ヒツ,hitsu,ふで,fude,writing brush; writing; painting brush; handwriting,,N2
+867,訓,クン,kun,よ(む)、くん(ずる),"yo(mu),kun(zuru)","instruction,explanation,read",,N2
+868,浴,ヨク,yoku,あ(びる),a(biru),bathe; be favored with; bask in,,N2
+869,童,ドウ,dou,わらべ,warabe,juvenile; child,,N2
+870,宝,ホウ,hou,たから,takara,treasure; wealth; valuables,,N2
+871,封,フウ、 ホウ,"fuu,hou",,,seal; closing,,N2
+872,胸,キョウ,kyou,むね,mune,bosom; breast; chest; heart; feelings,,N2
+873,砂,サ、 シャ,"sa,sha",すな,suna,sand,,N2
+874,塩,エン,en,しお,shio,salt,,N2
+875,賢,ケン,ken,かしこ(い),kashiko(i),intelligent; wise; wisdom; cleverness,,N2
+876,腕,ワン,wan,うで,ude,arm; ability; talent,,N2
+877,兆,チョウ,chou,きざ(す),kiza(su),trillion; sign; omen; symptoms,,N2
+878,床,ショウ,shou,とこ、 ゆか,"toko,yuka",bed; counter for beds; floor; padding; tatami,,N2
+879,毛,モウ,mou,け,ke,fur; hair; feather,,N2
+880,緑,リョク、 ロク,"ryoku,roku",みどり,midori,green,,N2
+881,尊,ソン,son,とうと(い),touto(i),revered; valuable; precious; noble,,N2
+882,祝,シュク,shuku,いわ(う),iwa(u),celebrate; congratulate,,N2
+883,柔,ジュウ、 ニュウ,"juu,nyuu",やわ(らかい),yawa(rakai),tender; weakness; gentleness; softness,,N2
+884,殿,デン,den,との、 どの,"tono,dono",Mr.; hall; mansion; palace; temple; lord,,N2
+885,濃,ノウ,nou,こ(い),ko(i),concentrated; thick; dark; undiluted,,N2
+886,液,エキ,eki,,,fluid; liquid; juice; sap; secretion,,N2
+887,衣,イ、 エ,"i,e",ころも、 きぬ,"koromo,kinu",garment; clothes; dressing,,N2
+888,肩,ケン,ken,かた,kata,shoulder,,N2
+889,零,レイ,rei,ぜろ,zero,zero; spill; overflow; nothing,,N2
+890,幼,ヨウ,you,おさな(い),osana(i),infancy; childhood,,N2
+891,荷,カ,ka,に,ni,baggage; load; cargo; freight,,N2
+892,泊,ハク,haku,と(まる),to(maru),overnight stay,,N2
+893,黄,コウ、 オウ,"kou,ou",き,ki,yellow,,N2
+894,甘,カン,kan,あま(い),ama(i),sweet; coax; pamper; sugary,,N2
+895,臣,シン、 ジン,"shin,jin",,,retainer; subject,,N2
+896,浅,セン,sen,あさ(い),asa(i),shallow; superficial; frivolous,,N2
+897,掃,ソウ,sou,は(く),ha(ku),sweep; brush,,N2
+898,雲,ウン,un,くも,kumo,cloud,,N2
+899,掘,クツ,kutsu,ほ(る),ho(ru),dig; delve; excavate,,N2
+900,捨,シャ,sha,す(てる),su(teru),discard; throw away; abandon,,N2
+901,軟,ナン,nan,やわ(らかい),yawa(rakai),soft,,N2
+902,沈,チン、 ジン,"chin,jin",しず(む),shizu(mu),sink; be submerged; subside; be depressed,,N2
+903,凍,トウ,tou,こお(る)、 こご(える),"koo(ru),kogo(eru)",frozen; refrigerate,,N2
+904,乳,ニュウ,nyuu,ちち、ち,"chichi,chi","milk,breasts",,N2
+905,恋,レン,ren,こい(しい),koi(shii),romance; in love; yearn for; miss,,N2
+906,紅,コウ、 ク,"kou,ku",べに、 くれない,"beni,kurenai",crimson; deep red,,N2
+907,郊,コウ,kou,,,"outskirts,suburbs,rural area",,N2
+908,腰,ヨウ,you,こし,koshi,loins; hips; waist,,N2
+909,炭,タン,tan,すみ,sumi,charcoal; coal,,N2
+910,踊,ヨウ,you,おど(る),odo(ru),jump; dance; leap; skip,,N2
+911,冊,サツ,satsu,ふみ,fumi,counter for books; volume,,N2
+912,勇,ユウ,yuu,いさ(む),isa(mu),courage; cheer up; bravery; heroism,,N2
+913,械,カイ,kai,かせ,kase,contraption; machine; instrument,,N2
+914,菜,サイ,sai,な,na,vegetable; side dish; greens,,N2
+915,珍,チン,chin,めずら(しい),mezura(shii),rare; curious; strange,,N2
+916,卵,ラン,ran,たまご,tamago,egg,,N2
+917,湖,コ,ko,みずうみ,mizuumi,lake,,N2
+918,喫,キツ,kitsu,の(む),no(mu),"consume,eat,drink,smoke,receive",,N2
+919,干,カン,kan,ほ(す)、 ひ(る),"ho(su),hi(ru)",dry; parch,,N2
+920,虫,チュウ、 キ,"chuu,ki",むし,mushi,insect; bug,,N2
+921,刷,サツ,satsu,す(る)、 は(く),"su(ru),ha(ku)",printing; print; brush,,N2
+922,湯,トウ,tou,ゆ,yu,hot water; bath; hot spring,,N2
+923,溶,ヨウ,you,と(ける),to(keru),melt; dissolve; thaw,,N2
+924,鉱,コウ,kou,あらがね,aragane,mineral; ore,,N2
+925,涙,ルイ,rui,なみだ,namida,tears; sympathy,,N2
+926,匹,ヒツ,hitsu,ひき,hiki,counter for small animals,,N2
+927,孫,ソン,son,まご,mago,grandchild; descendants,,N2
+928,鋭,エイ,ei,するど(い),surudo(i),pointed; sharpness; edge; weapon; sharp; violent,,N2
+929,枝,シ,shi,えだ,eda,bough; branch; twig; limb; counter for branches,,N2
+930,塗,ト,to,ぬ(る)、 ぬ(り),"nu(ru),nu(ri)",paint; smear; coating,,N2
+931,軒,ケン,ken,のき,noki,flats; counter for houses,,N2
+932,毒,ドク,doku,,,poison; germ; harm,,N2
+933,叫,キョウ,kyou,さけ(ぶ),sake(bu),shout; exclaim; yell,,N2
+934,拝,ハイ,hai,おが(む),oga(mu),worship; adore; pray to,,N2
+935,氷,ヒョウ,hyou,こおり、 ひ,"koori,hi",ice; hail; freeze,,N2
+936,乾,カン,kan,かわ(く),kawa(ku),drought; dry; drink up; heaven,,N2
+937,棒,ボウ,bou,,,rod; stick; cane; pole,,N2
+938,祈,キ,ki,いの(る),ino(ru),pray; wish,,N2
+939,拾,シュウ,shuu,ひろ(う),hiro(u),pick up; gather; find,,N2
+940,粉,フン,fun,こ、 こな,"ko,kona",flour; powder; dust,,N2
+941,糸,シ,shi,いと,ito,thread,,N2
+942,綿,メン,men,わた,wata,cotton,,N2
+943,汗,カン,kan,あせ,ase,sweat; perspire,,N2
+944,銅,ドウ,dou,あかがね,akagane,copper,,N2
+945,湿,シツ,shitsu,しめ(る),shime(ru),damp; wet; moist,,N2
+946,瓶,ビン,bin,かめ、 へい,"kame,hei",bottle; jar; jug; urn,,N2
+947,咲,ショウ,shou,さ(く),sa(ku),blossom; bloom,,N2
+948,召,ショウ,shou,め(す),me(su),"call; send for; wear; buy,to eat,to drink",,N2
+949,缶,カン,kan,かま,kama,tin can; container,,N2
+950,隻,セキ,seki,,,vessels; counter for ships; fish; one of a pair,,N2
+951,脂,シ,shi,あぶら,abura,fat; grease; lard,,N2
+952,蒸,ジョウ、 セイ,"jou,sei",む(す),mu(su),steam; heat; foment,,N2
+953,肌,キ,ki,はだ,hada,texture; skin; body; grain,,N2
+954,耕,コウ,kou,たがや(す),tagaya(su),till; plow; cultivate,,N2
+955,鈍,ドン,don,にぶ(い)、 なまく(ら),"nibu(i),namaku(ra)",dull; slow; foolish; blunt,,N2
+956,泥,デイ,dei,どろ,doro,mud; adhere to; be attached to,,N2
+957,隅,グウ,guu,すみ,sumi,corner; nook,,N2
+958,灯,トウ,tou,ひ、とも(す),"hi,tomo(su)",lamp; a light; counter for lights,,N2
+959,辛,シン,shin,から(い)、 つら(い),"kara(i),tsura(i)",spicy; hot,,N2
+960,磨,マ,ma,みが(く),miga(ku),grind; polish; improve; brush (teeth),,N2
+961,麦,バク,baku,むぎ,mugi,barley; wheat,,N2
+962,姓,セイ、 ショウ,"sei,shou",,,surname,,N2
+963,筒,トウ,tou,つつ,tsutsu,cylinder; pipe; tube,,N2
+964,鼻,ビ,bi,はな,hana,nose; snout,,N2
+965,粒,リュウ,ryuu,つぶ,tsubu,grains; drop; counter for tiny particles,,N2
+966,詞,シ,shi,ことば,kotoba,part of speech; words,,N2
+967,胃,イ,i,,,stomach; crop,,N2
+968,畳,ジョウ、 チョウ,"jou,chou",たたみ,tatami,tatami mat; fold,,N2
+969,机,キ,ki,つくえ,tsukue,desk; table,,N2
+970,膚,フ,fu,はだ,hada,skin; body; texture,,N2
+971,濯,タク,taku,すす(ぐ),susu(gu),laundry; wash; rinse,,N2
+972,塔,トウ,tou,,,pagoda; tower; steeple,,N2
+973,沸,フツ,futsu,わ(く),wa(ku),seethe; boil; ferment,,N2
+974,灰,カイ,kai,はい,hai,ashes; cremate,,N2
+975,菓,カ,ka,,,candy; cakes; fruit,,N2
+976,帽,ボウ,bou,,ずきん、 おお(う),cap; headgear,,N2
+977,枯,コ,ko,か(れる),ka(reru),wither; die; dry up; be seasoned,,N2
+978,涼,リョウ,ryou,すず(しい),suzu(shii),refreshing; nice and cool,,N2
+979,舟,シュウ,shuu,ふね,fune,boat; ship,,N2
+980,貝,バイ,bai,かい,kai,shellfish,,N2
+981,符,フ,fu,,,token; sign; mark,,N2
+982,憎,ゾウ,zou,にく(む),niku(mu),hate; detest,,N2
+983,皿,ベイ,bei,さら、 ざら,"sara,zara",dish; a helping; plate,,N2
+984,肯,コウ,kou,がえんじ(る),gaenji(ru),agreement; consent; comply with,,N2
+985,燥,ソウ,sou,はしゃ(ぐ),hasha(gu),parch; dry up,,N2
+986,畜,チク,chiku,,,livestock; domestic fowl and animals,,N2
+987,坊,ボウ、 ボッ,"bou,bo",,,"boy,priest",,N2
+988,挟,キョウ,kyou,はさ(む),hasa(mu),pinch; between,,N2
+989,曇,ドン,don,くも(る),kumo(ru),cloudy weather,,N2
+990,滴,テキ,teki,しずく、 したた(る),"shizuku,shitata(ru)",drip; drop,,N2
+991,伺,シ,shi,うかが(う),ukaga(u),visit; ask; inquire; question,,N2
+992,氏,シ,shi,うじ,uji,"family name, surname, clan",,N1
+993,統,トウ,tou,す(べる),su(beru),"ruling, governing",,N1
+994,基,キ,ki,もと、 もとい,"moto, motoi","fundamentals, counter for machines, foundation",,N1
+995,価,カ,ka,あたい,atai,"value, price",,N1
+996,提,テイ,tei,さ(げる),sa(geru),"propose, take along, carry in hand",,N1
+997,挙,キョ,kyo,あ(げる)、 こぞ(る),"a(geru), kozo(ru)","raise, plan, project, behavior, actions",,N1
+998,応,オウ,ou,こた(える),kota(eru),"apply, answer, yes, OK, reply, accept",,N1
+999,企,キ,ki,くわだ(てる)、 たくら(む),"kuwada(teru), takura(mu)","undertake, scheme, design, attempt, plan",,N1
+1000,検,ケン,ken,しら(べる),shira(beru),"examination, investigate",,N1
+1001,藤,トウ,tou,ふじ,fuji,wisteria,,N1
+1002,沢,タク,taku,さわ,sawa,"swamp, marsh, brilliance, grace",,N1
+1003,裁,サイ,sai,た(つ)、 さば(く),"ta(tsu), saba(ku)","tailor, judge, decision, cut out (pattern)",,N1
+1004,証,ショウ,shou,あかし,akashi,"evidence, proof, certificate",,N1
+1005,援,エン,en,,,"abet, help, save",,N1
+1006,可,カ,ka,べ(き),be(ki),"can, passable, mustn't, should not",,N1
+1007,施,シ、 セ,"shi, se",ほどこ(す),hodoko(su),"give, bestow, perform, alms",,N1
+1008,井,セイ、 ショウ,"sei, shou",い,i,"well, well crib, town, community",,N1
+1009,護,ゴ,go,まも(る),mamo(ru),"safeguard, protect",,N1
+1010,展,テン,ten,,,"unfold, expand",,N1
+1011,態,タイ,tai,わざ(と),waza(to),"attitude, condition",,N1
+1012,鮮,セン,sen,あざ(やか),aza(yaka),"fresh, vivid, clear",,N1
+1013,視,シ,shi,み(る),mi(ru),"inspection, regard as, see, look at",,N1
+1014,条,ジョウ、 チョウ、 デキ,"jou, chou, deki",えだ、 すじ,"eda, suji","article, clause, counter for articles",,N1
+1015,幹,カン,kan,みき,miki,"tree trunk, main part, talent, capability",,N1
+1016,独,ドク,doku,ひと(り),hito(ri),"single, alone, spontaneously",,N1
+1017,宮,キュウ、 グウ、 ク,"kyuu, guu, ku",みや,miya,"Shinto shrine, constellations, palace, princess",,N1
+1018,率,ソツ、 リツ,"sotsu, ritsu",ひき(いる),hiki(iru),"ratio, rate, proportion, %, factor, lead",,N1
+1019,衛,エイ,ei,,,"defense, protection",,N1
+1020,張,チョウ,chou,は(る),ha(ru),"lengthen, counter for bows & stringed instruments, stretch, spread, put up (tent)",,N1
+1021,監,カン,kan,,,"oversee, official, govt office, rule, administer",,N1
+1022,環,カン,kan,わ,wa,"ring, circle, link, wheel",,N1
+1023,審,シン,shin,つまび(らか)、 つぶさ(に),"tsumabi(raka), tsubusa(ni)","hearing, judge, trial",,N1
+1024,義,ギ,gi,,,"righteousness, justice, morality, honor, loyalty, meaning",,N1
+1025,訴,ソ,so,うった(える),utta(eru),"accusation, sue, complain of pain, appeal to",,N1
+1026,株,シュ,shu,かぶ,kabu,"stocks, stump, shares, stock, counter for small plants",,N1
+1027,姿,シ,shi,すがた,sugata,"figure, form, shape",,N1
+1028,閣,カク,kaku,,,"tower, tall building, palace",,N1
+1029,韓,カン,kan,から、 いげた,"kara, igeta",Korea,,N1
+1030,衆,シュウ、 シュ,"shuu, shu",おお(い),oo(i),"masses, great numbers, multitude, populace",,N1
+1031,評,ヒョウ,hyou,,,"evaluate, criticism, comment",,N1
+1032,岡,コウ,kou,おか,oka,"mount, hill, knoll",,N1
+1033,影,エイ,ei,かげ,kage,"shadow, silhouette, phantom",,N1
+1034,松,ショウ,shou,まつ,matsu,pine tree,,N1
+1035,撃,ゲキ,geki,う(つ),u(tsu),"beat, attack, defeat, conquer",,N1
+1036,佐,サ,sa,,,"assistant, help",,N1
+1037,核,カク,kaku,,,"nucleus, core, kernel",,N1
+1038,整,セイ,sei,ととの(える),totono(eru),"organize, arranging, tune, tone, meter, key (music)",,N1
+1039,融,ユウ,yuu,と(ける),to(keru),"dissolve, melt",,N1
+1040,製,セイ,sei,,,"made in..., manufacture",,N1
+1041,票,ヒョウ,hyou,,,"ballot, label, ticket, sign",,N1
+1042,渉,ショウ,shou,わた(る),wata(ru),"ford, go cross, transit, ferry, import, involve",,N1
+1043,響,キョウ,kyou,ひび(く),hibi(ku),"echo, sound, resound, ring, vibrate",,N1
+1044,推,スイ,sui,お(す),o(su),"conjecture, infer, guess, suppose, support, push (for)",,N1
+1045,請,セイ、 シン、 ショウ,"sei, shin, shou",こ(う)、 う(ける),"ko(u), u(keru)","solicit, invite, ask",,N1
+1046,器,キ,ki,うつわ,utsuwa,"utensil, vessel, receptacle, implement, instrument, ability, container, tool, set",,N1
+1047,士,シ,shi,さむらい,samurai,"gentleman, scholar, samurai",,N1
+1048,討,トウ,tou,う(つ),u(tsu),"chastise, attack, defeat, destroy, conquer",,N1
+1049,攻,コウ,kou,せ(める),se(meru),"aggression, attack, criticize, polish",,N1
+1050,崎,キ,ki,さき、 さい、 みさき,"saki, sai, misaki","promontory, cape, spit",,N1
+1051,督,トク,toku,,,"coach, command, urge, lead, supervise",,N1
+1052,授,ジュ,ju,さず(ける),sazu(keru),"impart, instruct, grant, confer",,N1
+1053,催,サイ,sai,もよう(す)、 もよお(す),"moyou(su), moyoo(su)","sponsor, hold (a meeting), give (a dinner)",,N1
+1054,及,キュウ,kyuu,およ(ぶ)、 および,"oyo(bu), oyobi","reach out, exert, exercise, cause",,N1
+1055,憲,ケン,ken,,,"constitution, law",,N1
+1056,離,リ,ri,はな(れる),hana(reru),"detach, separation, disjoin, digress",,N1
+1057,激,ゲキ,geki,はげ(しい),hage(shii),"violent, get excited, enraged, chafe, incite",,N1
+1058,摘,テキ,teki,つ(む),tsu(mu),"pinch, pick, pluck, trim, clip, summarize",,N1
+1059,系,ケイ,kei,,,"lineage, system",,N1
+1060,批,ヒ,hi,,,"criticism, strike",,N1
+1061,郎,ロウ、 リョウ,rou,おとこ,otoko,"son, counter for sons",,N1
+1062,健,ケン,ken,すこ(やか),suko(yaka),"healthy, health, strength, persistence",,N1
+1063,従,ジュウ、 ショウ、 ジュ,"juu, shou, ju",したが(う)、 より,"shitaga(u), yori","accompany, obey, submit to, comply, follow, secondary, incidental, subordinate",,N1
+1064,修,シュウ、 シュ,"shuu, shu",おさ(める),osa(meru),"discipline, conduct oneself well, study, master",,N1
+1065,隊,タイ,tai,,,"regiment, party, company, squad",,N1
+1066,織,ショク、 シキ,"shoku, shiki",お(る)、 おり、 -おり、 -お(り),"o(ru), ori, -ori, -o(ri)","weave, fabric",,N1
+1067,拡,カク、 コウ,"kaku, kou",ひろ(がる),hiro(garu),"broaden, extend, expand, enlarge",,N1
+1068,故,コ,ko,ゆえ、 ふる(い)、 もと,"yue, furu(i), moto","happenstance, especially, intentionally, reason, cause, circumstances, the late, therefore",,N1
+1069,振,シン,shin,ふ(る),fu(ru),"shake, wave, wag, swing",,N1
+1070,弁,ベン、 ヘン,"ben, hen",かんむり、 わきま(える)、 わ(ける)、 はなびら,"kanmuri, wakima(eru), wa(keru), hanabira","valve, petal, braid, speech, dialect, discrimination, dispose of, distinguish, conical cap",,N1
+1071,就,シュウ、 ジュ,"shuu, ju",つ(く),tsu(ku),"concerning, settle, take position, depart, study, per",,N1
+1072,異,イ,i,こと、 こと(なる)、 け,"koto, koto(naru), ke","uncommon, different, queerness, strangeness, wonderful, curious, unusual",,N1
+1073,献,ケン、 コン,"ken, kon",たてまつ(る),tatematsu(ru),"offering, counter for drinks, present, offer",,N1
+1074,厳,ゲン、 ゴン,"gen, gon",おごそ(か)、 きび(しい)、 いか(めしい)、 いつくし,"ogoso(ka), kibi(shii), ika(meshii), itsukushi","stern, strictness, severity, rigidity",,N1
+1075,維,イ,i,,,"fiber, tie, rope",,N1
+1076,浜,ヒン,hin,はま,hama,"seacoast, beach, seashore",,N1
+1077,遺,イ、 ユイ,"i, yui",のこ(す),noko(su),"bequeath, leave behind, reserve",,N1
+1078,塁,ルイ、 ライ、 スイ,"rui, rai, sui",とりで,toride,"bases, fort, rampart, walls, base(ball)",,N1
+1079,邦,ホウ,hou,くに,kuni,"home country, country, Japan",,N1
+1080,素,ソ、 ス,"so, su",もと,moto,"elementary, principle, naked, uncovered",,N1
+1081,遣,ケン,ken,つか(う)、 -つか(い)、 -づか(い)、 や(る),"tsuka(u), -tsuka(i), -dzuka(i), ya(ru)","dispatch, despatch, send, give, donate, do, undertake",,N1
+1082,抗,コウ,kou,あらが(う),araga(u),"confront, resist, defy, oppose",,N1
+1083,模,モ、 ボ,"mo, bo",,,"imitation, copy, mock",,N1
+1084,雄,ユウ,yuu,お-、 おす、 おん,"o-, osu, on","masculine, male, hero, leader, superiority, excellence",,N1
+1085,益,エキ、ヤク,"eki, yaku",ま(す),ma(su),"benefit, gain, profit, advantage",,N1
+1086,緊,キン,kin,し(める),shi(meru),"tense, solid, hard, reliable, tight",,N1
+1087,標,ヒョウ,hyou,しるべ、 しるし,"shirube, shirushi","signpost, seal, mark, stamp, imprint, symbol, emblem, trademark, evidence, souvenir",,N1
+1088,宣,セン,sen,のたま(う),notama(u),"proclaim, say, announce",,N1
+1089,昭,ショウ,shou,,,"shining, bright",,N1
+1090,廃,ハイ,hai,すた(れる),suta(reru),"abolish, obsolete, cessation, discarding, abandon",,N1
+1091,伊,イ,i,かれ,kare,"Italy, that one",,N1
+1092,江,コウ,kou,え,e,"creek, inlet, bay",,N1
+1093,僚,リョウ,ryou,,,"colleague, official, companion",,N1
+1094,吉,キチ、 キツ,"kichi, kitsu",よし,yoshi,"good luck, joy, congratulations",,N1
+1095,盛,セイ、 ジョウ,"sei, jou",も(る)、 さか(る),"mo(ru), saka(ru)","boom, prosper, copulate",,N1
+1096,皇,コウ、 オウ,"kou, ou",,,emperor,,N1
+1097,臨,リン,rin,のぞ(む),nozo(mu),"look to, face, meet, confront, attend, call on",,N1
+1098,踏,トウ,tou,ふ(む),fu(mu),"step, trample, carry through, appraise, evade payment",,N1
+1099,壊,カイ、 エ,"kai, e",こわ(す)、 やぶ(る),"kowa(su), yabu(ru)","demolition, break, destroy",,N1
+1100,債,サイ,sai,,,"bond, loan, debt",,N1
+1101,興,コウ、 キョウ,"kou, kyou",おこ(る),oko(su),"entertain, revive, retrieve, interest, pleasure",,N1
+1102,源,ゲン,gen,みなもと,minamoto,"source, origin",,N1
+1103,儀,ギ,gi,,,"ceremony, rule, affair, case, a matter",,N1
+1104,創,ソウ、 ショウ,"sou, shou",つく(る)、 はじ(める)、 きず、 けず(しける),"tsuku(ru), haji(meru), kizu, kezu(shikeru)","genesis, wound, injury, hurt, start, originate",,N1
+1105,障,ショウ,shou,さわ(る),sawa(ru),"hinder, hurt, harm",,N1
+1106,継,ケイ,kei,つ(ぐ)、 まま-,"tsu(gu), mama-","inherit, succeed, continue, patch, graft (tree)",,N1
+1107,筋,キン,kin,すじ,suji,"muscle, sinew, tendon, fiber, plot, plan, descent",,N1
+1108,狙,ソ、 ショ,"so, sho",ねら(う),nera(u),"aim at, sight, shadow, stalk",,N1
+1109,闘,トウ,tou,たたか(う)、 あらそ(う),"tataka(u), araso(u)","fight, war",,N1
+1110,葬,ソウ,sou,ほうむ(る),houmu(ru),"interment, bury, shelve",,N1
+1111,避,ヒ,hi,さ(ける)、 よ(ける),"sa(keru), yo(keru)","evade, avoid, avert, ward off, shirk, shun",,N1
+1112,司,シ,shi,つかさど(る),tsukasado(ru),"director, official, govt office, rule, administer",,N1
+1113,康,コウ,kou,,,"ease, peace",,N1
+1114,善,ゼン,zen,よ(い)、 い(い)、 よし(とする),"yo(i), i(i), yoshi(tosuru)","virtuous, good, goodness",,N1
+1115,逮,タイ,tai,,,"apprehend, chase",,N1
+1116,迫,ハク,haku,せま(る),sema(aru),"urge, force, imminent, spur on",,N1
+1117,惑,ワク,waku,まど(う),mado(u),"beguile, delusion, perplexity",,N1
+1118,崩,ホウ,hou,くず(れる)、 -くず(れ),"kuzu(reru), -kuzu(re)","crumble, die, demolish, level",,N1
+1119,紀,キ,ki,,,"chronicle, account, narrative, history, annals, geologic period",,N1
+1120,聴,チョウ、 テイ,"chou, tei",き(く)、 ゆる(す),"ki(ku), yuru(su)","listen, headstrong, naughty, careful inquiry",,N1
+1121,脱,ダツ,datsu,ぬ(ぐ),nu(gu),"undress, removing, escape from, get rid of, be left out, take off",,N1
+1122,級,キュウ,kyuu,,,"class, rank, grade",,N1
+1123,博,ハク、バク,"haku, baku",,,"Dr., command, esteem, Ph.D.",,N1
+1124,締,テイ,tei,し(まる)、 -し(め)、 -じ(め),"shi(maru), -shi(me), -ji(me)","tighten, tie, shut, lock, fasten",,N1
+1125,救,キュウ,kyuu,すく(う),suku(u),"salvation, save, help, rescue, reclaim",,N1
+1126,執,シツ、 シュウ,"shitsu, shuu",と(る),to(ru),"tenacious, take hold, grasp, take to heart",,N1
+1127,房,ボウ,bou,ふさ,fusa,"tassel, tuft, fringe, bunch, lock (hair), segment (orange), house, room",,N1
+1128,撤,テツ,tetsu,,,"remove, withdraw, disarm, dismantle, reject, exclude",,N1
+1129,削,サク,saku,けず(る)、 はつ(る)、 そ(ぐ),"kezu(ru), hatsu(ru), so(gu)","plane, sharpen, whittle, pare, shave",,N1
+1130,密,ミツ,mitsu,ひそ(か),hiso(ka),"secrecy, density (pop), minuteness, carefulness",,N1
+1131,措,ソ,so,お(く),o(ku),"set aside, give up, suspend, discontinue, lay aside, except",,N1
+1132,志,シ,shi,こころざ(す)、 こころざし,"kokoroza(su), kokorozashi","intention, plan, resolve, aspire, motive, hopes, shilling",,N1
+1133,載,サイ,sai,の(せる),no(seru),"ride, board, get on, place, spread, 10**44, record, publish",,N1
+1134,陣,ジン,jin,,,"camp, battle array, ranks, position, sudden, brief time",,N1
+1135,我,ガ,ga,われ、 わ、 わ(が)-、 わが-,"ware, wa, wa(ga)-, waga-","ego, I, selfish, our, oneself",,N1
+1136,為,イ,i,ため、 な(る)、 す(る)、 たり、 つく(る)、 なり,"tame, na(ru), su(ru), tari, tsuku(ru), nari","do, change, make, benefit, welfare, be of use, reach to, try, practice, cost, serve as, good",,N1
+1137,抑,ヨク,yoku,おさ(える),osa(eru),"repress, well, now, in the first place, push, shove, press, seal, do in spite of",,N1
+1138,幕,マク、 バク,"maku, baku",とばり,tobari,"curtain, bunting, act of play",,N1
+1139,染,セン,sen,そ(める)、 し(みる),"so(meru), shi(meru)","dye, color, paint, stain, print",,N1
+1140,奈,ナ、 ナイ、 ダイ,"na, nai, dai",いかん、 からなし,"ikan, karanashi","Nara, what?",,N1
+1141,傷,ショウ,shou,きず、 いた(む),"kizu, ita(mu)","wound, hurt, injure, impair, pain, injury, cut, gash, scar, weak point",,N1
+1142,択,タク,taku,えら(ぶ),era(bu),"choose, select, elect, prefer",,N1
+1143,秀,シュウ,shuu,ひい(でる),hii(deru),"excel, excellence, beauty, surpass",,N1
+1144,徴,チョウ、 チ,"chou, chi",しるし,shirushi,"indications, sign, omen, symptom, collect, seek, refer to, question",,N1
+1145,弾,ダン、 タン,"dan, tan",ひ(く)、 -ひ(き)、 はず(む)、 たま、 はじ(く),"hi(ku), -hi(ki), hazu(mu), tama, haji(ku)","bullet, twang, flip, snap",,N1
+1146,償,ショウ,shou,つぐな(う),tsuguna(u),"reparation, make up for, recompense, redeem",,N1
+1147,功,コウ、 ク,"kou, ko",いさお,isao,"achievement, merits, success, honor, credit",,N1
+1148,拠,キョ、 コ,"kyo, ko",よ(る),yo(ru),"foothold, based on, follow, therefore",,N1
+1149,秘,ヒ,hi,ひ(める)、 ひそ(か)、 かく(す),"hi(meru), hiso(ka), kaku(su)","secret, conceal",,N1
+1150,拒,キョ、 ゴ,"kyo, go",こば(む),koba(mu),"repel, refuse, reject, decline",,N1
+1151,刑,ケイ,kei,,,"punish, penalty, sentence, punishment",,N1
+1152,塚,チョウ,chou,つか、 -づか,"tsuka, -dzuka","hillock, mound",,N1
+1153,致,チ,chi,いた(す),ita(su),"doth, do, send, forward, cause, exert, incur, engage",,N1
+1154,繰,ソウ,sou,く(る),ku(ru),"winding, reel, spin, turn (pages), look up, refer to",,N1
+1155,尾,ビ,bi,お,o,"tail, end, counter for fish, lower slope of mountain",,N1
+1156,描,ビョウ,byou,えが(く)、 か(く),"ega(ku), ka(ku)","sketch, compose, write, draw, paint",,N1
+1157,鈴,レイ、 リン,"rei, rin",すず,suzu,"small bell, buzzer",,N1
+1158,盤,バン,ban,,,"tray, shallow bowl, platter, tub, board, phonograph record",,N1
+1159,項,コウ,kou,うなじ,unaji,"paragraph, nape of neck, clause, item, term (expression)",,N1
+1160,喪,ソウ,sou,も,mo,"miss, mourning",,N1
+1161,伴,ハン、 バン,"han, ban",ともな(う),tomona(u),"consort, accompany, bring with, companion",,N1
+1162,養,ヨウ、 リョウ,"you, ryou",やしな(う),yashina(u),"foster, bring up, rear, develop, nurture",,N1
+1163,懸,ケン、 ケ,"ken, ke",か(ける),ka(keru),"state of suspension, hang, depend, consult, distant, far apart",,N1
+1164,街,ガイ、 カイ,"gai, kai",まち,machi,"boulevard, street, town",,N1
+1165,契,ケイ,kei,ちぎ(る),chigi(ru),"pledge, promise, vow",,N1
+1166,掲,ケイ,kei,かか(げる),kaka(geru),"put up (a notice), put up, hoist, display, hang out, publish, describe",,N1
+1167,躍,ヤク,yaku,おど(る),odo(ru),"leap, dance, skip",,N1
+1168,棄,キ,ki,す(てる),su(teru),"abandon, throw away, discard, resign, reject, sacrifice",,N1
+1169,邸,テイ,tei,やしき,yashiki,"residence, mansion",,N1
+1170,縮,シュク,shuku,ちぢ(む),chidji(mu),"shrink, contract, shrivel, wrinkle, reduce",,N1
+1171,還,カン,kan,かえ(る),kae(ru),"send back, return",,N1
+1172,属,ゾク、 ショク,"zoku, shoku",さかん、 つく、 やから,"sakan, tsuku, yakara","belong, genus, subordinate official, affiliated",,N1
+1173,慮,リョ,ryo,おもんぱく(る),omonpaku(ru),"prudence, thought, concern, consider, deliberate, fear",,N1
+1174,枠,わく,waku,,,"frame, framework, spindle, spool, bounding-box",,N1
+1175,恵,ケイ、 エ,"kei, e",めぐ(む),megu(mu),"favor, blessing, grace, kindness",,N1
+1176,露,ロ、 ロウ,"ro, rou",つゆ,tsuyu,"dew, tears, expose, Russia",,N1
+1177,沖,チュウ,chuu,おき、 おきつ、 ちゅう(する)、 わく,"oki, okitsu, chuu(suru), waku","open sea, offing, rise high into sky",,N1
+1178,緩,カン,kan,ゆる(い),yuru(i),"slacken, loosen, relax, lessen, be moderate, ease",,N1
+1179,節,セツ、 セチ,"setsu, sechi",ふし、 -ぶし、 のっと,"fushi, -bushi, notto","node, season, period, occasion, verse, clause, stanza, honor, joint, knuckle, knob, knot, tune, melody",,N1
+1180,需,ジュ,ju,,,"demand, request, need",,N1
+1181,射,シャ,sha,い(る)、 さ(す)、 う(つ),"i(ru), sa(su), u(tsu)","shoot, shine into, onto, archery",,N1
+1182,購,コウ,kou,,,"subscription, buy",,N1
+1183,揮,キ,ki,ふる(う),furu(u),"brandish, wave, wag, swing, shake",,N1
+1184,充,ジュウ,juu,あ(てる)、 み(たす),"a(teru), mi(tasu)","allot, fill",,N1
+1185,貢,コウ、 ク,"kou, ku",みつ(ぐ),mitsu(gu),"tribute, support, finance",,N1
+1186,鹿,ロク,roku,しか、 か,"shika, ka",deer,,N1
+1187,却,キャク,kyaku,かえ(って)、 しりぞ(く),"kae(tte), shirizo(ku)","instead, on the contrary, rather, step back, withdraw, retreat",,N1
+1188,端,タン,tan,はし、 は、 はた、 -ばた、 はな,"hashi, ha, hata, -bata, hana","edge, origin, end, point, border, verge, cape",,N1
+1189,賃,チン,chin,,,"fare, fee, hire, rent, wages, charge",,N1
+1190,獲,カク,kaku,え(る),e(ru),"seize, get, find, earn, acquire, can, may, able to",,N1
+1191,郡,グン,gun,こおり,koori,"county, district",,N1
+1192,併,ヘイ,hei,あわ(せる),awa(seru),"join, get together, unite, collective",,N1
+1193,徹,テツ,tetsu,,,"penetrate, clear, pierce, strike home, sit up (all night)",,N1
+1194,貴,キ,ki,たっと(い)、 とうと(い),"tatto(i), touto(i)","precious, value, prize, esteem, honor",,N1
+1195,埼,キ,ki,さき、 さい、 みさき,"saki, sai, misaki","cape, spit, promontory",,N1
+1196,衝,ショウ,shou,つ(く),tsu(ku),"collide, brunt, highway, opposition (astronomy), thrust, pierce, stab, prick",,N1
+1197,焦,ショウ,shou,こ(げる)、 あせ(る)、 じ(れる),"ko(geru), ase(ru), ji(reru)","char, hurry, impatient, irritate, burn, scorch, singe",,N1
+1198,奪,ダツ,datsu,うば(う),uba(u),"rob, take by force, snatch away, dispossess, plunder, usurp",,N1
+1199,災,サイ,sai,わざわ(い),wazawa(i),"disaster, calamity, woe, curse, evil",,N1
+1200,浦,ホ,ho,うら,ura,"bay, creek, inlet, gulf, beach, seacoast",,N1
+1201,析,セキ,seki,,,"chop, divide, tear, analyze",,N1
+1202,譲,ジョウ,jou,ゆず(る),yuzu(ru),"defer, turnover, transfer, convey",,N1
+1203,称,ショウ,shou,たた(える)、 とな(える)、 あ(げる)、 かな(う)、 はか(り)、 ほめ(る),"tata(eru), tona(eru), a(geru), kana(u), haka(ri), home(ru)","appellation, praise, admire, name, title, fame",,N1
+1204,納,ノウ、 ナッ、 ナ、 ナン、 トウ,"nou, natsu, na, nan, tou",おさ(める)、 -おさ(める),"osa(meru), -osa(meru)","settlement, obtain, reap, pay, supply, store",,N1
+1205,樹,ジュ,ju,き,ki,"timber, trees, wood, establish, set up",,N1
+1206,挑,チョウ,chou,いど(む),ido(mu),"challenge, contend for, make love to",,N1
+1207,誘,ユウ,yuu,さそ(う)、 いざな(う),"saso(u), izana(u)","entice, lead, tempt, invite, ask, call for, seduce, allure",,N1
+1208,紛,フン,fun,まぎ(れる)、 -まぎ(れ),"magi(reru), -magi(re)","distract, be mistaken for, go astray, divert",,N1
+1209,至,シ,shi,いた(る),ita(ru),"climax, arrive, proceed, reach, attain, result in",,N1
+1210,宗,シュウ、 ソウ,"shuu, sou",むね,mune,"religion, sect, denomination, main point, origin, essence",,N1
+1211,促,ソク,soku,うなが(す),unaga(su),"stimulate, urge, press, demand, incite",,N1
+1212,慎,シン,shin,つつし(む)、 つつ(ましい)、 つつし,"tsutsushi(mu), tsutsu(mashii), tsutsushi","humility, be careful, discreet, prudent",,N1
+1213,控,コウ,kou,ひか(える),hika(eru),"withdraw, draw in, hold back, refrain from, be moderate",,N1
+1214,智,チ,chi,,,"wisdom, intellect, reason",,N1
+1215,握,アク,aku,にぎ(る),nigi(ru),"grip, hold, mould sushi, bribe",,N1
+1216,宙,チュウ,chuu,,,"mid-air, air, space, sky, memorization, interval of time",,N1
+1217,俊,シュン,shun,,,"sagacious, genius, excellence",,N1
+1218,銭,セン、 ゼン,"sen, zen",ぜに、 すき,"zeni, suki","coin, .01 yen, money",,N1
+1219,渋,ジュウ、 シュウ,"juu, shuu",しぶ、 しぶ(い),"shibu, shibu(i)","astringent, hesitate, reluctant, have diarrhea",,N1
+1220,銃,ジュウ,juu,つつ,tsutsu,"gun, arms",,N1
+1221,操,ソウ、 サン,"sou, san",みさお、 あやつ(る),"misao, ayatsu(ru)","maneuver, manipulate, operate, steer, chastity, virginity, fidelity",,N1
+1222,携,ケイ,kei,たずさ(える),tazusa(eru),"portable, carry (in hand), armed with, bring along",,N1
+1223,診,シン,shin,み(る),mi(ru),"checkup, seeing, diagnose, examine",,N1
+1224,託,タク,taku,かこつ(ける)、 かこ(つ),"kakotsu(keru), kako(tsu)","consign, requesting, entrusting with, pretend, hint",,N1
+1225,撮,サツ,satsu,と(る)、 つま(む)、 -ど(り),"to(ru), tsuma(mu), -do(ri)","snapshot, take pictures",,N1
+1226,誕,タン,tan,,,"nativity, be born, declension, lie, be arbitrary",,N1
+1227,侵,シン,shin,おか(す),oka(su),"encroach, invade, raid, trespass, violate",,N1
+1228,括,カツ,katsu,くく(る),kuku(ru),"fasten, tie up, arrest, constrict",,N1
+1229,謝,シャ,sha,あやま(る),ayama(ru),"apologize, thank, refuse",,N1
+1230,孝,コウ、 キョウ,"kou, kyou",,,"filial piety, child's respect",,N1
+1231,駆,ク,ku,か(ける),ka(keru),"drive, run, gallop, advance, inspire, impel",,N1
+1232,透,トウ,tou,す(く)、 とう(る),"su(ku), tou(ru)","transparent, permeate, filter, penetrate",,N1
+1233,津,シン,shin,つ,tsu,"haven, port, harbor, ferry",,N1
+1234,壁,ヘキ,heki,かべ,kabe,"wall, lining (stomach), fence",,N1
+1235,稲,トウ、 テ,"tou, te",いね、 いな-,"ine, ina-",rice plant,,N1
+1236,仮,カ、 ケ,"ka, ke",かり、 かり-,"kari, kari-","sham, temporary, interim, assumed (name), informal",,N1
+1237,裂,レツ,retsu,さ(く)、 -ぎ(れ),"sa(ku), -gi(re)","split, rend, tear",,N1
+1238,敏,ビン,bin,さとい,satoi,"cleverness, agile, alert",,N1
+1239,是,ゼ、 シ,"ze, shi",これ、 この、 ここ,"kore, kono, koko","just so, this, right, justice",,N1
+1240,排,ハイ,hai,,,"repudiate, exclude, expel, reject, line up, arrange",,N1
+1241,裕,ユウ,yuu,,,"abundant, rich, fertile",,N1
+1242,堅,ケン,ken,かた(い)、 -がた(い),"kata(i), -gata(i)","strict, hard, solid, tough, tight, reliable",,N1
+1243,訳,ヤク,yaku,わけ,wake,"translate, reason, circumstance, case",,N1
+1244,芝,シ,shi,しば,shiba,"turf, lawn",,N1
+1245,綱,コウ,kou,つな,tsuna,"hawser, class (genus), rope, cord, cable",,N1
+1246,典,テン、 デン,"ten, den",ふみ、 のり,"fumi, nori","code, ceremony, law, rule",,N1
+1247,賀,ガ,ga,,,"congratulations, joy",,N1
+1248,扱,ソウ、 キュウ,"sou, kyuu",あつか(い)、 こ(く),"atsuka(i), ko(ku)","handle, entertain, thresh, strip",,N1
+1249,顧,コ,ko,かえり(みる),kaeri(miru),"look back, review, examine oneself, turn around",,N1
+1250,弘,コウ、 グ,"kou, gu",ひろ(い),hiro(i),"vast, broad, wide",,N1
+1251,看,カン,kan,み(る),mi(ru),"watch over, see",,N1
+1252,訟,ショウ,shou,,,"sue, accuse",,N1
+1253,戒,カイ,kai,いまし(める),imashi(meru),commandment,,N1
+1254,祉,シ,shi,,,"welfare, happiness",,N1
+1255,誉,ヨ,yo,ほま(れ)、 ほ(める),"homa(re), ho(meru)","reputation, praise, honor, glory",,N1
+1256,歓,カン,kan,よろこ(ぶ),yoroko(bu),"delight, joy",,N1
+1257,奏,ソウ,sou,かな(でる),kana(deru),"play music, speak to a ruler, complete",,N1
+1258,勧,カン、 ケン,"kan, ken",すす(める),susu(meru),"persuade, recommend, advise, encourage, offer",,N1
+1259,騒,ソウ,sou,さわ(ぐ)、 うれい,"sawa(gu), urei","boisterous, make noise, clamor, disturb, excite",,N1
+1260,閥,バツ,batsu,,,"clique, lineage, pedigree, faction, clan",,N1
+1261,甲,コウ、 カン,"kou, kan",きのえ,kinoe,"armor, high (voice), A grade, first class, former, instep, carapace",,N1
+1262,縄,ジョウ,jou,なわ、 ただ(す),"nawa, tada(su)","straw rope, cord",,N1
+1263,郷,キョウ、 ゴウ,"kyou, gou",さと,sato,"home town, village, native place, district",,N1
+1264,揺,ヨウ,you,ゆ(れる)、 うご(く),"yu(reru), ugo(ku)","swing, shake, sway, rock, tremble, vibrate",,N1
+1265,免,メン,men,まぬか(れる)、 まぬが(れる),"manuka(reru), manuga(reru)","excuse, dismissal",,N1
+1266,既,キ,ki,すで(に),sude(ni),"previously, already, long ago",,N1
+1267,薦,セン,sen,すす(める),susu(meru),"recommend, mat, advise, encourage, offer",,N1
+1268,隣,リン,rin,とな(る)、 となり,"tona(ru), tonari",neighboring,,N1
+1269,華,カ、 ケ,"ka, ke",はな,hana,"splendor, flower, petal, shine, luster, ostentatious, showy, gay, gorgeous",,N1
+1270,範,ハン,han,,,"pattern, example, model",,N1
+1271,隠,イン、 オン,"in, on",かく(す)、 よ(る),"kaku(su), yo(ru)","conceal, hide, cover",,N1
+1272,徳,トク,toku,,,"benevolence, virtue, goodness, commanding respect",,N1
+1273,哲,テツ,tetsu,さとい、 あきらか,"satoi, akiraka","philosophy, clear",,N1
+1274,杉,サン,san,すぎ,sugi,"cedar, cryptomeria",,N1
+1275,里,リ,ri,さと,sato,"ri, village, parent's home, league",,N1
+1276,釈,シャク、 セキ,"shaku, seki",とく、 す(てる)、 ゆる(す),"toku, su(teru), yuru(su)",explanation,,N1
+1277,己,コ、 キ,"ko, ki",おのれ、 つちのと、 な,"onore, tsuchinoto, na",self,,N1
+1278,妥,ダ,da,,,"gentle, peace, satisfactory, appropriate",,N1
+1279,威,イ,i,おど(す),odo(su),"intimidate, dignity, majesty, menace, threaten",,N1
+1280,豪,ゴウ,gou,えら(い),era(i),"overpowering, great, powerful, excelling, Australia",,N1
+1281,熊,ユウ,yuu,くま,kuma,bear,,N1
+1282,滞,タイ、 テイ,"tai, tei",とどこお(る),todokoo(ru),"stagnate, be delayed, overdue, arrears",,N1
+1283,微,ビ,bi,かす(か),kasu(ka),"delicate, minuteness, insignificance",,N1
+1284,隆,リュウ,ryuu,,,"hump, high, noble, prosperity",,N1
+1285,症,ショウ,shou,,,"symptoms, illness",,N1
+1286,暫,ザン,zan,しばら(く),shibara(ku),"temporarily, a while, moment, long time",,N1
+1287,忠,チュウ,chuu,,,"loyalty, fidelity, faithfulness",,N1
+1288,倉,ソウ,sou,くら,kura,"godown, warehouse, storehouse, cellar, treasury",,N1
+1289,彦,ゲン,gen,ひこ,hiko,"lad, boy (ancient)",,N1
+1290,肝,カン,kan,きも,kimo,"liver, pluck, nerve, chutzpah",,N1
+1291,喚,カン,kan,わめ(く),wame(ku),"yell, cry, call, scream, summon",,N1
+1292,沿,エン,en,そ(う)、 -ぞ(い),"so(u), -zo(i)","run alongside, follow along, run along, lie along",,N1
+1293,妙,ミョウ、 ビョウ,"myou, byou",たえ,tae,"exquisite, strange, queer, mystery, miracle, excellent, delicate, charming",,N1
+1294,唱,ショウ,shou,とな(える),tona(eru),"chant, recite, call upon, yell",,N1
+1295,阿,ア、 オ,"a, o",おもね(る)、 くま,"omone(ru), kuma","Africa, flatter, fawn upon, corner, nook, recess",,N1
+1296,索,サク,saku,,,"cord, rope, searching, inquiring",,N1
+1297,誠,セイ,sei,まこと,makoto,"sincerity, admonish, warn, prohibit, truth, fidelity",,N1
+1298,襲,シュウ,shuu,おそ(う)、 かさ(ね),"oso(u), kasa(ne)","attack, advance on, succeed to, pile, heap",,N1
+1299,懇,コン,kon,ねんご(ろ),nengo(ro),"sociable, kind, courteous, hospitable, cordial",,N1
+1300,俳,ハイ,hai,,,"haiku, actor",,N1
+1301,柄,ヘイ,hei,がら、 え、 つか,"gara, e, tsuka","design, pattern, build, nature, character, handle, crank, grip, knob, shaft",,N1
+1302,驚,キョウ,kyou,おどろ(く),odoro(ku),"wonder, be surprised, frightened, amazed",,N1
+1303,麻,マ、 マア,"ma, maa",あさ,asa,"hemp, flax, numb",,N1
+1304,李,リ,ri,すもも,sumomo,plum,,N1
+1305,浩,コウ,kou,おおき(い)、 ひろ(い),"ooki(i), hiro(i)","wide expanse, abundance, vigorous",,N1
+1306,剤,ザイ、 スイ、 セイ,"zai, sui, sei",かる、 けず(る),"karu, kezu(ru)","dose, medicine, drug",,N1
+1307,瀬,ライ,rai,せ,se,"rapids, current, torrent, shallows, shoal",,N1
+1308,趣,シュ,shu,おもむき、 おもむ(く),"omomuki, omomu(ku)","purport, gist, elegance, interest, proceed to, tend, become",,N1
+1309,陥,カン,kan,おちい(る)、 おとしい(れる),"ochii(ru), otoshii(reru)","collapse, fall into, cave in, fall (castle), slide into",,N1
+1310,斎,サイ,sai,とき、 つつし(む)、 ものいみ、 い(む)、 いわ(う)、 いつ(く),"toki, tsutsushi(mu), monoimi, i(mu), iwa(u), itsu(ku)","purification, Buddhist food, room, worship, avoid, alike",,N1
+1311,貫,カン,kan,つらぬ(く)、 ぬ(く)、 ぬき,"tsuranu(ku), nu(ku), nuki","pierce, 8 1/3lbs, penetrate, brace",,N1
+1312,仙,セン、 セント,"sen, sento",,,"hermit, wizard, cent",,N1
+1313,慰,イ,i,なぐさ(める),nagusa(meru),"consolation, amusement, seduce, cheer, make sport of, comfort, console",,N1
+1314,序,ジョ,jo,つい(で)、 ついで,"tsui(de), tsuide","preface, beginning, order, precedence, occasion, chance, incidentally",,N1
+1315,旬,ジュン、 シュン,"jun, shun",,,"decameron, ten-day period, season (for specific products)",,N1
+1316,兼,ケン,ken,か(ねる)、 -か(ねる),"ka(neru), -ka(neru)","concurrently, and, beforehand, in advance",,N1
+1317,聖,セイ、 ショウ,"sei, shou",ひじり,hijiri,"holy, saint, sage, master, priest",,N1
+1318,旨,シ,shi,むね、 うま(い),"mune, uma(i)","delicious, relish, show a liking for, purport, will, clever, expert",,N1
+1319,即,ソク,soku,つ(く)、 すなわ(ち),"tsu(ku), sunawa(chi)","instant, namely, as is, conform, agree, adapt",,N1
+1320,柳,リュウ,ryuu,やなぎ,yanagi,willow,,N1
+1321,舎,シャ、 セキ,"sha, seki",やど(る),yado(ru),"cottage, inn, hut, house, mansion",,N1
+1322,偽,ギ、 カ,"gi, ka",いつわ(る)、 にせ,"itsuwa(ru), nise","falsehood, lie, deceive, pretend, counterfeit, forgery",,N1
+1323,較,カク、 コウ,"kaku, kou",くら(べる),kura(beru),"contrast, compare",,N1
+1324,覇,ハ、 ハク,"ha, haku",はたがしら,hatagashira,"hegemony, supremacy, leadership, champion",,N1
+1325,畑,はた、 はたけ、 -ばたけ,"hata, hatake, -batake",,,"farm, field, garden, one's specialty, (kokuji)",,N1
+1326,詳,ショウ,shou,くわ(しい)、 つまび(らか),"kuwa(shii), tsumabi(raka)","detailed, full, minute, accurate, well-informed",,N1
+1327,抵,テイ,tei,,,"resist, reach, touch",,N1
+1328,脅,キョウ,kyou,おびや(かす)、 おど(す),"obiya(kasu), odo(su)","threaten, coerce",,N1
+1329,茂,モ,mo,しげ(る),shige(ru),"overgrown, grow thick, be luxuriant",,N1
+1330,犠,ギ、 キ,"gi, ki",いけにえ,ikenie,sacrifice,,N1
+1331,旗,キ,ki,はた,hata,"national flag, banner, standard",,N1
+1332,距,キョ,kyo,へだ(たる)、 けづめ,"heda(taru), kedzume","long-distance, spur, fetlock",,N1
+1333,雅,ガ,ga,みや(び),miya(bi),"gracious, elegant, graceful, refined",,N1
+1334,飾,ショク,shoku,かざ(る),kaza(ru),"decorate, ornament, adorn, embellish",,N1
+1335,網,モウ,mou,あみ,ami,"netting, network",,N1
+1336,竜,リュウ、 リョウ、 ロウ,"ryuu, ryou, rou",たつ、 いせ,"tatsu, ise","dragon, imperial",,N1
+1337,詩,シ,shi,うた,uta,"poem, poetry",,N1
+1338,繁,ハン,han,しげ(く),shige(ku),"luxuriant, thick, overgrown, frequency, complexity, trouble",,N1
+1339,翼,ヨク,yoku,つばさ,tsubasa,"wing, plane, flank",,N1
+1340,茨,シ、 ジ,"shi, ji",いばら、 かや、 くさぶき,"ibara, kaya, kusabuki","briar, thorn",,N1
+1341,潟,セキ,seki,かた、 -がた,"kata, -gata",lagoon,,N1
+1342,敵,テキ,teki,かたき、 あだ、 かな(う),"kataki, ada, kana(u)","enemy, foe, opponent",,N1
+1343,魅,ミ,mi,,,"fascination, charm, bewitch",,N1
+1344,嫌,ケン、 ゲン,"ken, gen",きら(い)、 いや,"kira(i), iya","dislike, detest, hate",,N1
+1345,斉,セイ、 サイ,"sei, sai",そろ(う)、 ひと(しい)、 あたる、 はやい,"soro(u), hito(shii), ataru, hayai","adjusted, alike, equal, similar variety of",,N1
+1346,敷,フ,fu,し(く)、 -し(き),"shi(ku), -shi(ki)","spread, pave, sit, promulgate",,N1
+1347,擁,ヨウ,yoku,,,"hug, embrace, possess, protect, lead",,N1
+1348,圏,ケン,ken,かこ(い),kako(i),"sphere, circle, radius, range",,N1
+1349,酸,サン,san,す(い),su(i),"acid, bitterness, sour, tart",,N1
+1350,罰,バツ、 バチ、 ハツ,"batsu, bachi, hatsu",ばっ(する),bas(suru),"penalty, punishment",,N1
+1351,滅,メツ,metsu,ほろ(びる)、 ほろ(ぶ)、 ほろ(ぼす),"horo(biru), horo(bu), horo(basu)","destroy, ruin, overthrow, perish",,N1
+1352,礎,ソ,so,いしずえ,ishizue,"cornerstone, foundation stone",,N1
+1353,腐,フ,fu,くさ(る)、 -くさ(る),"kusa(ru), -kusa(ru)","rot, decay, sour",,N1
+1354,脚,キャク、 キャ、 カク,"kyaku, kya, kaku",あし,ashi,"skids, leg, undercarriage, lower part, base",,N1
+1355,菱,リョウ,ryou,ひし,hishi,"diamond (shape), water chestnut, rhombus",,N1
+1356,潮,チョウ,chou,しお、 うしお,"shio, ushio","tide, salt water, opportunity",,N1
+1357,梅,バイ,bai,うめ,ume,plum,,N1
+1358,尽,ジン、 サン,"jin, san",つ(きる)、 つ(くす)、 -づ(く)、 -ず(く),"tsu(kiru), tsu(kusu), -dzu(ku), zu(ku)","exhaust, use up, run out of, deplete, befriend, serve",,N1
+1359,僕,ボク,boku,しもべ,shimobe,"me, I (male), servant, manservant",,N1
+1360,桜,オウ、 ヨウ,"ou, you",さくら,sakura,cherry,,N1
+1361,滑,カツ、 コツ,"katsu, kotsu",すべ.る、 なめ.らか,"sube(ru), name(raka)","slippery, slide, slip, fail exam",,N1
+1362,孤,コ,ko,,,"orphan, alone",,N1
+1363,煕,キ,ki,たのし(む)、 ひか(る)、 ひろ(い)、 よろこ(ぶ)、 かわ(く)、 あきらか,"tanoshi(mu), hika(ru), hiro(i), yoroko(bu), kawa(ku), akiraka",shine,,N1
+1364,炎,エン,en,ほのお,honoo,"inflammation, flame, blaze",,N1
+1365,賠,バイ,bai,,,"compensation, indemnify",,N1
+1366,句,ク,ku,,,"phrase, clause, sentence, passage, paragraph, counter for haiku",,N1
+1367,寿,ジュ、 ス、 シュウ,"ju, su, shuu",ことぶき、 ことぶ(く)、 ことほ(ぐ),"kotobuki, kotobu(ku), kotoho(gu)","longevity, congratulations, one's natural life",,N1
+1368,鋼,コウ,kou,はがね,hagane,steel,,N1
+1369,頑,ガン,gan,かたく(な),kataku(na),"stubborn, foolish, firmly",,N1
+1370,鎖,サ,sa,くさり、 とざ.す,"kusari, toza(su)","chain, irons, connection",,N1
+1371,彩,サイ,sai,いろど.る,irodo(ru),"coloring, paint, makeup",,N1
+1372,摩,マ,ma,ま(する)、 さす(る)、 す(る),"ma(suru), sasu(ru), su(ru)","chafe, rub, polish, grind, scrape",,N1
+1373,励,レイ,rei,はげ(む)、 はげ(ます),"hage(mu), hage(masu)","encourage, be diligent, inspire",,N1
+1374,縦,ジュウ,juu,たて,tate,"vertical, length, height, self-indulgent, wayward",,N1
+1375,輝,キ,ki,かがや(く),kagaya(ku),"radiance, shine, sparkle, gleam, twinkle",,N1
+1376,蓄,チク,chiku,たくわ(える),takuwa(eru),"amass, raise, hoard, store",,N1
+1377,軸,ジク,jiku,,,"axis, pivot, stem, stalk, counter for book scrolls",,N1
+1378,巡,ジュン,jun,めぐ(る)、 めぐ(り),"megu(ru), megu(ri)","patrol, go around, circumference",,N1
+1379,稼,カ,ka,かせ(ぐ),kase(gu),"earnings, work, earn money",,N1
+1380,瞬,シュン,shun,またた(く)、 まじろ(ぐ),"matata(ku), majiro(gu)","wink, blink, twinkle",,N1
+1381,砲,ホウ,hou,,,"cannon, gun",,N1
+1382,噴,フン,fun,ふ(く),fuku,"erupt, spout, emit, flush out",,N1
+1383,誇,コ,ko,ほこ(る),hoko(ru),"boast, be proud, pride, triumphantly",,N1
+1384,祥,ショウ,shou,さいわ(い)、 きざ(し)、 よ(い)、 つまび(らか),"saiwa(i), kiza(shi), yo(i), tsumabi(raka)","auspicious, happiness, blessedness, good omen, good fortune",,N1
+1385,牲,セイ,sei,,,"animal sacrifice, offering",,N1
+1386,秩,チツ,chitsu,,,"regularity, salary, order",,N1
+1387,帝,テイ,tei,みかど,mikado,"sovereign, the emperor, god, creator",,N1
+1388,宏,コウ,kou,ひろ(い),hiro(i),"wide, large",,N1
+1389,唆,サ,sa,そそ(る)、 そそのか(す),"soso(ru), sosonoka(su)","tempt, seduce, instigate, promote",,N1
+1390,阻,ソ,so,はば(む),haba(mu),"thwart, separate from, prevent, obstruct, deter, impede",,N1
+1391,泰,タイ,tai,,,"peaceful, calm, peace, easy, Thailand, extreme, excessive, great",,N1
+1392,賄,ワイ,wai,まかな(う),makana(u),"bribe, board, supply, finance",,N1
+1393,撲,ボク,boku,,,"slap, strike, hit, beat, tell, speak",,N1
+1394,堀,クツ,kutsu,ほり,hori,"ditch, moat, canal",,N1
+1395,菊,キク,kiku,,,chrysanthemum,,N1
+1396,絞,コウ,kou,しぼ(る)、 し(める)、 し(まる),"shibo(ru), shi(meru), shi(maru)","strangle, constrict, wring",,N1
+1397,縁,エン、 -ネン,"en, -nen",ふち、 ゆかり、 よすが、 へり、 えにし,"fuchi, yukari, yosuga, heri, enishi","affinity, relation, connection, edge, border, verge, brink",,N1
+1398,唯,ユイ、 イ,"yui, i",ただ,tada,"solely, only, merely, simply",,N1
+1399,膨,ボウ,bou,ふく(らむ)、 ふく(れる),"fuku(ramu), fuku(reru)","swell, get fat, thick",,N1
+1400,耐,タイ,tai,た(える),ta(eru),"-proof, enduring",,N1
+1401,塾,ジュク,juku,,,"cram school, private school",,N1
+1402,漏,ロウ,rou,も(る)、 も(れる)、 も(らす),"mo(ru), mo(reru), mo(rasu)","leak, escape, time",,N1
+1403,慶,ケイ,kei,よろこ(び),yoroko(bi),"jubilation, congratulate, rejoice, be happy",,N1
+1404,猛,モウ,mou,,,"fierce, rave, rush, become furious, wildness, strength",,N1
+1405,芳,ホウ,hou,かんば(しい),kanba(shii),"perfume, balmy, favorable, fragrant",,N1
+1406,懲,チョウ,chou,こ(りる)、 こ(らす)、 こ(らしめる),"ko(riru), ko(rasu), ko(rashimeru)","penal, chastise, punish, discipline",,N1
+1407,剣,ケン,ken,つるぎ,tsurugi,"sabre, sword, blade, clock hand",,N1
+1408,幌,コウ,kou,ほろ、 とばり,"horo, tobari","canopy, awning, hood, curtain",,N1
+1409,彰,ショウ,shou,,,"patent, clear",,N1
+1410,棋,キ,ko,ご,go,"chess piece, Japanese chess, shogi",,N1
+1411,丁,チョウ、 テイ、 チン、 トウ、 チ,"chou, tei, chin, tou, chi",ひのと,hinoto,"street, ward, town, counter for guns, tools",,N1
+1412,恒,コウ,kou,つね、 つねに,"tsune, tsuneni","constancy, always",,N1
+1413,揚,ヨウ,you,あ(げる)、 -あ(げ),"a(geru), -a(ge)","raise, elevate, hoist, praise, extol, fry in deep fat",,N1
+1414,冒,ボウ,bou,おか(す),oka(su),"risk, face, defy, dare, damage, assume (a name)",,N1
+1415,之,シ,shi,の、 これ、 ゆく、 この,"no, kore, yuku, kono","of, this",,N1
+1416,曽,ソウ、 ソ,"sou, so",かつ、 かつて、 すなわち,"katsu, katsute, sunawachi","formerly, once, before, ever, never, ex-",,N1
+1417,倫,リン,rin,,,"ethics, companion",,N1
+1418,陳,チン,chin,ひ(ねる),hi(neru),"exhibit, state, relate, explain",,N1
+1419,憶,オク,oku,,,"recollection, think, remember",,N1
+1420,潜,セン,sen,ひそ(む)、 もぐ(る)、 かく(れる)、 くぐ(る),"hiso(mu), mogu(ru), kaku(reru), kugu(ru)","submerge, conceal, hide, lower (voice), hush",,N1
+1421,梨,リ,ri,なし,nashi,pear tree,,N1
+1422,仁,ジン、 ニ、 ニン,"jin, ni, nin",,,"humanity, virtue, benevolence, charity, man, kernel",,N1
+1423,克,コク,koku,か(つ),ka(tsu),"overcome, kindly, skillfully",,N1
+1424,岳,ガク,gaku,たけ,dake,"point, peak, mountain",,N1
+1425,概,ガイ,gai,おおむ(ね),oomu(ne),"outline, condition, approximation, generally",,N1
+1426,拘,コウ,kou,かか(わる),kaka(waru),"arrest, seize, concerned, adhere to, despite",,N1
+1427,墓,ボ,bo,はか,haka,"grave, tomb",,N1
+1428,黙,モク、 ボク,"moku, boku",だま(る)、 もだ(す),"dama(ru), moda(su)","silence, become silent, stop speaking, leave as is",,N1
+1429,須,ス、 シュ,"su, shu",すべから(く)、 すべし、 ひげ、 まつ、 もち(いる)、 もと(める),"subekara(ku), subeshi, hige, matsu, mochi(iru), moto(meru)","ought, by all means, necessarily",,N1
+1430,偏,ヘン,hen,かたよ(る),katayo(ru),"partial, side, left-side radical, inclining, biased",,N1
+1431,雰,フン,fun,,,"atmosphere, fog",,N1
+1432,遇,グウ,guu,あ(う),a(u),"meet, encounter, interview, treat, entertain, receive, deal with",,N1
+1433,諮,シ,shi,はか(る),haka(ru),consult with,,N1
+1434,狭,キョウ、 コウ,"kyou, kou",せま(い)、 せば(める)、 さ,"sema(i), seba(meru), sa","cramped, narrow, contract, tight",,N1
+1435,卓,タク,taku,,,"eminent, table, desk, high",,N1
+1436,亀,キ、 キュウ、 キン,"ki, kyuu, kin",かめ,kame,"tortoise, turtle",,N1
+1437,糧,リョウ、 ロウ,"ryou, rou",かて,kate,"provisions, food, bread",,N1
+1438,梶,ビ,bi,かじ、 こずえ,"kaji, kozue",sculling oar,,N1
+1439,簿,ボ,bo,,,"register, record book",,N1
+1440,炉,ロ,ro,いろり,irori,"hearth, furnace, kiln, reactor",,N1
+1441,牧,ボク,boku,まき,maki,"breed, care for, shepherd, feed, pasture",,N1
+1442,殊,シュ,shu,こと,koto,"particularly, especially, exceptionally",,N1
+1443,殖,ショク,shoku,ふ(える)、 ふ(やす),"fu(eru), fu(yasu)","augment, increase, multiply, raise",,N1
+1444,艦,カン,kan,,,warship,,N1
+1445,輩,ハイ,hai,-ばら、 やから、 やかい、 ともがら,"-bara, yakara, yakai, tomogara","comrade, fellow, people, companions",,N1
+1446,穴,ケツ,ketsu,あな,ana,"hole, aperture, slit, cave, den",,N1
+1447,奇,キ,ki,く(しき)、 あや(しい)、 くし、 めずら(しい),"ku(shiki), aya(shii), kushi, mezura(shii)","strange, strangeness, curiosity",,N1
+1448,慢,マン,man,,,"ridicule, laziness",,N1
+1449,鶴,カク,kaku,つる,tsuru,"crane, stork",,N1
+1450,謀,ボウ、 ム,"bou, mu",はか(る)、 たばか(る)、 はかりごと,"haka(ru), tabaka(ru), hakarigoto","conspire, cheat, impose on, plan, devise, scheme, have in mind, deceive",,N1
+1451,暖,ダン、 ノン,"dan, non",あたた(かい),atata(kai),warmth,,N1
+1452,昌,ショウ,shou,さかん,sakan,"prosperous, bright, clear",,N1
+1453,拍,ハク、 ヒョウ,"haku, hyou",,,"clap, beat (music)",,N1
+1454,朗,ロウ,rou,ほが(らか)、 あき(らか),"hoga(raka), aki(raka)","melodious, clear, bright, serene, cheerful",,N1
+1455,丈,ジョウ,jou,たけ、 だけ,"take, dake","length, ten shaku, measure, Mr., Ms., height, stature, all (one has), only, that's all, merely",,N1
+1456,寛,カン,kan,くつろ(ぐ)、 ひろ(い)、 ゆる(やか),"kutsuro(gu), hiro(i), yuru(yaka)","tolerant, leniency, generosity, relax, feel at home, be at ease, broadminded",,N1
+1457,覆,フク,fuku,おお(う)、 くつがえ(す),"oo(u), kutsugae(su)","capsize, cover, shade, mantle, be ruined",,N1
+1458,胞,ホウ,hou,,,"placenta, sac, sheath",,N1
+1459,泣,キュウ,kyuu,な(く),na(ku),"cry, weep, moan",,N1
+1460,隔,カク,kaku,へだ(てる),heda(teru),"isolate, alternate, distance, separate, gulf",,N1
+1461,浄,ジョウ、 セイ,"jou, sei",きよ(める)、 きよ(い),"kiyo(meru), kiyo(i)","clean, purify, cleanse, exorcise, Manchu Dynasty",,N1
+1462,没,ボツ、 モツ,"botsu, motsu",おぼ(れる)、 しず(む)、 ない,"obo(reru), shizu(mu), nai","drown, sink, hide, fall into, disappear, die",,N1
+1463,暇,カ,ka,ひま、 いとま,itoma,"spare time, rest, leisure, time, leave of absence",,N1
+1464,肺,ハイ,hai,,,lungs,,N1
+1465,貞,テイ、 ジョウ,"tei, jou",ただし(い)、 さだ,"tadashi(i), sada","upright, chastity, constancy, righteousness",,N1
+1466,靖,セイ、 ジョウ,"sei, jou",やす(んじる),yasu(njiru),peaceful,,N1
+1467,鑑,カン,kan,かんが(みる)、 かがみ,"kanga(miru), kagami","specimen, take warning from, learn from",,N1
+1468,飼,シ,shi,か(う),ka(u),"domesticate, raise, keep, feed",,N1
+1469,陰,イン,in,かげ、 かげ(る),"kage, kage(ru)","shade, yin, negative, sex organs, secret, shadow",,N1
+1470,銘,メイ,mei,,,"inscription, signature (of artisan)",,N1
+1471,随,ズイ,zui,まにま(に)、 したが(う),"manima(ni), shitaga(u)","follow, though, notwithstanding, while, during, both, all, obey, submit to, comply",,N1
+1472,烈,レツ,retsu,はげ(しい),hage(shii),"ardent, violent, vehement, furious, severe, extreme",,N1
+1473,尋,ジン,jin,たず(ねる)、 ひろ,"tazu(neru), hiro","inquire, fathom, look for",,N1
+1474,渕,エン、 カク、 コウ,"en, kaku, kou",ふち、 かた(い)、 はなわ,"fuchi, kata(i), hanawa",edge,,N1
+1475,稿,コウ,kou,わら、 したがき,"wara, shitagaki","draft, copy, manuscript, straw",,N1
+1476,丹,タン,tan,に,ni,"rust-colored, red, red lead, pills, sincerity",,N1
+1477,啓,ケイ,kei,ひら(く)、 さと(す),"hira(ku), sato(su)","disclose, open, say",,N1
+1478,也,ヤ、 エ,"ya, e",なり、 か、 また,"nari, ka, mata",to be (classical),,N1
+1479,丘,キュウ,kyuu,おか,oka,"hill, knoll",,N1
+1480,棟,トウ,tou,むね、 むな-,"mune, muna-","ridgepole, ridge",,N1
+1481,壌,ジョウ,jou,つち,tsuchi,"lot, earth, soil",,N1
+1482,漫,マン,man,みだり(に)、 そぞ(ろ),"midari(ni), sozo(ro)","cartoon, involuntarily, unrestrained, in spite of oneself, corrupt",,N1
+1483,玄,ゲン,gen,くろ、 くろ(い),"kuro, kuro(i)","mysterious, occultness, black, deep, profound",,N1
+1484,粘,ネン,nen,ねば(る),neba(ru),"sticky, glutinous, greasy, persevere",,N1
+1485,悟,ゴ,go,さと(る),sato(ru),"enlightenment, perceive, discern, realize, understand",,N1
+1486,舗,ホ,ho,,,"shop, store, pave",,N1
+1487,妊,ニン、 ジン,"nin, jin",はら(む)、 みごも(る),"hara(mu), migomo(ru)",pregnancy,,N1
+1488,熟,ジュク,juku,う(れる),u(reru),"mellow, ripen, mature, acquire skill",,N1
+1489,旭,キョク,kyoku,あさひ,asahi,"rising sun, morning sun",,N1
+1490,恩,オン,on,,,"grace, kindness, goodness, favor, mercy, blessing, benefit",,N1
+1491,騰,トウ,tou,あが(る)、 のぼ(る),"aga(ru), nobo(ru)","leaping up, jumping up, rising, advancing, going",,N1
+1492,往,オウ,ou,い(く)、 いにしえ、 さき(に)、 ゆ(く),"i(ku), inishie, saki(ni), yu(ku)","journey, travel, chase away, let go, going, before, formerly",,N1
+1493,豆,トウ、 ズ,"tou, zu",まめ、 まめ-,"mame, mame-","beans, pea, midget",,N1
+1494,遂,スイ,sui,と(げる)、 つい(に),"to(geru), tsui(ni)","consummate, accomplish, attain, commit (suicide)",,N1
+1495,狂,キョウ,kyou,くる(う),kuru(u),"lunatic, insane, crazy, confuse",,N1
+1496,栃,とち,tochi,,,"horse chestnut, (kokuji)",,N1
+1497,岐,キ、 ギ,"ki, gi",,,"branch off, fork in road, scene, arena, theater",,N1
+1498,陛,ヘイ,hei,,,"highness, steps (of throne)",,N1
+1499,緯,イ,i,よこいと、 ぬき,"yokoito, nuki","horizontal, woof, left & right, (parallels of) latitude, prediction",,N1
+1500,培,バイ,bai,つちか(う),tsuchika(u),"cultivate, foster",,N1
+1501,衰,スイ,sui,おとろ(える),otoro(eru),"decline, wane, weaken",,N1
+1502,艇,テイ,tei,,,"rowboat, small boat",,N1
+1503,屈,クツ,kutsu,かが(む),kaga(mu),"yield, bend, flinch, submit",,N1
+1504,径,ケイ,kei,みち、 こみち、 さしわたし、 ただちに,"michi, komichi, sashiwatashi, tadachini","diameter, path, method",,N1
+1505,淡,タン,tan,あわ(い),awa(i),"thin, faint, pale, fleeting",,N1
+1506,抽,チュウ,chuu,ひき-,hiki-,"pluck, pull, extract, excel",,N1
+1507,披,ヒ,hi,,,"expose, open",,N1
+1508,廷,テイ,tei,,,"courts, imperial court, government office",,N1
+1509,錦,キン,kin,にしき,nishiki,"brocade, fine dress, honors",,N1
+1510,准,ジュン,jun,,,"quasi-, semi-, associate",,N1
+1511,暑,ショ,sho,あつ(い),atsu(i),"sultry, hot, summer heat",,N1
+1512,磯,キ,ki,いそ,iso,"seashore, beach",,N1
+1513,奨,ショウ、 ソウ,"shou, sou",すす(める),susu(meru),"exhort, urge, encourage",,N1
+1514,浸,シン,shin,ひた(す)、 つ(かる),"hita(su), tsu(karu)","immersed, soak, dip, steep, moisten, wet, dunk",,N1
+1515,剰,ジョウ,jou,あまつさえ、 あま(り),"amatsusae, ama(ri)","surplus, besides",,N1
+1516,胆,タン,tan,きも,kimo,"gall bladder, courage, pluck, nerve",,N1
+1517,繊,セン,sen,,,"slender, fine, thin kimono",,N1
+1518,駒,ク,ku,こま,koma,"pony, horse, colt",,N1
+1519,虚,キョ、 コ,"kyo, ko",むな(しい)、 うつ(ろ),"muna(shii),utsu(ro)","void, emptiness, unpreparedness, crack, fissure, untruth",,N1
+1520,孜,シ,shi,つと(める),tsuto(meru),industriousness,,N1
+1521,霊,レイ、 リョウ,"rei, ryou",たま,tama,"spirits, soul",,N1
+1522,帳,チョウ,chou,とばり,tobari,"notebook, account book, album, curtain, veil, net, tent",,N1
+1523,悔,カイ,kai,く(いる)、 く(やむ),"ku(iru), ku(yamu)","repent, regret",,N1
+1524,諭,ユ,yu,さと(す),sato(su),"rebuke, admonish, charge, warn, persuade",,N1
+1525,惨,サン、 ザン,"san, zan",みじ(め)、 いた(む)、 むご(い),"miji(me), ita(mu), mugo(i)","wretched, disaster, cruelty, harsh",,N1
+1526,虐,ギャク,gyaku,しいた(げる),shiita(geru),"tyrannize, oppress",,N1
+1527,翻,ホン、 ハン,"hon, han",ひるがえ(る),hirugae(ru),"flip, turn over, wave, flutter, change (mind)",,N1
+1528,墜,ツイ,tsui,お(ちる)、 お(つ),"o(chiru), o(tsu)","crash, fall (down)",,N1
+1529,沼,ショウ,shou,ぬま,numa,"marsh, lake, bog, swamp, pond",,N1
+1530,据,キョ,kyo,す(える)、 す(わる),"su(eru), su(waru)","set, lay a foundation, install, equip, squat down, sit down",,N1
+1531,肥,ヒ,hi,こ(える)、 こえ、 こ(やす)、 ふと(る),"ko(eru), koe, ko(yasu), futo(ru)","fertilizer, get fat, fertile, manure, pamper",,N1
+1532,徐,ジョ,jo,おもむ(ろに),omomu(roni),"gradually, slowly, deliberately, gently",,N1
+1533,糖,トウ,tou,,,sugar,,N1
+1534,搭,トウ,tou,,,"board, load (a vehicle), ride",,N1
+1535,盾,ジュン,jun,たて,tate,"shield, escutcheon, pretext",,N1
+1536,脈,ミャク,myaku,すじ,suji,"vein, pulse, hope",,N1
+1537,滝,ロウ、 ソウ,"rou, sou",たき,taki,"waterfall, rapids, cascade",,N1
+1538,軌,キ,ki,,,"rut, wheel, track, model, way of doing",,N1
+1539,俵,ヒョウ,hyou,たわら,tawara,"bag, bale, sack, counter for bags",,N1
+1540,妨,ボウ,bou,さまた(げる),samata(geru),"disturb, prevent, hamper, obstruct",,N1
+1541,盧,ロ,ro,,,hut,,N1
+1542,擦,サツ,satsu,す.る、 -ず.れ、 こす.る,"su(ru), -zu(re), kosu(ru)","grate, rub, scratch, scrape, chafe, scour",,N1
+1543,鯨,ゲイ,gei,くじら,kujira,whale,,N1
+1544,荘,ソウ、 ショウ、 チャン,"sou, shou, chan",ほうき、 おごそ(か),"houki, ogoso(ka)","villa, inn, cottage, feudal manor, solemn, dignified",,N1
+1545,諾,ダク,daku,,,"consent, assent, agreement",,N1
+1546,雷,ライ,rai,かみなり、 いかずち、 いかづち,"kamirari, ikazuchi, ikadzuchi","thunder, lightning bolt",,N1
+1547,漂,ヒョウ,hyou,ただよ(う),tadayo(u),"drift, float (on liquid)",,N1
+1548,懐,カイ、 エ,"kai, e",ふところ、 なつ(かしい)、 なず(ける)、 いだ(く)、 おも(う),"futokoro, natsu(kashii), nazu(keru), ida(ku), omo(u)","feelings, heart, yearn, miss someone, become attached to, bosom, breast, pocket",,N1
+1549,勘,カン,kan,,,"intuition, perception, check, compare, sixth sense",,N1
+1550,栽,サイ,sai,,,"plantation, planting",,N1
+1551,拐,カイ,kai,,,"kidnap, falsify",,N1
+1552,笠,リュウ,ryuu,かさ,kasa,"bamboo hat, one's influence",,N1
+1553,駄,ダ、 タ,"da, ta",,,"burdensome, pack horse, horse load, send by horse, trivial, worthless",,N1
+1554,添,テン,ten,そ(える)、 そ(う),"so(eru), so(u)","annexed, accompany, marry, suit, meet, satisfy, attach, append, garnish, imitate",,N1
+1555,冠,カン,kan,かんむり,kanmuri,"crown, best, peerless",,N1
+1556,斜,シャ,sha,なな(め)、 はす,"nana(me), hasu","diagonal, slanting, oblique",,N1
+1557,鏡,キョウ、 ケイ,"kyou, kei",かがみ,kagami,"mirror, speculum, barrel-head, round rice-cake offering",,N1
+1558,聡,ソウ,sou,さと(い)、 みみざと(い),"sato(i), mimizato(i)","wise, fast learner",,N1
+1559,浪,ロウ,rou,,,"wandering, waves, billows, reckless, unrestrained",,N1
+1560,亜,ア,a,つ(ぐ),tsu(gu),"Asia, rank next, come after, -ous",,N1
+1561,覧,ラン,ran,み(る),mi(ru),"perusal, see",,N1
+1562,詐,サ,sa,いつわ(る),itsuwa(ru),"lie, falsehood, deceive, pretend",,N1
+1563,壇,ダン、 タン,"dan, tan",,,"podium, stage, rostrum, terrace",,N1
+1564,勲,クン,kun,いさお,isao,"meritorious deed, merit",,N1
+1565,魔,マ,ma,,,"witch, demon, evil spirit",,N1
+1566,酬,シュウ、 シュ、 トウ,"shuu, shu, tou",むく(いる),muku(iru),"repay, reward, retribution",,N1
+1567,紫,シ,shi,むらさき,murasaki,"purple, violet",,N1
+1568,曙,ショ,sho,あけぼの,akebono,"dawn, daybreak",,N1
+1569,紋,モン,mon,,,"family crest, figures",,N1
+1570,卸,シャ,sha,おろ(す)、 おろし,"oro(su), oroshi",wholesale,,N1
+1571,奮,フン,fun,ふる(う),furu(u),"stirred up, be invigorated, flourish",,N1
+1572,趙,チョウ、 ジョウ、 キョウ,"chou, jou, kyou",,,"nimble, late-going",,N1
+1573,欄,ラン,ran,てすり,tesuri,"column, handrail, blank, space",,N1
+1574,逸,イツ,itsu,そ(れる)、 はぐ(れる),"so(reru), hagu(reru)","deviate, idleness, leisure, miss the mark, evade, elude, parry, diverge",,N1
+1575,涯,ガイ,gai,はて,hate,"horizon, shore, limit, bound",,N1
+1576,拓,タク,taku,ひら(く),hira(ku),"clear (the land), open, break up (land)",,N1
+1577,眼,ガン、 ゲン,"gan, gen",まなこ、 め,"manako, me",eyeball,,N1
+1578,獄,ゴク,goku,,,"prison, jail",,N1
+1579,筑,チク,chiku,,,an ancient musical instrument,,N1
+1580,尚,ショウ,shou,なお,nao,"esteem, furthermore, still, yet",,N1
+1581,阜,フ、 フウ,"fu, fuu",,,"hill, mound, left village radical (no. 170)",,N1
+1582,彫,チョウ,chou,ほ(る)、 -ぼ(り),"ho(ru), -bo(ri)","carve, engrave, chisel",,N1
+1583,穏,オン,on,おだ(やか),oda(yaka),"calm, quiet, moderation",,N1
+1584,顕,ケン,kun,あきらか、 あらわ(れる),"akiraka, arawa(reru)","appear, existing",,N1
+1585,巧,コウ,kou,たく(み)、 うま(い),"taku(mi), uma(i)","adroit, skilled, ingenuity",,N1
+1586,矛,ム、 ボウ,"mu, bou",ほこ,hoko,"halberd, arms, festival float",,N1
+1587,垣,エン,en,かき,kaki,"hedge, fence, wall",,N1
+1588,欺,ギ,gi,あざむ(く),azamu(ku),"deceit, cheat, delude",,N1
+1589,釣,チョウ,chou,つ(る),tsu(ru),"angling, fish, catch, allure, ensnare",,N1
+1590,萩,シュウ,shuu,はぎ,hagi,bush clover,,N1
+1591,粧,ショウ,shou,,,"cosmetics, adorn (one's person)",,N1
+1592,葛,カツ、 カチ,"katsu, kachi",つづら、 くず,"tsudzura, kuzu","arrowroot, kudzu",,N1
+1593,粛,シュク、 スク,"shuku, suku",つつし(む),tsutsushi(mu),"solemn, quietly, softly",,N1
+1594,栗,リツ、 リ,"ritsu, ri",くり、 おののく,"kuri, ononoku",chestnut,,N1
+1595,愚,グ,gu,おろ(か),oro(ka),"foolish, folly, absurdity, stupid",,N1
+1596,嘉,カ,ka,よみ(する)、 よい,"yomi(suru), yoi","applaud, praise, esteem, happy, auspicious",,N1
+1597,遭,ソウ,sou,あ(う)、 あ(わせる),"a(u), a(waseru)","encounter, meet, party, association, interview, join",,N1
+1598,架,カ,ka,か(ける),ka(keru),"erect, frame, mount, support, shelf, construct",,N1
+1599,篠,ゾウ、 ショウ,"zou, shou",しの、 ささ、 すず,"shino, sasa, suzu",bamboo grass,,N1
+1600,鬼,キ,ki,おに,oni,"ghost, devil",,N1
+1601,庶,ショ,sho,,,"commoner, all, bastard",,N1
+1602,稚,チ、 ジ,"chi, ji",いとけない、 おさない、 おくて、 おでる,"itokenai, osanai, okute, oderu","immature, young",,N1
+1603,菅,カン、 ケン,"kan, ken",すげ,suge,sedge,,N1
+1604,滋,ジ、 シ,"ji, shi",,,"nourishing, more & more, be luxuriant, planting, turbidity",,N1
+1605,幻,ゲン,gen,まぼろし,maboroshi,"phantasm, vision, dream, illusion, apparition",,N1
+1606,煮,シャ,sha,に(る)、 -に,"ni(ru), -ni","boil, cook",,N1
+1607,姫,キ,ki,ひめ、 ひめ-,"hime, hime-",princess,,N1
+1608,誓,セイ,sei,ちか(う),chika(u),"vow, swear, pledge",,N1
+1609,把,ハ、 ワ,"ha, wa",,,"grasp, faggot, bunch, counter for bundles",,N1
+1610,践,セン,sen,ふ(む),fu(mu),"tread, step on, trample, practice, carry through",,N1
+1611,呈,テイ,tei,,,"display, offer, present, send, exhibit",,N1
+1612,疎,ソ、 ショ,"so, sho",うと(い)、 まば(ら),"uto(i), maba(ra)","alienate, rough, neglect, shun, sparse, penetrate",,N1
+1613,仰,ギョウ、 コウ,"gyou, kou",あお(ぐ)、 お(っしゃる),"oo(gu), o(ssharu)","face-up, look up, depend, seek, respect, revere, drink, take",,N1
+1614,剛,ゴウ,gou,,,"sturdy, strength",,N1
+1615,疾,シツ,shitsu,はや(い),haya(i),rapidly,,N1
+1616,征,セイ,sei,,,"subjugate, attack the rebellious, collect taxes",,N1
+1617,砕,サイ,sai,くだ(く),kuda(ku),"smash, break, crush, familiar, popular",,N1
+1618,謡,ヨウ,you,うた(い),uta(i),"song, sing, ballad, noh chanting",,N1
+1619,嫁,カ,ka,よめ、 とつ(ぐ)、 い(く)、 ゆ(く),"yome, totsu(gu), i(ku), yu(ku)","marry into, bride",,N1
+1620,謙,ケン,ken,へりくだ(る),herikuda(ru),"self-effacing, humble oneself, condescend, be modest",,N1
+1621,后,コウ、 ゴ,"kou, go",きさき,kisaki,"empress, queen, after, behind, back, later",,N1
+1622,嘆,タン,tan,なげ(く)、 なげ(かわしい),"nage(ku), nage(kawashii)","sigh, lament, moan, grieve, sigh of admiration",,N1
+1623,俣,また,mata,,,"crotch, thigh, groin, fork, junction, (kokuji)",,N1
+1624,菌,キン,kin,,,"germ, fungus, bacteria",,N1
+1625,鎌,レン、 ケン,"ren, ken",かま,kama,"sickle, scythe, trick",,N1
+1626,巣,ソウ,sou,す、 す(くう),"su, su(kuu)","nest, rookery, hive, cobweb, den",,N1
+1627,頻,ヒン,hin,しき(りに),shiki(rini),"repeatedly, recur",,N1
+1628,琴,キン、 ゴン,"kin, gon",こと,koto,"harp, koto",,N1
+1629,班,ハン,han,,,"squad, corps, unit, group",,N1
+1630,淵,エン、 カク、 コウ,"en, kaku, kou",ふち、 かた(い)、 はなわ,"fuchi, kata(i), hanawa","abyss, edge, deep pool, the depths",,N1
+1631,棚,ホウ,hou,たな、 -だな,"tana, -dana","shelf, ledge, rack, mount, mantle, trellis",,N1
+1632,潔,ケツ,ketsu,いさぎよ(い),isagiyo(i),"undefiled, pure, clean, righteous, gallant",,N1
+1633,酷,コク,koku,ひど(い),hido(i),"cruel, severe, atrocious, unjust",,N1
+1634,宰,サイ,sai,,,"superintend, manager, rule",,N1
+1635,廊,ロウ,rou,,,"corridor, hall, tower",,N1
+1636,寂,ジャク、 セキ,"jaku, seki",さび、 さび(しい)、 さみ(しい),"sabi, sabi(shii), sami(shii)","loneliness, quietly, mellow, mature, death of a priest",,N1
+1637,辰,シン、 ジン,"shin, jin",たつ,tatsu,"sign of the dragon, 7-9AM, fifth sign of Chinese zodiac, shin dragon radical (no. 161)",,N1
+1638,霞,カ、 ゲ,"ka, ge",かすみ、 かす(む),"kasumi, kasu(mu)","be hazy, grow dim, blurred",,N1
+1639,伏,フク,fuku,ふ(せる)、 ふ(す),"fu(seru), fu(su)","prostrated, bend down, bow, cover, lay (pipes)",,N1
+1640,柏,ハク、 ヒャク、 ビャク,"haku, hyaku, byaku",かしわ,kashiwa,"oak, cypress",,N1
+1641,碁,ゴ,go,,,Go,,N1
+1642,俗,ゾク,zoku,,,"vulgar, customs, manners, worldliness, mundane things",,N1
+1643,漠,バク,baku,,,"vague, obscure, desert, wide",,N1
+1644,邪,ジャ,ja,よこし(ま),yokoshi(ma),"wicked, injustice, wrong",,N1
+1645,晶,ショウ,shou,,,"sparkle, clear, crystal",,N1
+1646,辻,つじ,tsuji,,,"crossing, crossroad, street corners, (kokuji)",,N1
+1647,墨,ボク,boku,すみ,sumi,"black ink, India ink, ink stick, Mexico",,N1
+1648,鎮,チン,chin,しず(める)、 おさえ,"shizu(meru), osae","tranquilize, ancient peace-preservation centers",,N1
+1649,洞,ドウ,dou,ほら,hora,"den, cave, excavation",,N1
+1650,履,リ,ri,は(く),ha(ku),"perform, complete, footgear, shoes, boots, put on (the feet)",,N1
+1651,劣,レツ,retsu,おと(る),oto(ru),"inferiority, be inferior to, be worse",,N1
+1652,那,ナ、 ダ,"na, da",なに、 なんぞ、 いかん,"nani, nanzo, ikan",what?,,N1
+1653,殴,オウ,ou,なぐ(る),nagu(ru),"assault, hit, beat, thrash",,N1
+1654,娠,シン,shin,,,"with child, pregnancy",,N1
+1655,奉,ホウ、 ブ,"hou, bu",たてまつ(る)、 まつ(る)、 ほう(ずる),"tatematsu(ru), matsu(ru), hou(zuru)","observance, offer, present, dedicate",,N1
+1656,憂,ユウ,yuu,うれ(える)、 うれ(い)、 う(い)、 う(き),"ure(eru), ure(i), u(i), u(ki)","melancholy, grieve, lament, be anxious, sad, unhappy",,N1
+1657,朴,ボク,boku,ほう、 ほお、 えのき,"hou, hoo, enoki","crude, simple, plain, docile",,N1
+1658,亭,テイ、 チン,"tei, chin",,,"pavilion, restaurant, mansion, arbor, cottage, vaudeville, music hall, stage name",,N1
+1659,淳,ジュン、 シュン,"jun, shun",あつ(い),atsu(i),pure,,N1
+1660,荻,テキ,teki,おぎ,ogi,"reed, rush",,N1
+1661,嶋,トウ,tou,しま,shima,island,,N1
+1662,怪,カイ、 ケ,"kai, ke",あや(しい)、 あや(しむ),"aya(shii), aya(shimu)","suspicious, mystery, apparition",,N1
+1663,鳩,キュウ、 ク,"kyuu, ku",はと、 あつ(める),"hato, atsu(meru)","pigeon, dove",,N1
+1664,柴,サイ、 シ,"sai, shi",しば,shiba,"brush, firewood",,N1
+1665,酔,スイ,sui,よ(う)、 よ(い)、 よ,"yo(u), yo(i), yo","drunk, feel sick, poisoned, elated, spellbound",,N1
+1666,惜,セキ,seki,お(しい)、 お(しむ),"o(shii), o(shimu)","pity, be sparing of, frugal, stingy, regret",,N1
+1667,穫,カク,kaku,,,"harvest, reap",,N1
+1668,佳,カ,ka,,,"excellent, beautiful, good, pleasing, skilled",,N1
+1669,潤,ジュン,jun,うるお(う)、 うる(む),"uruo(u), uru(mu)","wet, be watered, profit by, receive benefits, favor, charm, steep",,N1
+1670,悼,トウ,tou,いた(む),ita(mu),"lament, grieve over",,N1
+1671,乏,ボウ,bou,とぼ(しい)、 とも(しい),"tobo(shii), tomo(shii)","destitution, scarce, limited",,N1
+1672,該,ガイ,gai,,,"above-stated, the said, that specific",,N1
+1673,赴,フ,fu,おもむ(く),omomu(ku),"proceed, get, become, tend",,N1
+1674,桑,ソウ,sou,くわ,kuwa,mulberry,,N1
+1675,桂,ケイ,kei,かつら,katsura,"Japanese Judas-tree, cinnamon tree",,N1
+1676,髄,ズイ,zui,,,"marrow, pith, essence",,N1
+1677,虎,コ,ko,とら,tora,"tiger, drunkard",,N1
+1678,盆,ボン,bon,,,"basin, lantern festival, tray",,N1
+1679,晋,シン,shin,すす(む),susu(mu),advance,,N1
+1680,穂,スイ,sui,ほ,ho,"ear, ear (grain), head, crest (wave)",,N1
+1681,壮,ソウ,sou,さかん,sakan,"robust, manhood, prosperity",,N1
+1682,堤,テイ,tei,つつみ,tsutsumi,"dike, bank, embankment",,N1
+1683,飢,キ,ki,う(える),u(eru),"hungry, starve",,N1
+1684,傍,ボウ,bou,かたわ(ら)、 わき、 おか-、 はた、 そば,"katawa(ra), waki, oka-, hata, soba","bystander, side, besides, while, nearby, third person",,N1
+1685,疫,エキ、 ヤク,"eki, yaku",,,epidemic,,N1
+1686,累,ルイ,rui,,,"accumulate, involvement, trouble, tie up, continually",,N1
+1687,痴,チ,chi,し(れる)、 おろか,"shi(reru), oroka","stupid, foolish",,N1
+1688,搬,ハン,han,,,"conveyor, carry, transport",,N1
+1689,晃,コウ,kou,あきらか,akiraka,clear,,N1
+1690,癒,ユ,yu,い(える)、 いや(す),"i(eru), iya(su)","healing, cure, quench (thirst), wreak",,N1
+1691,桐,トウ、 ドウ,"tou, dou",きり,kiri,paulownia,,N1
+1692,寸,スン,sun,,,"measurement, tenth of a shaku, a little, small",,N1
+1693,郭,カク,kaku,くるわ,kuruwa,"enclosure, quarters, fortification, red-light district",,N1
+1694,尿,ニョウ,nyou,ゆばり、 いばり、 しと,"yubari, ibari, shito",urine,,N1
+1695,凶,キョウ,kyou,,,"villain, evil, bad luck, disaster",,N1
+1696,吐,ト,to,は(く)、 つ(く),"ha(ku), tsu(ku)","spit, vomit, belch, confess, tell (lies)",,N1
+1697,宴,エン,en,うたげ,utage,"banquet, feast, party",,N1
+1698,鷹,ヨウ、 オウ,"you, ou",たか,taka,hawk,,N1
+1699,賓,ヒン,hin,まろうど、 したがう,"maroudo, shitagau","V.I.P., guest",,N1
+1700,虜,リョ、 ロ,"ryo, ro",とりこ、 とりく,"toriko, toriku","captive, barbarian, low epithet for the enemy",,N1
+1701,陶,トウ,tou,すえ,sue,"pottery, porcelain",,N1
+1702,鐘,ショウ,shou,かね,kane,"bell, gong, chimes",,N1
+1703,憾,カン,kan,うら(む),ura(mu),"remorse, regret, be sorry",,N1
+1704,畿,キ,ki,みやこ,miyako,"capital, suburbs of capital",,N1
+1705,猪,チョ,cho,い、 いのしし,"i, inoshishi",boar,,N1
+1706,紘,コウ,kou,おおづな、 つな、 つなぐ,"oodzuna, tsuna, tsunagu",large,,N1
+1707,磁,ジ,ji,,,"magnet, porcelain",,N1
+1708,弥,ミ、 ビ,"mi, bi",や、 いや、 いよ(いよ)、 わた(る),"ya, iya, iyo(iyo), wata(ru)","all the more, increasingly",,N1
+1709,昆,コン,kon,,,"descendants, elder brother, insect",,N1
+1710,粗,ソ,so,あら(い)、 あら-,"ara(i), ara-","coarse, rough, rugged",,N1
+1711,訂,テイ,tei,ただ(す),tada(su),"revise, correct, decide",,N1
+1712,芽,ガ,ga,め,me,"bud, sprout, spear, germ",,N1
+1713,尻,コウ,kou,しり,shiri,"buttocks, hips, butt, rear",,N1
+1714,庄,ショウ、 ソ、 ソウ、 ホウ,"shou, so, sou, hou",,,"level, in the country, manor, village, hamlet",,N1
+1715,傘,サン,san,かさ,kasa,umbrella,,N1
+1716,敦,トン、 タイ、 ダン、 チョウ,"ton, tai, dan, chou",あつ(い),atsu(i),"industry, kindliness",,N1
+1717,騎,キ,ki,,,"equestrian, riding on horses, counter for equestrians",,N1
+1718,寧,ネイ,nei,むし(ろ),mushi(ro),"rather, preferably, peaceful, quiet, tranquility",,N1
+1719,循,ジュン,jun,,,"sequential, follow",,N1
+1720,忍,ニン,nin,しの(ぶ)、 しの(ばせる),"shino(bu), shino(baseru)","endure, bear, put up with, conceal, secrete, spy, sneak",,N1
+1721,磐,バン、 ハン,"ban, han",いわ,iwa,"rock, crag, cliff, wall (in a mine)",,N1
+1722,怠,タイ,tai,おこた(る)、 なま(ける),"okota(ru), nama(keru)","neglect, laziness",,N1
+1723,如,ジョ、 ニョ,"jo, nyo",ごと(し),goto(shi),"likeness, like, such as, as if, better, best, equal",,N1
+1724,寮,リョウ,ryou,,,"dormitory, hostel, villa, tea pavillion",,N1
+1725,祐,ユウ、 ウ,"yuu, u",たす(ける),tasu(keru),help,,N1
+1726,鵬,ホウ,hou,おおとり,ootori,phoenix,,N1
+1727,鉛,エン,en,なまり,namari,lead,,N1
+1728,珠,シュ,shu,たま,tama,"pearl, gem, jewel",,N1
+1729,凝,ギョウ,gyou,こ(る)、 こご(らす),"ko(ru), kogo(rasu)","congeal, freeze, stiff, be absorbed in",,N1
+1730,苗,ビョウ、 ミョウ,"byou, myou",なえ、 なわ-,"nae, nawa-","seedling, sapling, shoot",,N1
+1731,獣,ジュウ,juu,けもの、 けだもの,"kemono, kedamono","animal, beast",,N1
+1732,哀,アイ,ai,あわ(れ)、 かな(しい),"awa(re), kana(shii)","pathetic, grief, sorrow, pathos, pity, sympathize",,N1
+1733,跳,チョウ,chou,は(ねる)、 と(ぶ)、 -と(び),"ha(neru), to(bu), -to(bi)","hop, leap up, spring, jerk, prance, buck, splash, sputter, snap",,N1
+1734,匠,ショウ,shou,たくみ,takumi,"artisan, workman, carpenter",,N1
+1735,垂,スイ,sui,た(れる)、 -た(れ)、 なんなんと(す),"ta(reru), -ta(re), nannanto(su)","droop, suspend, hang, slouch",,N1
+1736,蛇,ジャ、 ダ、 イ、 ヤ,"ja, da, i, ya",へび,hebi,"snake, serpent, hard drinker",,N1
+1737,澄,チョウ,chou,す(む)、 す(ます)、 -す(ます),"su(mu), su(masu), -su(masu)","lucidity, be clear, clear, clarify, settle, strain, look grave",,N1
+1738,縫,ホウ,hou,ぬ(う),nu(u),"sew, stitch, embroider",,N1
+1739,僧,ソウ,sou,,,"Buddhist priest, monk",,N1
+1740,眺,チョウ,chou,なが(める),naga(meru),"stare, watch, look at, see, scrutinize",,N1
+1741,唐,トウ,tou,から,kara,"T'ang, China, foreign",,N1
+1742,亘,コウ、 カン、 セン,"kou, kan, sen",わた(る)、 もと(める),"wata(ru), moto(meru)","span, range, extend over",,N1
+1743,呉,ゴ,go,く(れる),ku(reru),"give, do something for, kingdom of Wu",,N1
+1744,凡,ボン、 ハン,"bon, han",およ(そ)、 おうよ(そ)、 すべ(て),"oyo(so), ouyo(so), sube(te)","commonplace, ordinary, mediocre",,N1
+1745,憩,ケイ,kei,いこ(い)、 いこ(う),"iko(i), iko(u)","recess, rest, relax, repose",,N1
+1746,鄭,テイ、 ジョウ,"tei, jou",,,an ancient Chinese province,,N1
+1747,芦,ロ,ro,あし、 よし,"ashi, yoshi","reed, bullrush",,N1
+1748,龍,リュウ、 リョウ、 ロウ,"ryuu, ryou, rou",たつ,tatsu,"dragon, imperial",,N1
+1749,媛,エン,en,ひめ,hime,"beautiful woman, princess",,N1
+1750,溝,コウ,kou,みぞ,mizo,"gutter, ditch, sewer, drain, 10**32",,N1
+1751,恭,キョウ,kyou,うやうや(しい),uyauya(shii),"respect, reverent",,N1
+1752,刈,ガイ、 カイ,"gai, kai",か(る),ka(ru),"reap, cut, clip, trim, prune",,N1
+1753,睡,スイ,sui,ねむ(る)、 ねむ(い),"nemu(ru), nemu(i)","drowsy, sleep, die",,N1
+1754,錯,サク、 シャク,"saku, shaku",,,"confused, mix, be in disorder",,N1
+1755,伯,ハク,haku,,,"chief, count, earl, uncle, Brazil",,N1
+1756,笹,ささ,sasa,,,"bamboo grass, (kokuji)",,N1
+1757,穀,コク,koku,,,"cereals, grain",,N1
+1758,柿,シ,shi,かき,kaki,persimmon,,N1
+1759,陵,リョウ,ryou,みささぎ,misasagi,"mausoleum, imperial tomb, mound, hill",,N1
+1760,霧,ム、 ボウ、 ブ,"mu, bou, bu",きり,kiri,"fog, mist",,N1
+1761,魂,コン,kon,たましい、 たま,"tamashii, tama","soul, spirit",,N1
+1762,弊,ヘイ,hei,,,"abuse, evil, vice, breakage",,N1
+1763,釧,セン,sen,くしろ、 うでわ,"kushiro, udewa",bracelet,,N1
+1764,妃,ヒ,hi,きさき,kisaki,"queen, princess",,N1
+1765,舶,ハク,haku,,,"liner, ship",,N1
+1766,餓,ガ,ga,う(える),u(eru),"starve, hungry, thirst",,N1
+1767,腎,ジン,jin,,,kidney,,N1
+1768,窮,キュウ、 キョウ,"kyuu, kyou",きわ(める),kiwa(meru),"hard up, destitute, suffer, perplexed, cornered",,N1
+1769,掌,ショウ,shou,てのひら、 たなごころ,"tenohira, tanagokoro","manipulate, rule, administer, conduct, palm of hand",,N1
+1770,麗,レイ,rei,うるわ(しい)、 うら(らか),"uruwa(shii), ura(raka)","lovely, beautiful, graceful, resplendent",,N1
+1771,綾,リン,rin,あや,aya,"design, figured cloth, twill",,N1
+1772,臭,シュウ,shuu,くさ(い)、 -くさ(い)、 にお(う),"kusa(i), -kusa(i), nio(u)","stinking, ill-smelling, suspicious looking, odor, savor, fragrance, be fragrant",,N1
+1773,釜,フ,fu,かま,kama,"kettle, cauldron, iron pot",,N1
+1774,悦,エツ,etsu,よろこ(ぶ),yoroko(bu),"ecstasy, joy, rapture",,N1
+1775,刃,ジン、 ニン,"jin, nin",は、 やいば、 き(る),"ha, yaiba, ki(ru)","blade, sword, edge",,N1
+1776,縛,バク,baku,しば(る),shiba(ru),"truss, arrest, bind, tie, restrain",,N1
+1777,暦,レキ、 リャク,"reki, ryaku",こよみ,koyomi,"calendar, almanac",,N1
+1778,宜,ギ,gi,よろ(しい),yoro(shii),"best regards, good",,N1
+1779,盲,モウ,mou,めくら,mekura,"blind, blind man, ignoramus",,N1
+1780,粋,スイ,sui,いき,iki,"chic, style, purity, essence, pith, cream, elite, choice",,N1
+1781,辱,ジョク,joku,はずかし(める),hazukashi(meru),"embarrass, humiliate, shame",,N1
+1782,毅,キ、 ギ,"ki, gi",つよ(い),tsuyo(i),strong,,N1
+1783,轄,カツ,katsu,くさび,kusabi,"control, wedge",,N1
+1784,猿,エン,en,さる,saru,monkey,,N1
+1785,弦,ゲン,gen,つる,tsuru,"bowstring, chord, hypotenuse",,N1
+1786,嶌,トウ,tou,しま,shima,island,,N1
+1787,稔,ネン、 ジン、 ニン,"nen, jin, nin",みの(る)、 みのり,"mino(ru), minori","harvest, ripen",,N1
+1788,窒,チツ,chitsu,,,"plug up, obstruct",,N1
+1789,炊,スイ,sui,た(く)、 -だ(き),"ta(ku), -da(ki)","cook, boil",,N1
+1790,洪,コウ,kou,,,"deluge, flood, vast",,N1
+1791,摂,セツ、 ショウ,"setsu, shou",おさ(める)、 かね(る)、 と(る),"osa(meru), kane(ru), to(ru)","vicarious, surrogate, act in addition to, take in, absorb",,N1
+1792,飽,ホウ,hou,あ(きる)、 あ(かす)、 あ(く),"a(kiru), a(kasu), a(ku)","sated, tired of, bored, satiate",,N1
+1793,函,カン,kan,はこ、 い(れる),"hako, i(reru)",box (archaic),,N1
+1794,冗,ジョウ,jou,,,"superfluous, uselessness",,N1
+1795,桃,トウ,tou,もも,momo,peach,,N1
+1796,狩,シュ,shu,か(る)、 か(り)、 -が(り),"ka(ru), ka(ri), -ga(ri)","hunt, raid, gather",,N1
+1797,朱,シュ,shu,あけ,ake,"vermilion, cinnabar, scarlet, red, bloody",,N1
+1798,渦,カ,ka,うず,uzu,"whirlpool, eddy, vortex",,N1
+1799,紳,シン,shin,,,"sire, good belt, gentleman",,N1
+1800,枢,スウ、 シュ,"suu, shu",とぼそ、 からくり,"toboso, karakuri","hinge, pivot, door, center of things",,N1
+1801,碑,ヒ,hi,いしぶみ,ishibumi,"tombstone, monument",,N1
+1802,鍛,タン,tan,きた(える),kita(eru),"forge, discipline, train",,N1
+1803,刀,トウ,tou,かたな、 そり,"katana, sori","sword, saber, knife",,N1
+1804,鼓,コ,ko,つづみ,tsudzumi,"drum, beat, rouse, muster",,N1
+1805,裸,ラ,ra,はだか,hadaka,"naked, nude, uncovered, partially clothed",,N1
+1806,鴨,オウ,ou,かも、 あひる,"kamo, ahiru","wild duck, easy mark",,N1
+1807,猶,ユウ、 ユ,"yuu, yu",なお,nao,"furthermore, still, yet",,N1
+1808,塊,カイ、 ケ,"kai, ke",かたまり、 つちくれ,"katamari, tsuchikure","clod, lump, chunk, clot, mass",,N1
+1809,旋,セン,sen,め(ぐる)、 いばり,"mu(guru), ibari","rotation, go around",,N1
+1810,弓,キュウ,kyuu,ゆみ,yumi,"bow, bow (archery, violin)",,N1
+1811,幣,ヘイ,hei,ぬさ,nusa,"cash, bad habit, humble prefix, gift",,N1
+1812,膜,マク,maku,,,membrane,,N1
+1813,扇,セン,sen,おうぎ,ougi,"fan, folding fan",,N1
+1814,脇,キョウ,kyou,わき、 わけ,"waki, wake","armpit, the other way, another place, flank, supporting role",,N1
+1815,腸,チョウ,chou,はらわた、 わた,"harawata, wata","intestines, guts, bowels, viscera",,N1
+1816,槽,ソウ,sou,ふね,fune,"vat, tub, tank",,N1
+1817,鍋,カ,ka,なべ,nabe,"pot, pan, kettle",,N1
+1818,慈,ジ,ji,いつく(しむ),itsuku(shimu),mercy,,N1
+1819,樋,トウ,tou,ひ、 とい,"hi, toi","water pipe, gutter, downspout, conduit",,N1
+1820,楊,ヨウ,you,やなぎ,yanagi,willow,,N1
+1821,伐,バツ、 ハツ、 カ、 ボチ,"batsu, hatsu, ka, bochi",き(る)、 そむ(く)、 う(つ),"ki(ru), somu(ku), u(tsu)","fell, strike, attack, punish",,N1
+1822,駿,シュン、 スン,"shun, sun",すぐ(れる),sugu(reru),"a good horse, speed, a fast person",,N1
+1823,漬,シ,shi,つ(ける)、 -づけ,"tsu(keru), -dzuke","pickling, soak, moisten, steep",,N1
+1824,糾,キュウ,kyuu,ただ(す),tada(su),"twist, ask, investigate, verify",,N1
+1825,亮,リョウ,ryou,あきらか,akiraka,"clear, help",,N1
+1826,墳,フン,fun,,,"tomb, mound",,N1
+1827,坪,ヘイ,hei,つぼ,tsubo,"two-mat area, approx. thirty-six sq ft",,N1
+1828,紺,コン,kon,,,"dark blue, navy",,N1
+1829,慌,コウ,kou,あわ(てる)、 あわ(ただしい),"awa(teru), awa(tadashii)","disconcerted, be confused, lose one's head",,N1
+1830,娯,ゴ,go,,,"recreation, pleasure",,N1
+1831,吾,ゴ,go,われ、 わが-、 あ-,"ware, waga-, a-","I, my, our, one's own",,N1
+1832,椿,チン、 チュン,"chin, chun",つばき,tsubaki,camellia,,N1
+1833,舌,ゼツ,zetsu,した,shita,"tongue, reed, clapper",,N1
+1834,羅,ラ,ra,うすもの,usumono,"gauze, thin silk, Rome, arrange, spread out",,N1
+1835,峡,キョウ、 コウ,"kyou, kou",はざま,hazama,"gorge, ravine",,N1
+1836,俸,ホウ,hou,,,"stipend, salary",,N1
+1837,厘,リン,rin,,,"rin, 1/10 sen, 1/10 bu",,N1
+1838,峰,ホウ,hou,みね、 ね,"mine, ne","summit, peak",,N1
+1839,圭,ケイ、 ケ,"kei, ke",,,"square jewel, corner, angle, edge",,N1
+1840,醸,ジョウ,jou,かも(す),kamo(su),"brew, cause",,N1
+1841,蓮,レン,ren,はす、 はちす,"hasu, hachisu",lotus,,N1
+1842,弔,チョウ,chou,とむら(う)、 とぶら(う),"tomura(u), tobura(u)","condolences, mourning, funeral",,N1
+1843,乙,オツ、 イツ,"otsu, itsu",おと-、 きのと,"oto-, kinoto","the latter, duplicate, strange, witty, fishhook radical (no. 5)",,N1
+1844,倶,グ、 ク,"gu, ku",とも(に),tomo(ni),"both, together, alike",,N1
+1845,汁,ジュウ,juu,しる、 -しる、 つゆ,"shiru, -shiru, tsuyu","soup, juice, broth, sap, gravy, pus",,N1
+1846,尼,ニ,ni,あま,ama,nun,,N1
+1847,遍,ヘン,hen,あまね(く),amane(ku),"everywhere, times, widely, generally",,N1
+1848,堺,カイ,kai,さかい,sakai,world,,N1
+1849,衡,コウ,kou,,,"equilibrium, measuring rod, scale",,N1
+1850,呆,ホウ,hou,ぼ(ける)、 あき(れる)、 おろか,"bo(keru), aki(reru), oroka","be amazed, disgusted, shocked",,N1
+1851,薫,クン,kun,かお(る),kao(ru),"send forth fragrance, fragrant, be scented, smoke (tobacco)",,N1
+1852,瓦,ガ,ga,かわら、 ぐらむ,"kawara, guramu","tile, gram",,N1
+1853,猟,リョウ,ryou,かり、 か(る),"kari, ka(ru)","game-hunting, shooting, game, bag",,N1
+1854,羊,ヨウ,you,ひつじ,hitsuji,sheep,,N1
+1855,窪,ワ、 ア,"wa, a",くぼ(む),kubo(mu),"depression, cave in, sink, become hollow",,N1
+1856,款,カン,kan,,,"goodwill, article, section, friendship, collusion",,N1
+1857,閲,エツ,etsu,けみ(する),kemi(suru),"review, inspection, revision",,N1
+1858,雀,ジャク、 ジャン、 サク、 シャク,"jaku, jan, saku, shaku",すずめ,suzume,sparrow,,N1
+1859,偵,テイ,tei,,,spy,,N1
+1860,喝,カツ,katsu,,,"hoarse, scold",,N1
+1861,敢,カン,kan,あ(えて),a(ete),"daring, brave, bold, sad, tragic, pitiful",,N1
+1862,畠,はたけ、 はた,"hatake, hata",,,"field, farm, garden, (kokuji)",,N1
+1863,胎,タイ,tai,,,"womb, uterus",,N1
+1864,酵,コウ,kou,,,fermentation,,N1
+1865,憤,フン,fun,いきどお(る),ikidoo(ru),"aroused, resent, be indignant, anger",,N1
+1866,豚,トン,ton,ぶた,buta,"pork, pig",,N1
+1867,遮,シャ,sha,さえぎ(る),saegi(ru),"intercept, interrupt, obstruct",,N1
+1868,扉,ヒ,hi,とびら,tobira,"front door, title page, front page",,N1
+1869,硫,リュウ,ryuu,,,sulphur,,N1
+1870,赦,シャ,sha,ゆる(す),yuru(su),"pardon, forgiveness",,N1
+1871,挫,ザ、 サ,"za, sa",くじ(く),kuji(ku),"crush, break, sprain, discourage",,N1
+1872,窃,セツ,setsu,ぬす(む)、 ひそ(か),"nusu(mu), hiso(ka)","stealth, steal, secret, private, hushed",,N1
+1873,泡,ホウ,hou,あわ,awa,"bubbles, foam, suds, froth",,N1
+1874,瑞,ズイ、 スイ,"zui, sui",みず-、 しるし,"mizu-, shirushi",congratulations,,N1
+1875,又,ユウ,yuu,また、 また-、 また(の-),"mata, mata-, mata(no-)","or again, furthermore, on the other hand",,N1
+1876,慨,ガイ,gai,なげ(く),nage(ku),"rue, be sad, sigh, lament",,N1
+1877,紡,ボウ,bou,つむ(ぐ),tsumu(gu),spinning,,N1
+1878,恨,コン,kon,うら(む)、 うら(めしい),"ura(mu), ura(meshii)","regret, bear a grudge, resentment, malice, hatred",,N1
+1879,肪,ボウ,bou,,,"obese, fat",,N1
+1880,扶,フ,fu,たす(ける),tasu(keru),"aid, help, assist",,N1
+1881,戯,ギ、 ゲ,"gi, ge",たわむ(れる)、 ざ(れる)、 じゃ(れる),"tawamu(reru), za(reru), ja(reru)","frolic, play, sport",,N1
+1882,伍,ゴ,go,いつつ,itsutsu,"five, five-man squad, file, line",,N1
+1883,忌,キ,ki,い(む)、 い(み)、 い(まわしい),"i(mu), i(mi), i(mawashii)","mourning, abhor, detestable, death anniversary",,N1
+1884,濁,ダク、 ジョク,"daku, joku",にご(る),nigo(ru),"voiced, uncleanness, wrong, nigori, impurity",,N1
+1885,奔,ホン,hon,はし(る),hashi(ru),"run, bustle",,N1
+1886,斗,ト、 トウ,"to, tou",,,"Big Dipper, ten sho (vol), sake dipper, dots and cross radical (no. 68)",,N1
+1887,蘭,ラン、 ラ,"ran, ra",,,"orchid, Holland",,N1
+1888,蒲,ホ、 ボ、 フ、 ブ,"ho, bo, fu, bu",がま、 かば、 かま,"gama, kaba, kama","bullrush, flag, cattail",,N1
+1889,迅,ジン,jin,,,"swift, fast",,N1
+1890,肖,ショウ,shou,あやか(る),ayaka(ru),resemblance,,N1
+1891,鉢,ハチ、 ハツ,"hachi, hatsu",,,"bowl, rice tub, pot, crown",,N1
+1892,朽,キュウ,kyuu,く(ちる),ku(chiru),"decay, rot, remain in seclusion",,N1
+1893,殻,カク、 コク、 バイ,"kaku, koku, bai",から、 がら,"kara, gara","husk, nut shell",,N1
+1894,享,キョウ、 コウ,"kyou, kou",う(ける),u(keru),"enjoy, receive, undergo, answer (phone), take, get, catch",,N1
+1895,秦,シン,shin,はた,hata,"Manchu dynasty, name given to naturalized foreigners",,N1
+1896,茅,ボウ、 ミョウ,"bou, myou",かや、 ちがや,"kaya, chigaya",miscanthus reed,,N1
+1897,藩,ハン,han,,,"clan, enclosure",,N1
+1898,沙,サ、 シャ,"sa, sha",すな、 よなげる,"suna, yonageru",sand,,N1
+1899,輔,ホ、 フ,"ho, fu",たす(ける),tasu(keru),help,,N1
+1900,媒,バイ,bai,なこうど,nakoudo,"mediator, go-between",,N1
+1901,鶏,ケイ,kei,にわとり、 とり,"niwatori, tori",chicken,,N1
+1902,禅,ゼン、 セン,"zen, sen",しずか、 ゆず(る),"shizuka, yuzu(ru)","Zen, silent meditation",,N1
+1903,嘱,ショク,shoku,しょく(する)、 たの(む),"shoku(suru), tano(mu)","entrust, request, send a message",,N1
+1904,胴,ドウ,dou,,,"trunk, torso, hull (ship), hub of wheel",,N1
+1905,粕,ハク,haku,かす,kasu,"scrap, waste",,N1
+1906,冨,フ、 フウ,"fu, fuu",と(む)、 とみ,"to(mu), tomi","enrich, wealthy, abundant",,N1
+1907,迭,テツ,tetsu,,,"transfer, alternation",,N1
+1908,挿,ソウ,sou,さ(す)、 はさ(む),"sa(su), hasa(mu)","insert, put in, graft, wear (sword)",,N1
+1909,湘,ショウ,shou,,,"name of Chinese river, the Sagami river",,N1
+1910,嵐,ラン,ran,あらし,arashi,"storm, tempest",,N1
+1911,椎,ツイ、 スイ,"tsui, sui",つち、 う(つ),"tsuchi, u(tsu)","chinquapin, mallet, spine",,N1
+1912,灘,タン、 ダン,"tan, dan",なだ、 せ,"nada, se",open sea,,N1
+1913,堰,エン,en,せき、 せ(く),"seki, se(ku)","dam, prevent, stop up",,N1
+1914,獅,シ,shi,しし,shishi,lion,,N1
+1915,姜,キョウ、 ガ,"kyou, ga",こう,kou,"Chinese surname, ginger",,N1
+1916,絹,ケン,ken,きぬ,kinu,silk,,N1
+1917,陪,バイ,bai,,,"obeisance, follow, accompany, attend on",,N1
+1918,剖,ボウ,bou,,,divide,,N1
+1919,譜,フ,fu,,,"musical score, music, note, staff, table, genealogy",,N1
+1920,郁,イク,iku,,,"cultural progress, perfume",,N1
+1921,悠,ユウ,yuu,,,"permanence, distant, long time, leisure",,N1
+1922,淑,シュク,shuku,しと(やか),shito(yaka),"graceful, gentle, pure",,N1
+1923,帆,ハン,han,ほ,ho,sail,,N1
+1924,暁,ギョウ、 キョウ,"gyou, kyou",あかつき、 さと(る),"akatsuki, sato(ru)","daybreak, dawn, in the event",,N1
+1925,鷲,シュウ、 ジュ,"shuu, ju",わし,washi,eagle,,N1
+1926,傑,ケツ,ketsu,すぐ(れる),sugu(reru),"greatness, excellence",,N1
+1927,楠,ナン、 ダン、 ゼン、 ネン,"nan, dan, zen, nen",くす、 くすのき,"kusu, kusunoki",camphor tree,,N1
+1928,笛,テキ,teki,ふえ,fue,"flute, clarinet, pipe, whistle, bagpipe, piccolo",,N1
+1929,芥,カイ、 ケ,"kai, ke",からし、 ごみ、 あくた,"karashi, gomi, akuta","mustard, rape, dust, trash, rubbish",,N1
+1930,其,キ、 ギ、 ゴ,"ki, gi, go",それ、 その,"sore, sono",that,,N1
+1931,玲,レイ,rei,,,sound of jewels,,N1
+1932,奴,ド,do,やつ、 やっこ,"yatsu, yakko","guy, slave, manservant, fellow",,N1
+1933,錠,ジョウ,jou,,,"lock, fetters, shackles",,N1
+1934,拳,ケン、 ゲン,"ken, gen",こぶし,kobushi,fist,,N1
+1935,翔,ショウ,shou,かけ(る)、 と(ぶ),"kake(ru), to(bu)","soar, fly",,N1
+1936,遷,セン,sen,うつ(る)、 みやこがえ,"utsu(ru), miyakogae","transition, move, change",,N1
+1937,拙,セツ,setsu,つたな(い),tsutana(i),"bungling, clumsy, unskillful",,N1
+1938,侍,ジ、 シ,"ji, shi",さむらい、 はべ(る),"samu(rai), habe(ru)","waiter, samurai, wait upon, serve",,N1
+1939,尺,シャク、 セキ,"shaku, seki",さし,sashi,"shaku, Japanese foot, measure, scale, rule",,N1
+1940,峠,とうげ,touge,,,"mountain peak, mountain pass, climax, crest, (kokuji)",,N1
+1941,篤,トク,toku,あつ(い),atsu(i),"fervent, kind, cordial, serious, deliberate",,N1
+1942,肇,チョウ、 ジョウ、 トウ,"chou, jou, tou",はじ(める)、 はじめ,"haji(meru), hajime",beginning,,N1
+1943,渇,カツ,katsu,かわ(く),kawa(ku),"thirst, dry up, parch",,N1
+1944,榎,カ,ka,えのき,enoki,"lotus tree, nettle tree, hackberry",,N1
+1945,劉,リュウ、 ル,"ryuu, ru",ころ(す),koro(su),"weapon of war, logging axe, kill en masse, peeling (paint off a wall, etc), sparse, faded",,N1
+1946,幡,マン、 ハン、 バン、 ホン,"man, han, ban, hon",はた,hata,flag,,N1
+1947,諏,シュ、 ス,"shu, su",そう、 はか(る),"sou, haka(ru)",consult,,N1
+1948,叔,シュク,shuku,,,"uncle, youth",,N1
+1949,雌,シ,shi,め-、 めす、 めん,"me-, mesu, men","feminine, female",,N1
+1950,亨,コウ、 キョウ、 ホウ,"kou, kyou, hou",とお(る),too(ru),"pass through, go smoothly",,N1
+1951,堪,カン、 タン,"kan, tan",た(える)、 たま(る)、 こら(える)、 こた(える),"ta(eru), tama(ru), kora(eru), kota(eru)","withstand, endure, support, resist",,N1
+1952,叙,ジョ,jo,つい(ず)、 ついで,"tsui(zu), tsuide","confer, relate, narrate, describe",,N1
+1953,酢,サク,saku,す,su,"vinegar, sour, acid, tart",,N1
+1954,吟,ギン,gin,,,"versify, singing, recital",,N1
+1955,逓,テイ,tei,かわ(る)、 たがいに,"kawa(ru), tagaini","relay, in turn, sending",,N1
+1956,痕,コン,kon,あと,ato,"mark, foot print",,N1
+1957,嶺,レイ、 リョウ,"rei, ryou",みね,mine,"peak, summit",,N1
+1958,袖,シュウ,shuu,そで,sode,"sleeve, wing (building), extension, give cold shoulder",,N1
+1959,甚,ジン,jin,はなは(だ)、 はなは(だしい),"hanaha(da), hanaha(dashii)","tremendously, very, great, exceedingly",,N1
+1960,喬,キョウ,kyou,たか(い),taka(i),"high, boasting",,N1
+1961,崔,ガイ、 サイ、 スイ,"gai, sai, sui",がけ,gake,"cliff, bluff, precipice",,N1
+1962,妖,ヨウ,you,あや(しい)、 なま(めく)、 わざわ(い),"aya(shii), nama(meku), wazawa(i)","attractive, bewitching, calamity",,N1
+1963,琵,ビ、 ヒ,"bi, hi",,,"glissando on strings, lute",,N1
+1964,琶,ハ、 ベ、 ワ,"ha, be, wa",,,lute,,N1
+1965,聯,レン,ren,つら(なる)、 つら(ねる),"tsura(naru), tsura(neru)","party, gang, clique",,N1
+1966,蘇,ソ、 ス,"so, su",よみがえ(る),yomigae(ru),"be resuscitated, revived, perilla, shiso",,N1
+1967,闇,アン、 オン,"an, on",やみ、 くら(い),"yami, kura(i)","get dark, gloom, disorder",,N1
+1968,崇,スウ,suu,あが(める),aga(meru),"adore, respect, revere, worship",,N1
+1969,漆,シツ,shitsu,うるし,urushi,"lacquer, varnish, seven",,N1
+1970,岬,コウ,kou,みさき,misaki,"headland, cape, spit, promontory",,N1
+1971,癖,ヘキ,heki,くせ、 くせ(に),"kuse, kuse(ni)","mannerism, habit, vice, trait, fault, kink",,N1
+1972,愉,ユ,yu,たの(しい)、 たの(しむ),"tano(shii), tano(shimu)","pleasure, happy, rejoice",,N1
+1973,寅,イン,in,とら,tora,"sign of the tiger, 3-5AM, third sign of Chinese zodiac",,N1
+1974,捉,ソク、 サク,"soku, saku",とら(える),tora(eru),"catch, capture",,N1
+1975,礁,ショウ,shou,,,"reef, sunken rock",,N1
+1976,乃,ナイ、 ダイ、 ノ、 アイ,"nai, dai, no, ai",の、 すなわ(ち)、 なんじ,"no, sunawa(chi), nanji","from, possessive particle, whereupon, accordingly",,N1
+1977,洲,シュウ、 ス,"shuu, su",しま,shima,"continent, sandbar, island, country",,N1
+1978,屯,トン,ton,たむろ,tamuro,"barracks, police station, camp, ton",,N1
+1979,樽,ソン,son,たる,taru,"barrel, cask, keg",,N1
+1980,樺,カ,ka,かば、 かんば,"kaba, kanba","birch, dark red",,N1
+1981,槙,テン、 シン,"ten, shin",まき、 こずえ,"maki, kozue","twig, ornamental evergreen",,N1
+1982,薩,サツ、 サチ,"satsu, sachi",,,"salvation, Buddha",,N1
+1983,姻,イン,in,,,"matrimony, marry",,N1
+1984,巌,ガン,gan,いわ、 いわお、 けわ(しい),"iwa, iwao, kewa(shii)","rock, crag, boulder",,N1
+1985,淀,テン、 デン,"ten, den",よど(む),yodo(mu),"pool, eddy",,N1
+1986,麹,キク,kiku,こうじ,kouji,"malt, yeast",,N1
+1987,賭,ト,to,か(ける)、 かけ,"ka(keru), kake","gamble, wager, bet",,N1
+1988,擬,ギ,gi,まが(い)、 もど(き),"maga(i), modo(ki)","mimic, aim (a gun) at, nominate, imitate",,N1
+1989,塀,ヘイ、 ベイ,"hei, bei",,,"fence, wall, (kokuji)",,N1
+1990,唇,シン,shin,くちびる,kuchibiru,lips,,N1
+1991,睦,ボク、 モク,"boku, moku",むつ(まじい)、 むつ(む)、 むつ(ぶ),"mutsu(majii), mutsu(mu), mutsu(bu)","intimate, friendly, harmonious",,N1
+1992,閑,カン,kan,,,leisure,,N1
+1993,胡,ウ、 コ、 ゴ,"u, ko, go",なんぞ,nanzo,"barbarian, foreign",,N1
+1994,幽,ユウ,yuu,ふか(い)、 かす(か)、 くら(い)、 しろ(い),"fuka(i), kasu(ka), kura(i), shiro(i)","seclude, confine to a room, deep, profound, secluded, faint, dark, tranquil, calm",,N1
+1995,峻,シュン,shun,けわ(しい)、 たか(い),"kewa(shii), taka(i)","high, steep",,N1
+1996,曹,ソウ、 ゾウ,"sou, zou",,,"office, official, comrade, fellow",,N1
+1997,哨,ショウ,shou,みはり,mihari,"scout, sentinel",,N1
+1998,詠,エイ,ei,よ(む)、 うた(う),"yo(mu), uta(u)","recitation, poem, song, composing",,N1
+1999,炒,ソウ、 ショウ,"sou, shou",い(る)、 いた(める),"i(ru), ita(meru)","broil, parch, roast, fry",,N1
+2000,屏,ヘイ、 ビョウ,"hei, byou",おお(う)、 しりぞ(く)、 びょう(ぶ),"oo(u), shirizo(ku), byou(bu)","wall, fence",,N1
+2001,卑,ヒ,hi,いや(しい),iya(shii),"lowly, base, vile, vulgar, despise",,N1
+2002,侮,ブ,bu,あなど(る),anado(ru),"scorn, despise, make light of, contempt",,N1
+2003,鋳,チュウ、 イ、 シュ、 シュウ,"chuu, i, shu, shuu",い(る),i(ru),"casting, mint",,N1
+2004,抹,マツ,matsu,,,"rub, paint, erase",,N1
+2005,尉,イ、 ジョウ,"i, jou",,,"military officer, jailer, old man, rank",,N1
+2006,槻,キ,ki,つき,tsuki,Zelkova tree,,N1
+2007,隷,レイ,rei,したが(う)、 しもべ,"shitaga(u), shimobe","slave, servant, prisoner, criminal, follower",,N1
+2008,禍,カ,ka,わざわい,kazawai,"calamity, misfortune, evil, curse",,N1
+2009,蝶,チョウ,chou,,,butterfly,,N1
+2010,酪,ラク,raku,,,"dairy products, whey, broth, fruit juice",,N1
+2011,茎,ケイ、 キョウ,"kei, kyou",くき,kuki,"stalk, stem",,N1
+2012,汎,ハン、 ブ、 フウ、 ホウ、 ホン,"han, bu, fuu, hou, hon",ただよ(う)、 ひろ(い),"tadayo(u), hiro(i)",pan-,,N1
+2013,頃,ケイ、 キョウ,"kei, kyou",ころ、 ごろ、 しばら(く),"koro, goro, shibara(ku)","time, about, toward",,N1
+2014,帥,スイ,sui,,,"commander, leading troops, governor",,N1
+2015,梁,リョウ,ryou,はり、 うつばり、 うちばり、 やな、 はし,"hari, utsubari, uchibari, yana, hashi","weir, fish trap, beam, girder",,N1
+2016,逝,セイ,sei,ゆ(く)、 い(く),"yu(ku), i(ku)","departed, die",,N1
+2017,汽,キ,ki,,,"vapor, steam",,N1
+2018,謎,メイ、 ベイ,"mei, bei",なぞ,nazo,"riddle, puzzle, enigma, hint, tip",,N1
+2019,琢,タク,taku,みが(く),miga(ku),polish,,N1
+2020,箕,キ,ki,み,mi,winnowing,,N1
+2021,匿,トク,toku,かくま(う),kakuma(u),"hide, shelter, shield",,N1
+2022,爪,ソウ,sou,つめ、 つま-,"tsume, tsuma-","claw, nail, talon",,N1
+2023,芭,バ、 ハ,"ba, ha",,,banana,,N1
+2024,逗,トウ、 ズ,"tou, zu",とど(まる),todo(maru),stop,,N1
+2025,苫,セン,sen,とま,toma,rush matting,,N1
+2026,鍵,ケン,ken,かぎ,kagi,key,,N1
+2027,襟,キン,kin,えり,eri,"collar, neck, lapel, one's inner feelings",,N1
+2028,蛍,ケイ,kei,ほたる,hotaru,"lightning-bug, firefly",,N1
+2029,楢,シュウ、 ユウ,"shuu, yuu",なら,nara,oak,,N1
+2030,蕉,ショウ,shou,,,"banana, plantain",,N1
+2031,兜,トウ、 ト,"tou, to",かぶと,kabuto,"helmet, head piece",,N1
+2032,寡,カ,ka,,,"widow, minority, few",,N1
+2033,琉,リュウ、 ル,"ryuu, ru",,,"precious stone, gem, lapis lazuli",,N1
+2034,痢,リ,ri,,,diarrhea,,N1
+2035,庸,ヨウ,you,,,"commonplace, ordinary, employment",,N1
+2036,朋,ホウ,hou,とも,tomo,"companion, friend",,N1
+2037,坑,コウ,kou,,,"pit, hole",,N1
+2038,姑,コ,ko,しゅうとめ、 しゅうと、 おば、 しばらく,"shuutome, shuuto, oba, shibaraku",mother-in-law,,N1
+2039,烏,ウ、 オ,"u, o",からす、 いずくんぞ、 なんぞ,"karasu, izukunzo, nanzo","crow, raven",,N1
+2040,藍,ラン,ran,あい,ai,indigo,,N1
+2041,僑,キョウ,kyou,,,"expatriate, person living abroad, temporary home",,N1
+2042,賊,ゾク,zoku,,,"burglar, rebel, traitor, robber",,N1
+2043,搾,サク,saku,しぼ(る),shibo(ru),squeeze,,N1
+2044,奄,エン,en,おお(う)、 たちまち,"oo(u), tachimachi","cover, suffocate, obstruct",,N1
+2045,臼,キュウ、 グ,"kyuu, gu",うす、 うすづ(く),"usu, usudzu(ku)",mortar,,N1
+2046,畔,ハン,han,あぜ、 くろ、 ほとり,"aze, kuro, hotori","paddy ridge, levee",,N1
+2047,遼,リョウ,ryou,,,distant,,N1
+2048,唄,バイ,bai,うた、 うた(う),"uta, uta(u)","song, ballad",,N1
+2049,孔,コウ、 ク,"kou, ku",あな,ana,"cavity, hole, slit, very, great, exceedingly",,N1
+2050,橘,キツ,kitsu,たちばな,tachibana,mandarin orange,,N1
+2051,漱,ソウ、 シュウ、 ス,"sou, shuu, su",くちすす(ぐ)、 くちそそ(ぐ)、 うがい、 すす(ぐ),"kuchisusu(gu), kuchisoso(gu), ugai, susu(gu)","gargle, rinse mouth",,N1
+2052,呂,ロ、 リョ,"ro, ryo",せぼね,sebone,"spine, backbone",,N1
+2053,桧,カイ,kai,ひのき、 ひ,"hinoki, hi",Japanese cypress,,N1
+2054,拷,ゴウ,gou,,,"torture, beat",,N1
+2055,宋,ソウ,sou,,,"dwell, Sung dynasty",,N1
+2056,嬢,ジョウ,jou,むすめ,musume,"lass, girl, Miss, daughter",,N1
+2057,苑,エン、 オン,"en, on",その、 う(つ),"sono, u(tsu)","garden, farm, park",,N1
+2058,巽,ソン,son,たつみ,tatsumi,southeast,,N1
+2059,杜,ト、 トウ、 ズ,"to, tou, zu",もり、 ふさ(ぐ)、 やまなし,"mori, fusa(gu), yamanashi","woods, grove",,N1
+2060,渓,ケイ,kei,たに、 たにがわ,"tani, tanigawa","mountain stream, valley",,N1
+2061,翁,オウ,ou,おきな,okina,venerable old man,,N1
+2062,藝,ゲイ、 ウン,"gei, un",う(える)、 のり、 わざ,"u(eru), nori, waza","art, craft, performance, acting, trick, stunt",,N1
+2063,廉,レン,ren,,,"bargain, reason, charge, suspicion, point, account, purity",,N1
+2064,牙,ガ、 ゲ,"ga, ge",きば、 は,"kiba, ha","tusk, fang, tusk radical (no. 92)",,N1
+2065,謹,キン,kin,つつし(む),tsutsushi(mu),"discreet, reverently, humbly",,N1
+2066,瞳,ドウ、 トウ,"dou, tou",ひとみ,hitomi,pupil (of eye),,N1
+2067,湧,ユウ、 ヨウ、 ユ,"yuu, you, yu",わ(く),wa(ku),"boil, ferment, seethe, uproar, breed",,N1
+2068,欣,キン、 ゴン、 コン,"kin, gon, kon",よろこ(ぶ),yoroko(bu),"take pleasure in, rejoice",,N1
+2069,窯,ヨウ,you,かま,kama,"kiln, oven, furnace",,N1
+2070,褒,ホウ,hou,ほ(める),ho(meru),"praise, extol",,N1
+2071,醜,シュウ,shuu,みにく(い)、 しこ,"miniku(i), shiko","ugly, unclean, shame, bad looking",,N1
+2072,魏,ギ,gi,たか(い),taka(i),"high, large, Kingdom of Wei",,N1
+2073,篇,ヘン,hen,,,"volume, chapter, book, editing, compilation",,N1
+2074,升,ショウ,shou,ます,masu,"measuring box, 1.8 liter",,N1
+2075,此,シ,shi,これ、 この、 ここ,"kore, kono, koko","this, current, next, coming, last, past",,N1
+2076,峯,ホウ,hou,みね、 ね,"mine, ne","peak, summit",,N1
+2077,殉,ジュン,jun,,,"martyrdom, follow by resigning",,N1
+2078,煩,ハン、 ボン,"han, bon",わずら(う)、 うるさ(がる),"wazura(u), urusa(garu)","anxiety, trouble, worry, pain, ill, annoy, nuisance, irksome",,N1
+2079,巴,ハ,ha,ともえ、 うずまき,"tomoe, uzumaki",comma-design,,N1
+2080,禎,テイ,tei,さいわ(い),saiwa(i),"happiness, blessed, good fortune, auspicious",,N1
+2081,枕,チン、 シン,"chin, shin",まくら,makura,pillow,,N1
+2082,劾,ガイ,gai,,,"censure, criminal investigation",,N1
+2083,菩,ボ,bo,,,"kind of grass, sacred tree",,N1
+2084,堕,ダ,da,お(ちる)、 くず(す),"o(chiru), kuzu(su)","degenerate, descend to, lapse into",,N1
+2085,丼,トン、 タン、 ショウ、 セイ,"ton, tan, shou, sei",どんぶり,donburi,"bowl, bowl of food",,N1
+2086,租,ソ,so,,,"tariff, crop tax, borrowing",,N1
+2087,檜,カイ,kai,ひのき、 ひ,"hinoki, hi",Japanese cypress,,N1
+2088,稜,リョウ、 ロウ,"ryou, rou",いつ、 かど,"itsu, kado","angle, edge, corner, power, majesty",,N1
+2089,牟,ボウ、 ム,"bou, mu",,,"pupil (eye), moo (cow sound)",,N1
+2090,桟,サン、 セン,"san, sen",かけはし,kakehashi,"scaffold, cleat, frame, jetty, bolt (door)",,N1
+2091,榊,さかき,sakaki,,,"sacred Shinto tree, (kokuji)",,N1
+2092,錫,セキ、 シャク,"seki, shaku",すず、 たま(う),"suzu, tama(u)","copper, tin",,N1
+2093,荏,ジン、 ニン,"jin, nin",,,"bean, perilla, herb, soft, pliable",,N1
+2094,惧,ク、 グ,"ku, gu",おそ(れる),oso(reru),"fear, be afraid of, dread",,N1
+2095,倭,ワ、 イ,"wa, i",やまと、 したが(う),"yamato, shitaga(u)","Yamato, ancient Japan",,N1
+2096,婿,セイ,sei,むこ,muko,"bridegroom, son-in-law",,N1
+2097,慕,ボ,bo,した(う),shita(u),"pining, yearn for, love dearly, adore",,N1
+2098,廟,ビョウ、 ミョウ,"byou, myou",たまや、 みたまや、 やしろ,"tamaya, mitamaya, yashiro","mausoleum, shrine, palace",,N1
+2099,銚,チョウ、 ヨウ,"chou, you",なべ,nabe,sake bottle,,N1
+2100,斐,ヒ、 イ,"hi, i",,,"beautiful, patterned",,N1
+2101,罷,ヒ,hi,まか(り-)、 や(める),"maka(ri-), ya(meru)","quit, stop, leave, withdraw, go",,N1
+2102,矯,キョウ,kyou,た(める),ta(meru),"rectify, straighten, correct, reform, cure, control, pretend, falsify",,N1
+2103,某,ボウ,bou,それがし、 なにがし,"soregashi, nanigashi","so-and-so, one, a certain, that person",,N1
+2104,囚,シュウ,shuu,とら(われる),tora(wareru),"captured, criminal, arrest, catch",,N1
+2105,魁,カイ,kai,さきがけ、 かしら,"sakigake, kashira",charging ahead of others,,N1
+2106,薮,ソウ,sou,やぶ,yabu,"thicket, bush, underbrush, grove",,N1
+2107,虹,コウ,kou,にじ,niji,rainbow,,N1
+2108,鴻,コウ、 ゴウ,"kou, gou",おおとり、 ひしくい、 おおがり,"ootori, hishikui, oogari","large bird, wild goose, large, great, powerful, prosperous",,N1
+2109,泌,ヒツ、 ヒ,"hitsu, hi",,,"ooze, flow, soak in, penetrate, secrete",,N1
+2110,於,オ、 ヨ,"o, yo",おい(て)、 お(ける)、 ああ、 より,"oi(te), o(keru), aa, yori","at, in, on, as for",,N1
+2111,赳,キュウ,kyuu,,,strong and brave,,N1
+2112,漸,ゼン,zen,ようや(く)、 やや、 ようよ(う)、 すす(む),"youya(ku), yaya, youyo(u), susu(mu)","steadily, gradually advancing, finally, barely",,N1
+2113,逢,ホウ,hou,あ(う)、 むか(える),"a(u), muka(eru)","meeting, tryst, date, rendezvous",,N1
+2114,凧,いかのぼり、 たこ,"ikanobori, tako",,,"kite, (kokuji)",,N1
+2115,鵜,テイ、 ダイ,"tei, dai",う,u,cormorant,,N1
+2116,庵,アン,an,いおり、 いお,"iori, io","hermitage, retreat",,N1
+2117,膳,ゼン、 セン,"zen, sen",かしわ、 すす(める)、 そな(える),"kashiwa, susu(meru), sona(eru)","small low table, tray",,N1
+2118,蚊,ブン,bun,か,ka,mosquito,,N1
+2119,葵,キ,ki,あおい,aoi,hollyhock,,N1
+2120,厄,ヤク,yaku,,,"unlucky, misfortune, bad luck, disaster",,N1
+2121,藻,ソウ,sou,も,mo,"seaweed, duckweed",,N1
+2122,萬,マン、 バン,"man, ban",よろず,yorozu,"ten thousand, 10,000",,N1
+2123,禄,ロク,roku,さいわ(い)、 ふち,"saiwa(i), fuchi","fief, allowance, pension, grant, happiness",,N1
+2124,孟,モウ、 ボウ、 ミョウ,"mou, bou, myou",かしら,kashira,"chief, beginning",,N1
+2125,鴈,ガン,gan,かり、 かりがね,"kari, karigane",wild goose,,N1
+2126,狼,ロウ,rou,おおかみ,ookami,wolf,,N1
+2127,嫡,チャク、 テキ,"chaku, teki",,,"legitimate wife, direct descent (non-bastard)",,N1
+2128,呪,ジュ、 シュ、 シュウ、 ズ,"ju, shu, shuu, zu",まじな(う)、 のろ(い),"majina(u), noro(i)","spell, curse, charm, malediction",,N1
+2129,斬,ザン、 サン、 セン、 ゼン,"zan, san, sen, zen",き(る),ki(ru),"beheading, kill, murder",,N1
+2130,尖,セン,sen,とが(る)、 さき、 するど(い),"toga(ru), saki, surudo(i)","be pointed, sharp, taper, displeased, angry, edgy",,N1
+2131,翫,ガン,gan,もてあそ(ぶ),moteaso(bu),"take pleasure in, play instrument",,N1
+2132,嶽,ガク,gaku,たけ,take,peak,,N1
+2133,尭,ギョウ,gyou,たか(い),taka(i),"high, far",,N1
+2134,怨,エン、 オン、 ウン,"en, on, un",うら(む),ura(mu),"grudge, show resentment, be jealous",,N1
+2135,卿,ケイ、 キョウ,"kei, kyou",きみ,kimi,"you, lord, secretary, state minister",,N1
+2136,串,カン、 ケン、 セン,"kan, ken, sen",くし、 つらぬ(く),"kushi, tsuranu(ku)","spit, skewer",,N1
+2137,已,イ,i,や(む)、 すで(に)、 のみ、 はなはだ,"ya(mu), sude(ni), nomi, hanahada","stop, halt, previously, already, long ago",,N1
+2138,嚇,カク,kaku,おど(す),odo(su),"menacing, dignity, majesty, threaten",,N1
+2139,巳,シ,shi,み,mi,"sign of the snake or serpent, 9-11AM, sixth sign of Chinese zodiac",,N1
+2140,凸,トツ,totsu,でこ,deko,"convex, beetle brow, uneven",,N1
+2141,暢,チョウ,chou,のび(る),nobi(ru),stretch,,N1
+2142,腫,シュ、 ショウ,"shu, shou",は(れる)、 は(れ)、 は(らす)、 はれもの,"ha(reru), ha(re), ha(rasu), haremono","tumor, swelling",,N1
+2143,粟,ゾク、 ショク、 ソク,"zoku, shoku, soku",あわ、 もみ,"awa, momi",millet,,N1
+2144,燕,エン,en,つばめ、 つばくら、 つばくろ,"tsubame, tsubakura, tsubakuro",swallow (bird),,N1
+2145,韻,イン,in,,,"rhyme, elegance, tone",,N1
+2146,綴,テイ、 テツ、 テチ、 ゲツ,"tei, tetsu, techi, getsu",と(じる)、 つづ(る)、 つづり、 すみ(やか),"to(jiru), tsudzu(ru), tsudzuri, sumi(yaka)","compose, spell, write, bind (books)",,N1
+2147,埴,ショク,shoku,はに、 へな,"hani, hena",clay,,N1
+2148,霜,ソウ,sou,しも,shimo,frost,,N1
+2149,餅,ヘイ、 ヒョウ,"hei, hyou",もち、 もちい,"mochi, mochii",mochi rice cake,,N1
+2150,魯,ロ,ro,おろか,oroka,"foolish, Russia",,N1
+2151,硝,ショウ,shou,,,"nitrate, saltpeter",,N1
+2152,牡,ボ、 ボウ,"bo, bou",おす、 お-、 おん-,"osu, o-, on-",male,,N1
+2153,箸,チョ、 チャク,"cho, chaku",はし,hashi,chopsticks,,N1
+2154,勅,チョク,choku,いまし(める)、 みことのり,"imashi(meru), mikotonori",imperial order,,N1
+2155,芹,キン,kin,せり,seri,parsley,,N1
+2156,杏,キョウ、 アン、 コウ,"kyou, an, kou",あんず,anzu,apricot,,N1
+2157,迦,カ、 ケ,"ka, ke",,,(used phonetically),,N1
+2158,棺,カン,kan,,,"coffin, casket",,N1
+2159,儒,ジュ,ju,,,Confucian,,N1
+2160,鳳,ホウ、 フウ,"hou, fuu",,,male mythical bird,,N1
+2161,馨,ケイ、 キョウ,"kei, kyou",かお(る)、 かおり,"kao(ru), kaori","fragrant, balmy, favourable",,N1
+2162,斑,ハン,han,ふ、 まだら,"fu, madara","spot, blemish, speck, patches",,N1
+2163,蔭,イン、 オン,"in, on",かげ,kage,"shade, shadow, backing assistance",,N1
+2164,焉,エン,en,いずく(んぞ)、 ここに、 これ,"izuku(nzo), kokoni, kore","how, why, then",,N1
+2165,慧,ケイ、 エ,"kei, e",さとい,satoi,wise,,N1
+2166,祇,ギ、 キ、 シ,"gi, ki, shi",くにつかみ、 ただ、 まさに,"kunitsukami, tada, masani","national or local god, peaceful, great",,N1
+2167,摯,シ,shi,いた(る)、 つか(む)、 にえ,"ita(ru), tsuka(mu), nie","gift, seriousness",,N1
+2168,愁,シュウ,shuu,うれ(える)、 うれ(い),"ure(eru), ure(i)","distress, grieve, lament, be anxious",,N1
+2169,鷺,ロ,ro,さぎ,sagi,heron,,N1
+2170,楼,ロウ,rou,たかどの,takadono,"watchtower, lookout, high building",,N1
+2171,彬,ヒン、 フン,"hin, fun",うるわ(しい)、 あき(らか),"uruwa(shii), aki(raka)","refined, gentle",,N1
+2172,袴,コ、 ク,"ko, ku",はかま、 ずぼん,"hakama, zubon",men's formal divided skirt,,N1
+2173,匡,キョウ、 オウ,"kyou, ou",すく(う)、 ただ(す),"suku(u), tada(su)","correct, save, assist",,N1
+2174,眉,ビ、 ミ,"bi, mi",まゆ,mayu,eyebrow,,N1
+2175,苅,ガイ、 カイ,"gai, kai",か(る),ka(ru),cutting (grass),,N1
+2176,讃,サン,san,ほ(める)、 たた(える),"ho(meru), tata(eru)","praise, title on a picture",,N1
+2177,尹,イン,in,おさ、 ただ(す),"osa, tada(su)",an official rank,,N1
+2178,欽,キン、 コン,"kin, kon",つつし(む),tsutsushi(mu),"respect, revere, long for",,N1
+2179,薪,シン,shin,たきぎ、 まき,"takigi, maki","fuel, firewood, kindling",,N1
+2180,湛,タン、 チン、 ジン、 セン,"tan, chin, jin, sen",しず(む)、 たた(える),"shizu(mu), tata(eru)","fill, wear (a smile), clear, pure, dense, deep",,N1
+2181,堆,タイ、 ツイ,"tai, tsui",うずたか(い),uzutaka(i),piled high,,N1
+2182,狐,コ,ko,きつね,kitsune,fox,,N1
+2183,褐,カツ,katsu,,,"brown, woollen kimono",,N1
+2184,鴎,オウ,ou,かもめ,kamome,seagull,,N1
+2185,瀋,シン,shin,,,"juice, broth",,N1
+2186,挺,チョウ、 テイ,"chou, tei",ぬ(く),nu(ku),"bravely volunteer, counter for guns, inksticks, palanquins",,N1
+2187,賜,シ,shi,たまわ(る)、 たま(う)、 たも(う),"tamawa(ru), tama(u), tamo(u)","grant, gift, boon, results",,N1
+2188,嵯,サ、 シ,"sa, shi",,,"steep, craggy, rugged",,N1
+2189,雁,ガン,gan,かり、 かりがね,"kari, karigane",wild goose,,N1
+2190,佃,テン、 デン,"ten, den",つくだ,tsukuda,cultivated rice field,,N1
+2191,綜,ソウ,sou,おさ(める)、 す(べる),"osa(meru), su(beru)","rule, synthesize",,N1
+2192,繕,ゼン,zen,つくろ(う),tsukuro(u),"darning, repair, mend, trim, tidy up, adjust",,N1
+2193,狛,ハク,haku,こま,koma,"archaic part of Korea, lion-dog shrine guards",,N1
+2194,壷,コ,ko,つぼ,tsubo,"jar, pot, hinge knuckle, one's aim",,N1
+2195,橿,キョウ,kyou,かし、 もちのき,"kashi, mochinoki",oak,,N1
+2196,栓,セン,sen,,,"plug, bolt, cork, bung, stopper",,N1
+2197,翠,スイ,sui,かわせみ、 みどり,"kawasemi, midori","green, kingfisher",,N1
+2198,鮎,デン、 ネン,"den, nen",あゆ、 なまず,"ayu, namazu","freshwater trout, smelt",,N1
+2199,芯,シン,shin,,,wick,,N1
+2200,蜜,ミツ、 ビツ,"mitsu, bitsu",,,"honey, nectar, molasses",,N1
+2201,播,ハ、 バン、 ハン,"ha, ban, han",ま(く),ma(ku),"plant, sow",,N1
+2202,榛,シン、 ハン,"shin, han",はしばみ、 はり,"hashibami, hari","hazelnut, filbert",,N1
+2203,凹,オウ,ou,くぼ(む)、 へこ(む)、 ぼこ,"kubo(mu), heko(mu), boko","concave, hollow, sunken",,N1
+2204,艶,エン,en,つや、 なま(めかしい)、 あで(やか)、 つや(めく),"tsuya, nama(mekashii), ade(yaka), tsuya(meku)","glossy, luster, glaze, polish, charm, colorful, captivating",,N1
+2205,帖,チョウ、 ジョウ,"chou, jou",かきもの,kakimono,"quire (of paper), bundle of seaweed, counter for screens, notebook",,N1
+2206,桶,ヨウ、 トウ,"you, tou",おけ,oke,"tub, bucket",,N1
+2207,惣,ソウ,sou,すべ(て),sube(te),all,,N1
+2208,股,コ,ko,また、 もも,"mata, momo","thigh, crotch",,N1
+2209,匂,にお(う)、 にお(い)、 にお(わせる),"nio(u), nio(i), nio(waseru)",,,"fragrant, stink, glow, insinuate, (kokuji)",,N1
+2210,鞍,アン,an,くら,kura,saddle,,N1
+2211,蔦,チョウ,chou,つた,tsuta,"vine, ivy",,N1
+2212,玩,ガン,gan,もちあそ(ぶ)、 もてあそ(ぶ),"mochiaso(bu), moteaso(bu)","play, take pleasure in, trifle with, make sport of",,N1
+2213,萱,ケン,ken,かや、 かんぞう,"kaya, kanzou",miscanthus reed,,N1
+2214,梯,テイ、 タイ,"tei, tai",はしご,hashigo,"ladder, stairs, insatiable drinking",,N1
+2215,雫,ダ,da,しずく,shizuku,"drop, trickle, dripping, (kokuji)",,N1
+2216,絆,ハン,han,きずな、 ほだ(す)、 つな(ぐ),"kizuna, hoda(su), tsuna(gu)","bonds, fetters",,N1
+2217,錬,レン,ren,ね(る),ne(ru),"tempering, refine, drill, train, polish",,N1
+2218,湊,ソウ,sou,みなと、 あつ(まる),"minato, atsu(maru)","port, harbor",,N1
+2219,蜂,ホウ,hou,はち,hachi,"bee, wasp, hornet",,N1
+2220,隼,シュン、 ジュン,"shun, jun",はやぶさ,hayabusa,falcon,,N1
+2221,舵,ダ、 タ,"da, ta",かじ,kaji,"rudder, helm, wheel",,N1
+2222,渚,ショ,sho,なぎさ,nagisa,"strand, beach, shore",,N1
+2223,珂,カ,ka,,,jewel,,N1
+2224,煥,カン,kan,あきらか,akiraka,shine,,N1
+2225,衷,チュウ,chuu,,,"inmost, heart, mind, inside",,N1
+2226,逐,チク,chiku,,,"pursue, drive away, chase, accomplish, attain, commit",,N1
+2227,斥,セキ,seki,しりぞ(ける),shirizo(keru),"reject, retreat, recede, withdraw, repel, repulse",,N1
+2228,稀,キ、 ケ,"ki, ke",まれ、 まばら,"mare, mabara","rare, phenomenal, dilute (acid)",,N1
+2229,癌,ガン,gan,,,"cancer, cancerous evil",,N1
+2230,峨,ガ,ga,けわ(しい),kewa(shii),high mountain,,N1
+2231,嘘,キョ、 コ,"kyo, ko",うそ、 ふ(く),"uso, fu(ku)","lie, falsehood",,N1
+2232,旛,ヘン、 ハン,"hen, han",はた,hata,flag,,N1
+2233,篭,ロウ、 ル,"rou, ru",かご、 こ(める)、 こも(る)、 こ(む),"kago, ko(meru), komo(ru), ko(mu)","seclude oneself, cage, coop, implied",,N1
+2234,芙,フ,fu,,,"lotus, Mt Fuji",,N1
+2235,詔,ショウ,shou,みことのり,mikotonori,imperial edict,,N1
+2236,皐,コウ,kou,さつき,satsuki,"swamp, shore, fifth month",,N1
+2237,雛,スウ、 ス、 ジュ,"suu, su, ju",ひな、 ひよこ,"hina, hiyoko","chick, squab, duckling, doll",,N1
+2238,娼,ショウ,shou,あそびめ,asobime,prostitute,,N1
+2239,篆,テン,ten,,,seal-style characters,,N1
+2240,鮫,コウ,kou,さめ、 みずち,"same, mizuchi",shark,,N1
+2241,椅,イ,i,,,chair,,N1
+2242,惟,イ、 ユイ,"i, yui",おも(んみる)、 これ、 おも(うに),"omo(nmiru), kore, omo(uni)","consider, reflect, think",,N1
+2243,牌,ハイ,hai,ぱい、 ふだ,"pai, fuda","label, signboard, medal, mahjong tiles",,N1
+2244,宕,トウ,tou,すぎる,sugiru,cave,,N1
+2245,喧,ケン,ken,やかま(しい)、 かまびす(しい),"yakama(shii), kamabisu(shii)","noisy, boisterous",,N1
+2246,佑,ユウ、 ウ,"yuu, u",たす(ける),tasu(keru),"help, assist",,N1
+2247,蒋,ショウ、 ソウ,"shou, sou",まこも、 はげ(ます),"makomo, hage(masu)",reed,,N1
+2248,樟,ショウ,shou,くす,kusu,camphor,,N1
+2249,耀,ヨウ,you,かがや(く)、 ひかり,"kagaya(ku), hikari","shine, sparkle, gleam, twinkle",,N1
+2250,黛,タイ,tai,まゆずみ,mayuzumi,blackened eyebrows,,N1
+2251,叱,シツ、 シチ、 カ,"shitsu, shichi, ka",しか(る),shika(ru),"scold, reprove",,N1
+2252,櫛,シツ,shitsu,くし、 くしけず(る),"kushi, kushikezu(ru)",comb,,N1
+2253,渥,アク,aku,あつ(い)、 うるお(う),"atsu(i), uruo(u)","kindness, moisten",,N1
+2254,挨,アイ,ai,ひら(く),hira(ku),"approach, draw near, push open",,N1
+2255,憧,ショウ、 トウ、 ドウ,"shou, tou, dou",あこが(れる),akoga(reru),"yearn after, long for, aspire to, admire, adore",,N1
+2256,濡,ジュ、 ニュ,"ju, nyu",ぬれ(る)、 うるお(い),"nure(ru), uruo(i)","get wet, damp, make love",,N1
+2257,槍,ソウ、 ショウ,"sou, shou",やり,yari,"spear, lance, javelin",,N1
+2258,宵,ショウ,shou,よい,yoi,"wee hours, evening, early night",,N1
+2259,襄,ジョウ、 ショウ,"jou, shou",はら(う),hara(u),"rise, raise",,N1
+2260,妄,モウ、 ボウ,"mou, bou",みだ(りに),mida(rini),"delusion, unnecessarily, without authority, reckless",,N1
+2261,惇,シュン、 ジュン、 トン,"shun, jun, ton",あつ(い),atsu(i),"sincere, kind, considerate",,N1
+2262,蛋,タン,tan,,,"barbarian, egg",,N1
+2263,脩,シュウ,shuu,おさ(める)、 なが(い)、 ほじし,"osa(meru), naga(i), hojishi",dried meat,,N1
+2264,笘,セン、 チョウ,"sen, chou",,,"whip, cane, wooden writing slate",,N1
+2265,宍,ニク、 ジク,"niku, jiku",しし,shishi,"muscles, meat",,N1
+2266,甫,ホ、 フ,"ho, fu",はじ(めて),haji(mete),"for the first time, not until",,N1
+2267,酌,シャク,shaku,く(む),ku(mu),"bar-tending, serving sake, the host, draw (water), ladle, scoop, pump",,N1
+2268,蚕,サン、 テン,"san, ten",かいこ、 こ,"kaiko, ko",silkworm,,N1
+2269,壕,コウ、 ゴウ,"kou, gou",ほり,hori,"trench, dugout, air raid shelter",,N1
+2270,嬉,キ,ki,うれ(しい)、 たの(しむ),"ure(shii), tano(shimu)","glad, pleased, rejoice",,N1
+2271,囃,サツ、 ソウ,"satsu, sou",はや(す)、 はやし,"haya(su), hayashi","play (music), accompany, beat time, banter, jeer, applaud",,N1
+2272,蒼,ソウ,sou,あお(い),ao(i),"blue, pale",,N1
+2273,餌,ジ、 ニ,"ji, ni",え、 えば、 えさ、 もち,"e, eba, esa, mochi","food, bait, prey, tempting profit",,N1
+2274,簗,リョウ,ryou,やな,yana,"weir, fish trap, (kokuji)",,N1
+2275,峙,ジ,ji,そばだ(つ),sobada(tsu),"tower, soar",,N1
+2276,粥,イク、 シュク、 ジュク,"iku, shuku, juku",かゆ、 かい、 ひさ(ぐ),"kayu, kai, hisa(gu)",rice gruel,,N1
+2277,舘,カン,kan,やかた、 たて,"yakata, tate","mansion, large building, palace",,N1
+2278,銕,テツ,tetsu,くろがね,kurogane,"iron, strong, solid, firm",,N1
+2279,鄒,スウ、 シュ、 シュウ,"suu, shu, shuu",,,place name,,N1
+2280,蜷,ケン,ken,にな,nina,an edible river snail,,N1
+2281,暉,キ,ki,かが(やく),kaga(yaku),"shine, light",,N1
+2282,捧,ホウ,hou,ささ(げる),sasa(geru),"lift up, give, offer, consecrate, sacrifice, dedicate",,N1
+2283,頒,ハン,han,わ(かつ)、 わ(ける),"wa(katsu), wa(keru)","distribute, disseminate, partition, understand",,N1
+2284,只,シ,shi,ただ,tada,"only, free, in addition",,N1
+2285,肢,シ,shi,,,"limb, arms & legs",,N1
+2286,箏,ソウ、 ショウ,"sou, shou",こと,koto,a koto,,N1
+2287,檀,ダン、 タン,"dan, tan",まゆみ,mayumi,"cedar, sandalwood, spindle tree",,N1
+2288,鵠,コク、 コウ,"koku, kou",くぐい、 まと,"kugui, mato",swan,,N1
+2289,凱,ガイ、 カイ,"gai, kai",かちどき、 やわらぐ,"kachidoki, yawaragu",victory song,,N1
+2290,彗,スイ、 エ、 ケイ、 セイ,"sui, e, kei, sei",ほうき,houki,comet,,N1
+2291,謄,トウ,tou,,,"mimeograph, copy",,N1
+2292,諌,カン,kan,いさ(め),isa(me),"admonish, dissuade",,N1
+2293,樫,かし,kashi,,,"evergreen oak, (kokuji)",,N1
+2294,噂,ソン,son,うわさ,uwasa,"rumor, gossip, hearsay",,N1
+2295,脊,セキ,seki,せ、 せい,"se, sei","stature, height, spine",,N1
+2296,牝,ヒン,hin,めす、 め-、 めん,"mesu, me-, men",female,,N1
+2297,梓,シ,shi,あずさ,azusa,"catalpa tree, woodblock printing",,N1
+2298,洛,ラク,raku,,,"Kyoto, the capital",,N1
+2299,醍,ダイ、 タイ、 テイ,"dai, tai, tei",,,"whey, good Buddhist teaching",,N1
+2300,砦,サイ,sai,とりで,toride,"fort, stronghold, entrenchments",,N1
+2301,丑,チュウ,chuu,うし,ushi,"sign of the ox or cow, 1-3AM, second sign of Chinese zodiac",,N1
+2302,笏,コツ,kotsu,しゃく,shaku,"mace, baton, scepter",,N1
+2303,蕨,ケツ,ketsu,わらび,warabi,"bracken, fernbrake",,N1
+2304,噺,はなし,hanashi,,,"talk, (kokuji)",,N1
+2305,抒,ジョ、 ショ,"jo, sho",く(む)、 の(べる),"ku(mu), no(beru)","tell, 10**24",,N1
+2306,嗣,シ,shi,,,"heir, succeed",,N1
+2307,隈,ワイ、 エ,"wai, e",くま、 すみ,"kuma, sumi","corner, nook, recess",,N1
+2308,叶,キョウ,kyou,かな(える)、 かな(う),"kana(eru), kana(u)","grant, answer",,N1
+2309,凄,セイ、 サイ,"sei, sai",さむ(い)、 すご(い)、 すさ(まじい),"samu(i), sugo(i), susa(majii)","uncanny, weird, threatening, horrible",,N1
+2310,汐,セキ,seki,しお、 うしお、 せい,"shio, ushio, sei","eventide, tide, salt water, opportunity",,N1
+2311,絢,ケン,ken,,,brilliant fabric design,,N1
+2312,叩,コウ,kou,たた(く)、 はた(く)、 すぎ,"tata(ku), hata(ku), sugi","strike, beat, kow tow, hit, thrash, criticize",,N1
+2313,嫉,シツ,shitsu,そね(む)、 ねた(む)、 にく(む),"sone(mu), neta(mu), niku(mu)","jealous, envy",,N1
+2314,朔,サク,saku,ついたち,tsuitachi,"conjunction (astronomy), first day of month, north",,N1
+2315,蔡,サイ,sai,,,type of tortoise used for divination,,N1
+2316,膝,シツ,shitsu,ひざ,hiza,"knee, lap",,N1
+2317,鍾,ショウ、 シュ,"shou, shu",あつ(める)、 さかずき、 かね,"atsu(meru), sakazuki, kane","spindle, gather, collect",,N1
+2318,仇,キュウ、 グ,"kyuu, gu",あだ、 あた、 かたき、 つれあい,"ada, ata, kataki, tsureai","foe, enemy, revenge, grudge, feud",,N1
+2319,伽,カ、 ガ、 キャ、 ギャ,"ka, ga, kya, gya",とぎ,togi,"nursing, attending, entertainer",,N1
+2320,夷,イ,i,えびす、 えみし、 ころ(す)、 たい(らげる),"ebisu, emishi, koro(su), tai(rageru)","barbarian, savage, Ainu",,N1
+2321,恣,シ,shi,ほしいまま,hoshiimama,"selfish, arbitrary",,N1
+2322,瞑,メイ、 ベン、 ミョウ、 ミン、 メン,"mei, ben, myou, min, men",めい(する)、 つぶ(る)、 つむ(る)、 くら(い),"mei(suru), tsubu(ru), tsumu(ru), kura(i)","sleep, dark, close eyes",,N1
+2323,畝,ボウ、 ホ、 モ、 ム,"bou, ho, mo, mu",せ、 うね,"se, une","furrow, thirty tsubo, ridge, rib",,N1
+2324,抄,ショウ,shou,,,"extract, selection, summary, copy, spread thin",,N1
+2325,杭,コウ,kou,くい,kui,"stake, post, picket",,N1
+2326,寓,グウ、 グ、 ドウ,"guu, gu, dou",ぐう(する)、 かこつ(ける)、 よ(る)、 かりずまい,"guu(suru), kakotsu(keru), yo(ru), karizumai","temporary abode, imply, suggest",,N1
+2327,麺,メン、 ベン,"men, ben",むぎこ,mugiko,"noodles, wheat flour",,N1
+2328,戴,タイ,tai,いただ(く),itada(ku),"be crowned with, live under (a ruler), receive",,N1
+2329,爽,ソウ,sou,あき(らか)、 さわ(やか)、 たがう,"aki(raka), sawa(yaka), tagau","refreshing, bracing, resonant, sweet, clear",,N1
+2330,裾,キョ、 コ,"kyo, ko",すそ,suso,"cuff, hem, foot of mountain",,N1
+2331,黎,レイ、 リ,"rei, ri",くろ(い),kuro(i),"dark, black, many",,N1
+2332,惰,ダ,da,,,"lazy, laziness",,N1
+2333,坐,ザ、 サ,"za, sa",すわ(る)、 おわす、 そぞろに、 まします,"suwa(ru), owasu, sozoroni, mashimasu",sit,,N1
+2334,鍼,シン,shin,はり、 さ(す),"hari, sa(su)",needle,,N1
+2335,蛮,バン,ban,えびす,ebisu,barbarian,,N1
+2336,塙,カク、 コウ,"kaku, kou",はなわ、 かた(い),"hanawa, kata(i)",projecting tableland or mountain,,N1
+2337,冴,ゴ、 コ,"go, ko",さ(える)、 こお(る)、 ひ(える),"sa(eru), koo(ru), hi(eru)","be clear, serene, cold, skilful",,N1
+2338,旺,オウ、 キョウ、 ゴウ,"ou, kyou, gou",かがや(き)、 うつくし(い)、 さかん,"kagaya(ki), utsukushi(i), sakan","flourishing, successful, beautiful, vigorous",,N1
+2339,葦,イ,i,あし、 よし、 しお(れる)、 しな(びる)、 しぼ(む)、 な(える),"ashi, yoshi, shio(reru), shina(biru), shibo(mu), na(eru)","reed, bullrush",,N1
+2340,礒,ギ、 ガ,"gi, ga",いそ、 いわお,"iso, iwao","rock, beach, shore",,N1
+2341,咸,カン、 ゲン,"kan, gen",,,"all, same",,N1
+2342,萌,ホウ,hou,も(える)、 きざ(す)、 めばえ,"mo(eru), kiza(su), mebae","show symptoms of, sprout, bud, malt",,N1
+2343,饗,キョウ,kyou,う(ける)、 もてな(す),"u(keru), motena(su)",banquet,,N1
+2344,歪,ワイ、 エ,"wai, e",いが(む)、 いびつ、 ひず(む)、 ゆが(む),"iga(mu), ibitsu, hizu(mu), yuga(mu)","warp, bend, strained, distort",,N1
+2345,冥,メイ、 ミョウ,"mei, myou",くら(い),kura(i),dark,,N1
+2346,偲,サイ、 シ,"sai, shi",しの(ぶ),shino(bu),"recollect, remember",,N1
+2347,壱,イチ、 イツ,"ichi, itsu",ひとつ,hitotsu,one (in documents),,N1
+2348,瑠,ル、 リュウ,"ru, ryuu",,,lapis lazuli,,N1
+2349,韮,キュウ、 ク,"kyuu, ku",にら,nira,leek,,N1
+2350,漕,ソウ,sou,こ(ぐ)、 はこ(ぶ),"ko(gu), hako(bu)","rowing, scull, paddle",,N1
+2351,杵,ショ、 ソ,"sho, so",きね,kine,wooden pestle,,N1
+2352,薔,バ、 ショウ、 ショク、 ソウ,"ba, shou, shoku, sou",みずたで,mizutade,water pepper,,N1
+2353,膠,コウ、 キョウ,"kou, kyou",にかわ、 にべ,"nikawa, nibe","glue, isinglass",,N1
+2354,允,イン,in,じょう、 まこと(に)、 ゆるす,"jou, makoto(ni), yurusu","license, sincerity, permit",,N1
+2355,眞,シン,shin,ま、 まこと,"ma, makoto","truth, reality, Buddhist sect",,N1
+2356,蒙,モウ、 ボウ,"mou, bou",こうむ(る)、 おお(う)、 くら(い),"koumu(ru), oo(u), kura(i)","ignorance, darkness, get, receive, be subjected to, sustain, Mongolia",,N1
+2357,蕃,バン、 ハン,"ban, han",,,grow luxuriously,,N1
+2358,呑,トン、 ドン,"ton, don",の(む),no(mu),drink,,N1
+2359,侯,コウ,kou,,,"marquis, lord, daimyo",,N1
+2360,碓,カク、 タイ,"kaku, tai",たし(か)、 かく(たる),"tashi(ka), kaku(taru)",pestle,,N1
+2361,茗,ミョウ、 メイ,"myou, mei",ちゃ,cha,tea,,N1
+2362,麓,ロク,roku,ふもと,fumoto,foot of a mountain,,N1
+2363,瀕,ヒン,hin,ほとり,hotori,"shore, brink, verge",,N1
+2364,蒔,シ、 ジ,"shi, ji",う(える)、 ま(く),"u(eru), ma(ku)",sow (seeds),,N1
+2365,鯉,リ,ri,こい,koi,carp,,N1
+2366,竪,ジュ,ju,たて、 た(てる)、 こども,"tate, ta(teru), kodomo","length, height, warp",,N1
+2367,弧,コ,ko,,,"arc, arch, bow",,N1
+2368,稽,ケイ,kei,かんが(える)、 とど(める),"kanga(eru), todo(meru)","think, consider",,N1
+2369,瘤,リュウ、 ル,"ryuu, ru",こぶ,kobu,"lump, swelling",,N1
+2370,澤,タク,taku,さわ、 うるお(い)、 うるお(す)、 つや,"sawa, uruo(i), uruo(su), tsuya",swamp,,N1
+2371,溥,フ、 ハク,"fu, haku",あまねし,amaneshi,far and wide,,N1
+2372,遥,ヨウ,you,はる(か),haru(ka),"far off, distant, long ago",,N1
+2373,蹴,シュク、 シュウ,"shuku, shuu",け(る),ke(ru),kick,,N1
+2374,或,ワク、 コク、 イキ,"waku, koku, iki",あ(る)、 あるい、 あるいは,"a(ru), arui, aruiwa","some, one, or, possibly, a certain",,N1
+2375,訃,フ,fu,しらせ,shirase,obituary,,N1
+2376,矩,ク,ku,かね、 かねざし、 さしがね,"kane, kanezashi, sashigane","ruler, carpenter's square",,N1
+2377,厦,カ、 サ,"ka, sa",いえ,ie,house,,N1
+2378,冤,エン,en,,,"false charge, hatred",,N1
+2379,剥,ハク、 ホク,"haku, hoku",へ(ぐ)、む(く)、 は(がれる),"he(gu), mu(ku), ha(gareru)","come off, peel, fade, discolor",,N1
+2380,舜,シュン,shun,,,"type of morning glory, rose of Sharon, althea",,N1
+2381,侠,キョウ,kyou,きゃん、 おとこだて,"kyan, otokodate","tomboy, chivalry",,N1
+2382,贅,ゼイ、 セイ,"zei, sei",いぼ,ibo,luxury,,N1
+2383,杖,ジョウ,jou,つえ,tsue,"staff, cane",,N1
+2384,蓋,ガイ、 カイ、 コウ,"gai, kai, kou",ふた、 けだ(し)、 おお(う)、 かさ、 かこう,"futa, keda(shi), oo(u), kasa, kakou","cover, lid, flap",,N1
+2385,畏,イ,i,おそ(れる)、 かしこま(る)、 かしこ、 かしこ(し),"oso(reru), kashikoma(ru), kashiko, kashiko(shi)","fear, majestic, graciously, be apprehensive",,N1
+2386,喉,コウ,kou,のど,nodo,"throat, voice",,N1
+2387,汪,オウ,ou,,,"flowing full, expanse of water, wide, deep",,N1
+2388,猷,ユウ、 ヨウ,"yuu, you",はかりごと、 はか(る),"hakarigoto, haka(ru)","plan, scheme, plot, way",,N1
+2389,瑛,エイ,ei,,,"sparkle of jewelry, crystal",,N1
+2390,搜,ソウ、 シュ、 シュウ,"sou, shu, shuu",さが(す),saga(su),"search, seek, investigate",,N1
+2391,曼,マン、 バン,"man, ban",なが(い),naga(i),"wide, beautiful",,N1
+2392,附,フ,fu,つ(ける)、 つ(く),"tsu(keru), tsu(ku)","affixed, attach, refer to, append",,N1
+2393,彪,ヒョウ、 ヒュウ,"hyou, hyuu",あや,aya,"spotted, mottled, patterned, small tiger",,N1
+2394,撚,ネン,nen,よ(る)、 よ(れる)、 より、 ひね(る),"yo(ru), yo(reru), yori, hine(ru)","twist, twine, kinky",,N1
+2395,噛,コウ、 ゴウ,"kou, gou",か(む)、 か(じる),"ka(mu), ka(jiru)","chew, bite, gnaw",,N1
+2396,卯,ボウ、 モウ,"bou, mou",う,u,"sign of the hare or rabbit, fourth sign of Chinese zodiac, 5-7AM, east",,N1
+2397,桝,ます,masu,,,"measuring box, (kokuji)",,N1
+2398,撫,ブ、 フ,"bu, fu",な(でる),na(deru),"stroke, pat, smooth down",,N1
+2399,喋,チョウ、 トウ,"chou, tou",しゃべ(る)、 ついば(む),"shabe(ru), tsuiba(mu)","talk, chat, chatter",,N1
+2400,但,タン,tan,ただ(し),tada(shi),"however, but",,N1
+2401,溢,イツ,itsu,こぼ(れる)、 あふ(れる)、 み(ちる),"kobo(reru), afu(reru), mi(chiru)","overflow, inundate, spill",,N1
+2402,闊,カツ,katsu,ひろ(い),hiro(i),wide,,N1
+2403,藏,ゾウ、 ソウ,"zou, sou",くら、 おさ(める)、 かく(れる),"kura, osa(meru), kaku(reru)","hide, own, have, possess",,N1
+2404,浙,セツ,setsu,,,name of a Chinese river,,N1
+2405,彭,ホウ,hou,,,"swelling, sound of drum",,N1
+2406,淘,トウ,tou,よな(げる),yona(geru),select,,N1
+2407,剃,テイ,tei,まい、 そ(る)、 す(る),"mai, so(ru), su(ru)",shave,,N1
+2408,揃,セン,sen,そろ(える)、 き(る),"soro(eru), ki(ru)","be complete, uniform, all present",,N1
+2409,綺,キ,ki,あや,aya,"figured cloth, beautiful",,N1
+2410,徘,ハイ,hai,さまよ(う),samayo(u),wander,,N1
+2411,巷,コウ,kou,ちまた,chimata,"fork in road, scene, arena, theater",,N1
+2412,竿,カン,kan,さお,sao,"pole, rod, scale beam, violin neck",,N1
+2413,蟹,カイ,kai,かに,kani,crab,,N1
+2414,芋,ウ,u,いも,imo,potato,,N1
+2415,袁,エン、 オン,"en, on",,,long kimono,,N1
+2416,舩,セン,sen,ふね、 ふな-,"fune, funa-","boat, ship, vessel",,N1
+2417,拭,ショク、 シキ,"shoku, shiki",ぬぐ(う)、 ふ(く),"nugu(u), fu(ku)","wipe, mop, swab",,N1
+2418,茜,セン,sen,あかね,akane,"madder, red dye, Turkey red",,N1
+2419,凌,リョウ,ryou,しの(ぐ),shino(gu),"endure, keep (rain)out, stave off, tide over, defy, slight, surpass",,N1
+2420,頬,キョウ,kyou,ほお、 ほほ,"hoo, hoho","cheeks, jaw",,N1
+2421,厨,シュウ、 ズ、 チュ、 チュウ,"shuu, zu, chu, chuu",くりや,kuriya,kitchen,,N1
+2422,犀,サイ、 セイ,"sai, sei",,,rhinoceros,,N1
+2423,簑,サ、 サイ,"sa, sai",みの,mino,a coat raincoat,,N1
+2424,皓,コウ,kou,しろ(い)、 ひか(る),"shiro(i), hika(ru)","white, clear",,N1
+2425,甦,ソ、 コウ,"so, kou",よみがえ(る),yomigae(ru),"be resuscitated, revived",,N1
+2426,洸,コウ,kou,,,sparkling water,,N1
+2427,毬,キュウ,kyuu,いが、 まり,"iga, mari","burr, ball",,N1
+2428,檄,ケキ,keki,げき(する)、 ふれぶみ,"geki(suru), furebumi","written appeal, manifesto",,N1
+2429,姚,ヨウ、 チョウ,"you, chou",うつく(しい),utsuku(shii),beautiful,,N1
+2430,蛭,シツ、 チツ,"shitsu, chitsu",ひる,hiru,leech,,N1
+2431,婆,バ,ba,ばば、 ばあ,"baba, baa","old woman, grandma, wet nurse",,N1
+2432,叢,ソウ、 ス,"sou, su",くさむら、 むら(がる)、 むら,"kusamura, mura(garu), mura","plexus, clump of bushes, thicket",,N1
+2433,椙,すぎ,sugi,,,"Japanese cedar, cryptomeria, (kokuji)",,N1
+2434,轟,ゴウ、 コウ,"gou, kou",とどろ(かす)、 とどろ(く),"todoro(kasu), todoro(ku)","roar, thunder, boom resound",,N1
+2435,贋,ガン,gan,にせ,nise,"counterfeit, forgery",,N1
+2436,洒,シャ、 ソン、 サイ、 セン、 セイ,"sha, son, sai, sen, sei",すす(ぐ)、 あら(う),"susu(gu), ara(u)","wash, sprinkle",,N1
+2437,貰,セイ、 シャ,"sei, sha",もら(う),mora(u),"get, have, obtain",,N1
+2438,儲,チョ,cho,もう(ける)、 もう(かる)、 もうけ、 たくわ(える),"mou(keru), mou(karu), mouke, takuwa(eru)","be profitable, yield profit",,N1
+2439,緋,ヒ,hi,あけ、 あか,"ake, aka","scarlet, cardinal",,N1
+2440,諜,チョウ,chou,ちょう(ずる)、 うかが(う)、 しめ(す),"chou(zuru), ukaga(u), shime(su)","spy out, reconnoiter",,N1
+2441,鯛,チョウ,chou,たい,tai,"sea bream, red snapper",,N1
+2442,蓼,シン、 リク、 リョウ,"shin, riku, ryou",たで,tade,"luxurious grass, a smartweed",,N1
+2443,甕,オウ,ou,かめ、 みか,"kame, mika","jar, jug, vat",,N1
+2444,喘,ゼン、 セン,"zen, sen",あえ(ぐ)、 せき,"ae(gu), seki","pant, gasp, breathe hard",,N1
+2445,怜,レイ、 レン、 リョウ,"rei, ren, ryou",あわ(れむ)、 さと(い),"awa(remu), sato(i)",wise,,N1
+2446,溜,リュウ,ryuu,た(まる)、 たま(る)、 したた(る),"ta(maru), tama(ru), shitata(ru)","collect, gather, be in arrears",,N1
+2447,邑,ユウ,yuu,むら,mura,"village, rural community, right village radical (no. 163)",,N1
+2448,鉾,ボウ、 ム,"bou, mu",ほこ,hoko,"halberd, arms, festival float",,N1
+2449,倣,ホウ,hou,なら(う),nara(u),"emulate, imitate",,N1
+2450,碧,ヘキ、 ヒャク,"heki, hyaku",,,"blue, green",,N1
+2451,燈,トウ,tou,ひ、 ほ-、 ともしび、 とも(す)、 あかり,"hi, ho-, tomoshibi, tomo(su), akari","lamp, light, counter for lights",,N1
+2452,諦,テイ、 タイ,"tei, tai",あきら(める)、 つまびらか、 まこと,"akira(meru), tsumabiraka, makoto","truth, clarity, abandon, give up",,N1
+2453,煎,セン,sen,せん(じる)、 い(る)、 に(る),"sen(jiru), i(ru), ni(ru)","broil, parch, roast, boil",,N1
+2454,瓜,カ、 ケ,"ka, ke",うり,uri,melon,,N1
+2455,緻,チ,chi,こまか(い),komaka(i),fine (i.e. not coarse),,N1
+2456,哺,ホ,ho,はぐく(む)、 ふく(む),"haguku(mu), fuku(mu)","nurse, suckle",,N1
+2457,槌,ツイ,tsui,つち,tsuchi,"hammer, mallet",,N1
+2458,啄,タク、 ツク、 トク,"taku, tsuku, toku",ついば(む)、 つつ(く),"tsuiba(mu), tsutsu(ku)","peck, pick up",,N1
+2459,穣,ジョウ,jou,わら、 ゆたか,"wara, yutaka","good crops, prosperity, 10**28",,N1
+2460,嗜,シ,shi,たしな(む)、 この(む),"tashina(mu), kono(mu)","like, taste, modest",,N1
+2461,偕,カイ,kai,ともに,tomoni,together,,N1
+2462,罵,バ,ba,ののし(る),nonoshi(ru),"abuse, insult",,N1
+2463,酉,ユウ,yuu,とり,tori,"west, bird, sign of the bird, 5-7PM, tenth sign of Chinese zodiac, sake radical (no. 164)",,N1
+2464,蹄,テイ,tei,ひづめ,hidzume,hoof,,N1
+2465,頚,ケイ,kei,くび,kubi,"neck, head",,N1
+2466,胚,ハイ,hai,はらみ、 はら(む),"harami, hara(mu)",embryo,,N1
+2467,牢,ロウ,rou,かた(い)、 ひとや,"kata(i), hitoya","prison, jail, hardness",,N1
+2468,糞,フン,fun,くそ,kuso,"shit, feces, excrement",,N1
+2469,悌,テイ、 ダイ,"tei, dai",,,serving our elders,,N1
+2470,吊,チョウ,chou,つ(る)、 つる(す),"tsu(ru), tsuru(su)","suspend, hang, wear (sword)",,N1
+2471,楕,ダ、 タ,"da, ta",,,ellipse,,N1
+2472,鮭,カイ、 ケイ,"kai, kei",さけ、 しゃけ、 ふぐ,"sake, shake, fugu",salmon,,N1
+2473,乞,コツ、 キツ、 キ、 キケ、 コチ,"kotsu, kitsu, ki, kike, kochi",こ(う),ko(u),"beg, invite, ask",,N1
+2474,倹,ケン,ken,つま(しい)、 つづまやか,"tsuma(shii), tsudzumayaka","frugal, economy, thrifty",,N1
+2475,嗅,キュウ,kyuu,か(ぐ),ka(gu),"smell, sniff, scent",,N1
+2476,詫,タ,ta,わび、 わび(しい)、 かこつ、 わ(びる),"wabi, wabi(shii), kakotsu, wa(biru)",apologize,,N1
+2477,鱒,ソン、 セン、 ザン,"son, sen, zan",ます,masu,salmon trout,,N1
+2478,蔑,ベツ,betsu,ないがしろ、 なみ(する)、 くらい、 さげす(む),"naigashiro, nami(suru), kurai, sagesu(mu)","ignore, despise, neglect, ridicule",,N1
+2479,轍,テツ,tetsu,わだちい、 わだち,"wadachii, wadachi","rut, wheel track",,N1
+2480,醤,ショウ,shou,ひしお,hishio,a kind of miso,,N1
+2481,惚,コツ,kotsu,ほけ(る)、 ぼ(ける)、 ほ(れる),"hoke(ru), bo(keru), ho(reru)","fall in love with, admire, grow senile",,N1
+2482,廣,コウ,kou,ひろ(い),hiro(i),"broad, wide, spacious",,N1
+2483,藁,コウ,kou,わら,wara,straw,,N1
+2484,柚,ユ、 ユウ、 ジク,"yu, yuu, jiku",ゆず,yuzu,citron,,N1
+2485,舛,ブ、 セン,"bu, sen",まい、 そむ(く),"mai, somu(ku)",dancing radical (no. 136),,N1
+2486,縞,コウ,kou,しま、 しろぎぬ,"shima, shiroginu",stripe,,N1
+2487,謳,オウ、 ウ,"ou, u",うた(う),uta(u),"extol, declare, express",,N1
+2488,杞,コ、 キ,"ko, ki",,,river willow,,N1
+2489,鱗,リン,rin,うろこ、 こけ、 こけら,"uroko, koke, kokera",scales (fish),,N1
+2490,繭,ケン,ken,まゆ、 きぬ,"mayu, kinu",cocoon,,N1
+2491,釘,テイ、 チョウ,"tei, chou",くぎ,kugi,"nail, tack, peg",,N1
+2492,弛,チ、 シ,"chi, shi",たる(む)、 たゆ(む)、 ゆる(む),"taru(mu), tayu(mu), yuru(mu)","slacken, relax",,N1
+2493,狸,リ、 ライ,"ri, rai",たぬき,tanuki,"tanuki, raccoon",,N1
+2494,壬,ニン、 ジン、 イ,"nin, jin, i",みずのえ,mizunoe,"9th calendar sign",,N1
+2495,硯,ケン、 ゲン,"ken, gen",すずり,suzuri,inkstone,,N1

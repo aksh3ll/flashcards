@@ -1,7 +1,7 @@
 /* ============================================================
    API BASE URL
    ============================================================ */
-const API_BASE = 'http://flashcards.akshell.eu/api/v1';
+const API_BASE = '/api/v1/';
 
 /* ============================================================
    INTERNATIONALISATION
@@ -173,8 +173,16 @@ const KEYS = {
   REMOTE_COLLS: 'fc_remote_colls',
 };
 
+function asCollectionArray(value) {
+  if (Array.isArray(value)) return value;
+  if (value && typeof value === 'object') {
+    if (Array.isArray(value.collections)) return value.collections;
+    if (value.id || value.name || value.sentences || value.words || value.kanjis) return [value];
+  }
+  return [];
+}
 function loadImported() {
-  try { return JSON.parse(localStorage.getItem(KEYS.IMPORTED) || '[]'); }
+  try { return asCollectionArray(JSON.parse(localStorage.getItem(KEYS.IMPORTED) || '[]')); }
   catch { return []; }
 }
 function saveImported(arr) {
@@ -191,7 +199,7 @@ function saveSRS(data) {
   if (state.auth) pushSRS(data);
 }
 function loadRemoteColls() {
-  try { return JSON.parse(localStorage.getItem(KEYS.REMOTE_COLLS) || '[]'); }
+  try { return asCollectionArray(JSON.parse(localStorage.getItem(KEYS.REMOTE_COLLS) || '[]')); }
   catch { return []; }
 }
 
@@ -260,8 +268,9 @@ async function mergeCollections() {
   //   kanjis    : kanji character, readings[], wordIds[], en, fr
   //               (kanjis are DEDUPLICATED per collection)
   // ============================================================
-  const defColls = await apiFetch('./data.json');
-  const defFiltered = defColls.filter(c => !allIds.has(c.id));
+  const defColls = await apiFetch('data.json');
+  const defList = asCollectionArray(defColls);
+  const defFiltered = defList.filter(c => !allIds.has(c.id));
   return [...defFiltered, ...impFiltered, ...remote].sort((a, b) => (a.order ?? 999) - (b.order ?? 999));
 }
 
@@ -892,7 +901,7 @@ function exportCollections(collections) {
   URL.revokeObjectURL(url);
 }
 
-async function importFile(file) {
+function importFile(file) {
   if (!file) return;
   const reader = new FileReader();
   reader.onload = e => {
@@ -915,7 +924,7 @@ async function importFile(file) {
       }
       const saved = loadImported();
       saveImported([...saved, ...fresh]);
-      state.collections = await mergeCollections();
+      state.collections = mergeCollections();
       renderHome();
       toast(i18n('imported', fresh.length));
     } catch {
