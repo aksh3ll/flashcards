@@ -43,5 +43,5 @@ func main() {
 	http.HandleFunc("/api/v1/collections", collection.GetCollectionsHandler)
 	http.HandleFunc("/api/v1/test.json", serveJsonFile)
 	serveStaticFile("/api/v1/data.json", "../front/data.json")
-    log.Fatal(http.ListenAndServeTLS(":8081", "certs/server.crt", "certs/server.key", nil))
+    log.Fatal(http.ListenAndServe("127.0.0.1:8080", nil))
 }

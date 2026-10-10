@@ -80,3 +80,8 @@ npx serve .
 # ou
 python -m http.server
 ```
+
+Build backend:
+```bash
+go build -ldflags="-s -w" -o flashcardsd main.go
+```
